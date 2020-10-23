@@ -823,3 +823,1069 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.23-08.31.20:464][848]LogAudioMixer: Display: 5: BackRight
 [2020.10.23-08.31.20:464][848]LogAudioMixer: Display: 6: SideLeft
 [2020.10.23-08.31.20:464][848]LogAudioMixer: Display: 7: SideRight
+[2020.10.23-09.10.13:956][826]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{86903f4c-4c88-47d1-80f9-2f99c200a697}.
+[2020.10.23-09.10.13:956][826]LogTemp: Resetting audio stream to device id 
+[2020.10.23-09.10.14:031][826]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.23-09.10.14:031][826]LogAudioMixer: Display: 1: FrontRight
+[2020.10.23-09.10.14:031][826]LogAudioMixer: Display: 2: FrontCenter
+[2020.10.23-09.10.14:031][826]LogAudioMixer: Display: 3: LowFrequency
+[2020.10.23-09.10.14:031][826]LogAudioMixer: Display: 4: BackLeft
+[2020.10.23-09.10.14:031][826]LogAudioMixer: Display: 5: BackRight
+[2020.10.23-09.10.14:031][826]LogAudioMixer: Display: 6: SideLeft
+[2020.10.23-09.10.14:031][826]LogAudioMixer: Display: 7: SideRight
+[2020.10.23-09.10.15:621][831]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{60978829-fd49-4880-bee9-d5bfe27d0054}.
+[2020.10.23-09.10.15:621][831]LogTemp: Resetting audio stream to device id 
+[2020.10.23-09.10.15:653][831]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.23-09.10.15:653][831]LogAudioMixer: Display: 1: FrontRight
+[2020.10.23-09.10.15:966][832]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{d13ff57f-eca9-437c-b40c-d42cf4fb4f5b}.
+[2020.10.23-09.10.15:966][832]LogTemp: Resetting audio stream to device id 
+[2020.10.23-09.10.16:208][832]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.23-09.10.16:208][832]LogAudioMixer: Display: 1: FrontRight
+[2020.10.23-09.17.17:792][147]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{d13ff57f-eca9-437c-b40c-d42cf4fb4f5b}.
+[2020.10.23-09.17.17:843][147]LogTemp: Resetting audio stream to device id 
+[2020.10.23-09.17.17:951][147]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.23-09.17.17:951][147]LogAudioMixer: Display: 1: FrontRight
+[2020.10.23-09.17.17:951][147]LogAudioMixer: Display: 2: FrontCenter
+[2020.10.23-09.17.17:951][147]LogAudioMixer: Display: 3: LowFrequency
+[2020.10.23-09.17.17:951][147]LogAudioMixer: Display: 4: BackLeft
+[2020.10.23-09.17.17:951][147]LogAudioMixer: Display: 5: BackRight
+[2020.10.23-09.17.17:951][147]LogAudioMixer: Display: 6: SideLeft
+[2020.10.23-09.17.17:951][147]LogAudioMixer: Display: 7: SideRight
+[2020.10.23-09.31.26:680][ 17]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{86903f4c-4c88-47d1-80f9-2f99c200a697}.
+[2020.10.23-09.31.26:690][ 17]LogTemp: Resetting audio stream to device id 
+[2020.10.23-09.31.26:747][ 17]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.23-09.31.26:747][ 17]LogAudioMixer: Display: 1: FrontRight
+[2020.10.23-09.31.26:747][ 17]LogAudioMixer: Display: 2: FrontCenter
+[2020.10.23-09.31.26:747][ 17]LogAudioMixer: Display: 3: LowFrequency
+[2020.10.23-09.31.26:747][ 17]LogAudioMixer: Display: 4: BackLeft
+[2020.10.23-09.31.26:747][ 17]LogAudioMixer: Display: 5: BackRight
+[2020.10.23-09.31.26:747][ 17]LogAudioMixer: Display: 6: SideLeft
+[2020.10.23-09.31.26:747][ 17]LogAudioMixer: Display: 7: SideRight
+[2020.10.23-09.31.28:467][ 38]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{60978829-fd49-4880-bee9-d5bfe27d0054}.
+[2020.10.23-09.31.28:528][ 38]LogTemp: Resetting audio stream to device id 
+[2020.10.23-09.31.28:661][ 38]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.23-09.31.28:661][ 38]LogAudioMixer: Display: 1: FrontRight
+[2020.10.23-09.31.28:972][ 44]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{d13ff57f-eca9-437c-b40c-d42cf4fb4f5b}.
+[2020.10.23-09.31.29:045][ 44]LogTemp: Resetting audio stream to device id 
+[2020.10.23-09.31.29:180][ 44]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.23-09.31.29:180][ 44]LogAudioMixer: Display: 1: FrontRight
+[2020.10.23-09.31.39:351][163]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{d13ff57f-eca9-437c-b40c-d42cf4fb4f5b}.
+[2020.10.23-09.31.39:391][163]LogTemp: Resetting audio stream to device id 
+[2020.10.23-09.31.39:507][163]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.23-09.31.39:507][163]LogAudioMixer: Display: 1: FrontRight
+[2020.10.23-09.31.39:507][163]LogAudioMixer: Display: 2: FrontCenter
+[2020.10.23-09.31.39:507][163]LogAudioMixer: Display: 3: LowFrequency
+[2020.10.23-09.31.39:507][163]LogAudioMixer: Display: 4: BackLeft
+[2020.10.23-09.31.39:507][163]LogAudioMixer: Display: 5: BackRight
+[2020.10.23-09.31.39:507][163]LogAudioMixer: Display: 6: SideLeft
+[2020.10.23-09.31.39:507][163]LogAudioMixer: Display: 7: SideRight
+[2020.10.23-09.44.09:350][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2020.10.23-09.44.09:414][824]LogSavePackage: Moving '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Saved/RestaurantLevelC5AAD9AF4CB3ED507EEE048DDAC357A3.tmp' to '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Levels/RestaurantLevel.umap'
+[2020.10.23-09.44.09:536][824]LogSavePackage: Moving '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Saved/RestaurantLevel_BuiltData25A75EA84ECF3869E77039AFBD867ADA.tmp' to '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Levels/RestaurantLevel_BuiltData.uasset'
+[2020.10.23-09.44.09:553][824]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.23-09.44.09:554][824]LogContentValidation: Display: Validating World /Game/Levels/RestaurantLevel.RestaurantLevel
+[2020.10.23-09.44.09:554][824]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/RestaurantLevel_BuiltData.RestaurantLevel_BuiltData
+[2020.10.23-09.58.16:657][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var1_LOD0_1': Can't find file.
+[2020.10.23-09.58.16:657][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var1_LOD0_1': Can't find file.
+[2020.10.23-09.58.16:657][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var2_LOD0_2': Can't find file.
+[2020.10.23-09.58.16:657][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var2_LOD0_2': Can't find file.
+[2020.10.23-09.58.16:657][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var3_LOD0_3': Can't find file.
+[2020.10.23-09.58.16:658][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var3_LOD0_3': Can't find file.
+[2020.10.23-09.58.16:658][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var4_LOD0_4': Can't find file.
+[2020.10.23-09.58.16:658][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var4_LOD0_4': Can't find file.
+[2020.10.23-09.58.16:658][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var5_LOD0_5': Can't find file.
+[2020.10.23-09.58.16:658][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var5_LOD0_5': Can't find file.
+[2020.10.23-09.58.16:658][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var6_LOD0_6': Can't find file.
+[2020.10.23-09.58.16:658][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var6_LOD0_6': Can't find file.
+[2020.10.23-09.58.16:658][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var7_LOD0_7': Can't find file.
+[2020.10.23-09.58.16:658][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var7_LOD0_7': Can't find file.
+[2020.10.23-09.58.16:658][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var8_LOD0_8': Can't find file.
+[2020.10.23-09.58.16:659][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var8_LOD0_8': Can't find file.
+[2020.10.23-09.58.16:659][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var9_LOD0_9': Can't find file.
+[2020.10.23-09.58.16:659][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var9_LOD0_9': Can't find file.
+[2020.10.23-09.58.16:673][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var1_LOD0_1': Can't find file.
+[2020.10.23-09.58.16:673][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var1_LOD0_1': Can't find file.
+[2020.10.23-09.58.16:673][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var2_LOD0_2': Can't find file.
+[2020.10.23-09.58.16:673][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var2_LOD0_2': Can't find file.
+[2020.10.23-09.58.16:673][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var3_LOD0_3': Can't find file.
+[2020.10.23-09.58.16:674][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var3_LOD0_3': Can't find file.
+[2020.10.23-09.58.16:674][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var4_LOD0_4': Can't find file.
+[2020.10.23-09.58.16:674][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var4_LOD0_4': Can't find file.
+[2020.10.23-09.58.16:674][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var5_LOD0_5': Can't find file.
+[2020.10.23-09.58.16:674][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var5_LOD0_5': Can't find file.
+[2020.10.23-09.58.16:674][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var6_LOD0_6': Can't find file.
+[2020.10.23-09.58.16:674][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var6_LOD0_6': Can't find file.
+[2020.10.23-09.58.16:674][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var7_LOD0_7': Can't find file.
+[2020.10.23-09.58.16:674][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var7_LOD0_7': Can't find file.
+[2020.10.23-09.58.16:675][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var8_LOD0_8': Can't find file.
+[2020.10.23-09.58.16:675][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var8_LOD0_8': Can't find file.
+[2020.10.23-09.58.16:675][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var9_LOD0_9': Can't find file.
+[2020.10.23-09.58.16:675][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var9_LOD0_9': Can't find file.
+[2020.10.23-09.58.16:675][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/uehjcafia_Var8_LOD0_8': Can't find file.
+[2020.10.23-09.58.16:675][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/uehjcafia_Var8_LOD0_8': Can't find file.
+[2020.10.23-09.58.16:678][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/uehjcafia_Var8_LOD0_8': Can't find file.
+[2020.10.23-09.58.16:678][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/uehjcafia_Var8_LOD0_8': Can't find file.
+[2020.10.23-09.58.16:723][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/uehjcafia_Var8_LOD0_8': Can't find file.
+[2020.10.23-09.58.16:723][950]LoadErrors: Failed to load /Game/Megascans/3D_Plants/Salt_Bulrush_00/uehjcafia_Var8_LOD0_8.uehjcafia_Var8_LOD0_8 Referenced by InstancedFoliageActor_0
+[2020.10.23-09.58.16:723][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/uehjcafia_Var8_LOD0_8': Can't find file.
+[2020.10.23-09.58.16:724][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var1_LOD0_1': Can't find file.
+[2020.10.23-09.58.16:724][950]LoadErrors: Failed to load /Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var1_LOD0_1.uehjcafia_Var1_LOD0_1 Referenced by InstancedFoliageActor_0
+[2020.10.23-09.58.16:724][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var1_LOD0_1': Can't find file.
+[2020.10.23-09.58.16:725][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var2_LOD0_2': Can't find file.
+[2020.10.23-09.58.16:725][950]LoadErrors: Failed to load /Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var2_LOD0_2.uehjcafia_Var2_LOD0_2 Referenced by InstancedFoliageActor_0
+[2020.10.23-09.58.16:725][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var2_LOD0_2': Can't find file.
+[2020.10.23-09.58.16:725][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var3_LOD0_3': Can't find file.
+[2020.10.23-09.58.16:725][950]LoadErrors: Failed to load /Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var3_LOD0_3.uehjcafia_Var3_LOD0_3 Referenced by InstancedFoliageActor_0
+[2020.10.23-09.58.16:725][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var3_LOD0_3': Can't find file.
+[2020.10.23-09.58.16:726][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var4_LOD0_4': Can't find file.
+[2020.10.23-09.58.16:726][950]LoadErrors: Failed to load /Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var4_LOD0_4.uehjcafia_Var4_LOD0_4 Referenced by InstancedFoliageActor_0
+[2020.10.23-09.58.16:726][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var4_LOD0_4': Can't find file.
+[2020.10.23-09.58.16:726][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var5_LOD0_5': Can't find file.
+[2020.10.23-09.58.16:726][950]LoadErrors: Failed to load /Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var5_LOD0_5.uehjcafia_Var5_LOD0_5 Referenced by InstancedFoliageActor_0
+[2020.10.23-09.58.16:726][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var5_LOD0_5': Can't find file.
+[2020.10.23-09.58.16:727][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var6_LOD0_6': Can't find file.
+[2020.10.23-09.58.16:727][950]LoadErrors: Failed to load /Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var6_LOD0_6.uehjcafia_Var6_LOD0_6 Referenced by InstancedFoliageActor_0
+[2020.10.23-09.58.16:727][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var6_LOD0_6': Can't find file.
+[2020.10.23-09.58.16:727][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var7_LOD0_7': Can't find file.
+[2020.10.23-09.58.16:727][950]LoadErrors: Failed to load /Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var7_LOD0_7.uehjcafia_Var7_LOD0_7 Referenced by InstancedFoliageActor_0
+[2020.10.23-09.58.16:727][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var7_LOD0_7': Can't find file.
+[2020.10.23-09.58.16:728][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var8_LOD0_8': Can't find file.
+[2020.10.23-09.58.16:728][950]LoadErrors: Failed to load /Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var8_LOD0_8.uehjcafia_Var8_LOD0_8 Referenced by InstancedFoliageActor_0
+[2020.10.23-09.58.16:728][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var8_LOD0_8': Can't find file.
+[2020.10.23-09.58.16:728][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var9_LOD0_9': Can't find file.
+[2020.10.23-09.58.16:728][950]LoadErrors: Failed to load /Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var9_LOD0_9.uehjcafia_Var9_LOD0_9 Referenced by InstancedFoliageActor_0
+[2020.10.23-09.58.16:728][950]LogLinker: Warning: While loading '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap' failed to load '/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var9_LOD0_9': Can't find file.
+[2020.10.23-09.58.16:826][950]MapCheck: Warning: InstancedFoliageActor_0 Foliage instances for a missing static mesh have been removed. 
+[2020.10.23-09.58.16:887][950]PIE: Warning: AttachTo: '/Game/Main.Main:PersistentLevel.RiverSpline_2.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2020.10.23-09.58.16:887][950]PIE: Warning: AttachTo: '/Game/Main.Main:PersistentLevel.RiverSpline_2.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2020.10.23-09.58.16:887][950]PIE: Warning: AttachTo: '/Game/Main.Main:PersistentLevel.RiverSpline_2.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2020.10.23-09.58.16:888][950]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Main.Main
+[2020.10.23-09.58.16:902][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.10.23-09.58.16:904][950]Cmd: MAP LOAD FILE="../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.23-09.58.16:904][950]LightingResults: New page: Lighting Build
+[2020.10.23-09.58.16:904][950]LoadErrors: New page: Loading map: Main.umap
+[2020.10.23-09.58.16:908][950]LogWorld: UWorld::CleanupWorld for RestaurantLevel, bSessionEnded=true, bCleanupResources=true
+[2020.10.23-09.58.16:908][950]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-09.58.16:908][950]MapCheck: New page: Map Check
+[2020.10.23-09.58.16:908][950]LightingResults: New page: Lighting Build
+[2020.10.23-09.58.16:929][950]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000218B08BA000), frame # 49950
+[2020.10.23-09.58.16:929][950]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000218B091D300), frame # 49950
+[2020.10.23-09.58.16:930][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.10.23-09.58.16:957][950]PIE: Warning: AttachTo: '/Game/Main.Main:PersistentLevel.RiverSpline_2.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2020.10.23-09.58.16:957][950]PIE: Warning: AttachTo: '/Game/Main.Main:PersistentLevel.RiverSpline_2.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2020.10.23-09.58.16:957][950]PIE: Warning: AttachTo: '/Game/Main.Main:PersistentLevel.RiverSpline_2.DefaultSceneRoot' cannot be attached to itself. Aborting.
+[2020.10.23-09.58.16:959][950]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.23-09.58.16:959][950]LogAIModule: Creating AISystem for world Main
+[2020.10.23-09.58.16:959][950]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000218B083E200), frame # 49950
+[2020.10.23-09.58.16:959][950]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000218CE92AC00), frame # 49950
+[2020.10.23-09.58.16:977][950]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.10.23-09.58.17:009][950]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.23-09.58.17:009][950]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.078ms to complete.
+[2020.10.23-09.58.17:009][950]LogFileHelpers: Loading map 'Main' took 0.105
+[2020.10.23-09.58.17:086][951]LogD3D12RHI: Creating RTPSO with 144 shaders (141 cached, 3 new) took 25.21 ms. Compile time 11.39 ms, link time 13.54 ms.
+[2020.10.23-09.58.17:242][953]LogD3D12RHI: Creating RTPSO with 146 shaders (144 cached, 2 new) took 25.76 ms. Compile time 15.61 ms, link time 9.62 ms.
+[2020.10.23-09.58.18:191][  6]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.10.23-09.58.29:218][502]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/NewLandscapeMaterial.NewLandscapeMaterial
+[2020.10.23-09.58.29:221][502]LogMaterial: Display: Missing cached shader map for material NewLandscapeMaterial, compiling. 
+[2020.10.23-09.58.29:415][502]LogMaterial: Display: Missing cached shader map for material NewLandscapeMaterial, compiling. 
+[2020.10.23-09.58.29:440][502]LogMaterial: Display: Missing cached shader map for material NewLandscapeMaterial, compiling. 
+[2020.10.23-09.58.29:470][502]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 43
+[2020.10.23-09.58.29:470][502]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 42
+[2020.10.23-09.58.29:470][502]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 41
+[2020.10.23-09.58.29:470][502]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 40
+[2020.10.23-09.58.29:470][502]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 39
+[2020.10.23-09.58.29:471][502]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 38
+[2020.10.23-09.58.29:471][502]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 37
+[2020.10.23-09.58.29:471][502]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 36
+[2020.10.23-09.58.29:471][502]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.10.23-09.58.29:477][502]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.10.23-09.58.29:482][502]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.10.23-09.58.29:486][502]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.10.23-09.58.29:491][502]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2020.10.23-09.58.29:497][502]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2020.10.23-09.58.29:501][502]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2020.10.23-09.58.29:506][502]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2020.10.23-09.58.29:510][502]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2020.10.23-09.58.29:607][502]LogSlate: Took 0.023060 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.10.23-09.58.29:815][503]LogSlate: Took 0.000361 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.10.23-09.58.30:195][525]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 71
+[2020.10.23-09.58.30:264][529]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 70
+[2020.10.23-09.58.30:413][538]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 69
+[2020.10.23-09.58.30:453][540]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 68
+[2020.10.23-09.58.30:680][554]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 67
+[2020.10.23-09.58.30:698][555]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 66
+[2020.10.23-09.58.30:796][561]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 65
+[2020.10.23-09.58.30:814][562]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 64
+[2020.10.23-09.58.30:814][562]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 63
+[2020.10.23-09.58.30:915][562]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.10.23-09.58.30:915][562]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-09.58.30:925][562]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 26
+[2020.10.23-09.58.30:970][563]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 25
+[2020.10.23-09.58.31:000][565]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 24
+[2020.10.23-09.58.31:093][569]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2020.10.23-09.58.31:178][574]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 22
+[2020.10.23-09.58.31:355][584]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 21
+[2020.10.23-09.58.31:638][599]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 20
+[2020.10.23-09.58.31:658][600]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 19
+[2020.10.23-09.58.31:713][602]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 18
+[2020.10.23-09.58.32:003][615]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 17
+[2020.10.23-09.58.32:048][617]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 16
+[2020.10.23-09.58.32:097][619]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 15
+[2020.10.23-09.58.32:139][621]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 14
+[2020.10.23-09.58.32:193][624]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2020.10.23-09.58.32:208][625]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2020.10.23-09.58.32:272][626]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 11
+[2020.10.23-09.58.32:287][626]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/NewLandscapeMaterial_Inst.NewLandscapeMaterial_Inst
+[2020.10.23-09.58.32:555][626]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 10
+[2020.10.23-09.58.32:572][626]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2020.10.23-09.58.32:632][627]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2020.10.23-09.58.32:654][627]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2020.10.23-09.58.32:714][630]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2020.10.23-09.58.32:903][640]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2020.10.23-09.58.32:951][642]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2020.10.23-09.58.33:040][647]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.10.23-09.58.33:095][650]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2020.10.23-09.58.33:152][653]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2020.10.23-09.58.35:061][751]LogSlate: Window 'NewLandscapeMaterial_Inst' being destroyed
+[2020.10.23-09.58.35:105][751]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.10.23-09.58.35:105][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-09.58.49:302][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.10.23-09.58.50:503][352]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.23-09.58.50:609][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.10.23-09.58.50:623][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2020.10.23-09.58.50:645][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.10.23-09.58.50:659][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2020.10.23-09.58.56:885][623]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.10.23-09.58.57:003][623]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 84
+[2020.10.23-09.58.57:003][623]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 74
+[2020.10.23-09.58.57:003][623]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 64
+[2020.10.23-09.58.57:003][623]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 54
+[2020.10.23-09.58.57:003][623]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 44
+[2020.10.23-09.58.57:003][623]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 34
+[2020.10.23-09.58.57:003][623]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 24
+[2020.10.23-09.58.57:003][623]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 14
+[2020.10.23-09.58.57:028][623]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/M_Landscape.M_Landscape
+[2020.10.23-09.58.57:030][623]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.10.23-09.58.57:191][623]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.10.23-09.58.57:231][623]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2020.10.23-09.58.57:273][623]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionLandscapeLayerCoords_0, compiling. 
+[2020.10.23-09.58.57:279][623]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.10.23-09.59.02:799][931]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 55
+[2020.10.23-09.59.02:868][935]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 54
+[2020.10.23-09.59.03:222][956]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 53
+[2020.10.23-09.59.03:340][963]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 52
+[2020.10.23-09.59.03:387][966]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 51
+[2020.10.23-09.59.03:423][968]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 50
+[2020.10.23-09.59.03:538][975]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 49
+[2020.10.23-09.59.03:858][994]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 48
+[2020.10.23-09.59.03:858][994]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 47
+[2020.10.23-09.59.03:924][998]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 46
+[2020.10.23-09.59.04:007][  3]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 45
+[2020.10.23-09.59.04:261][ 18]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 44
+[2020.10.23-09.59.04:325][ 22]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 43
+[2020.10.23-09.59.04:410][ 27]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 42
+[2020.10.23-09.59.04:441][ 29]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 41
+[2020.10.23-09.59.04:476][ 31]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 40
+[2020.10.23-09.59.04:476][ 31]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 39
+[2020.10.23-09.59.04:782][ 49]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 38
+[2020.10.23-09.59.04:782][ 49]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 37
+[2020.10.23-09.59.04:852][ 53]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 36
+[2020.10.23-09.59.04:968][ 60]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 35
+[2020.10.23-09.59.04:968][ 60]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 34
+[2020.10.23-09.59.05:476][ 90]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 33
+[2020.10.23-09.59.05:558][ 95]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 32
+[2020.10.23-09.59.05:574][ 96]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 31
+[2020.10.23-09.59.05:575][ 96]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 30
+[2020.10.23-09.59.06:046][124]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 29
+[2020.10.23-09.59.06:061][125]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 28
+[2020.10.23-09.59.06:061][125]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 27
+[2020.10.23-09.59.06:083][126]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 26
+[2020.10.23-09.59.06:115][128]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 25
+[2020.10.23-09.59.06:115][128]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 24
+[2020.10.23-09.59.06:115][128]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 23
+[2020.10.23-09.59.06:391][139]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.10.23-09.59.06:391][139]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-09.59.06:484][140]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 14
+[2020.10.23-09.59.06:488][140]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2020.10.23-09.59.06:552][142]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2020.10.23-09.59.06:584][144]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.10.23-09.59.06:635][146]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2020.10.23-09.59.06:709][149]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2020.10.23-09.59.06:976][161]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2020.10.23-09.59.06:976][161]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2020.10.23-09.59.06:991][162]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2020.10.23-09.59.07:035][164]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2020.10.23-09.59.07:232][174]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2020.10.23-09.59.07:255][175]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.10.23-09.59.07:295][177]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2020.10.23-09.59.07:350][180]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2020.10.23-09.59.09:475][285]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.10.23-09.59.10:706][285]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.23-09.59.10:803][285]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.10.23-09.59.10:824][285]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2020.10.23-09.59.10:838][285]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.10.23-09.59.32:902][261]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Sidewalk_base.Sidewalk_base
+[2020.10.23-09.59.33:189][261]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.10.23-09.59.33:189][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-09.59.33:552][261]LogRenderer: Reallocating scene render targets to support 1432x960 Format 10 NumSamples 1 (Frame:1).
+[2020.10.23-09.59.40:648][479]LogSlate: Window 'Sidewalk_base' being destroyed
+[2020.10.23-09.59.40:679][479]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.10.23-09.59.40:679][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-09.59.41:922][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.10.23-09.59.43:423][532]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.23-09.59.43:539][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.10.23-09.59.43:562][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.10.23-09.59.43:576][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2020.10.23-09.59.57:551][181]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/NewLandscapeMaterial.NewLandscapeMaterial
+[2020.10.23-09.59.57:554][181]LogMaterial: Display: Missing cached shader map for material NewLandscapeMaterial, compiling. 
+[2020.10.23-09.59.57:657][181]LogMaterial: Display: Missing cached shader map for material NewLandscapeMaterial, compiling. 
+[2020.10.23-09.59.57:682][181]LogMaterial: Display: Missing cached shader map for material NewLandscapeMaterial, compiling. 
+[2020.10.23-09.59.57:708][181]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 43
+[2020.10.23-09.59.57:708][181]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 42
+[2020.10.23-09.59.57:708][181]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 41
+[2020.10.23-09.59.57:708][181]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 40
+[2020.10.23-09.59.57:708][181]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 39
+[2020.10.23-09.59.57:708][181]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 38
+[2020.10.23-09.59.57:708][181]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 37
+[2020.10.23-09.59.57:708][181]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 36
+[2020.10.23-09.59.57:712][181]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.10.23-09.59.57:716][181]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.10.23-09.59.57:719][181]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.10.23-09.59.57:724][181]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.10.23-09.59.57:729][181]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2020.10.23-09.59.57:733][181]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2020.10.23-09.59.57:737][181]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2020.10.23-09.59.57:741][181]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2020.10.23-09.59.57:747][181]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2020.10.23-09.59.58:313][196]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 71
+[2020.10.23-09.59.58:413][202]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 70
+[2020.10.23-09.59.58:464][205]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 69
+[2020.10.23-09.59.58:622][214]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 68
+[2020.10.23-09.59.58:803][225]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 67
+[2020.10.23-09.59.58:803][225]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 66
+[2020.10.23-09.59.58:841][227]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 65
+[2020.10.23-09.59.58:926][231]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 64
+[2020.10.23-09.59.59:070][239]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 63
+[2020.10.23-09.59.59:188][246]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 62
+[2020.10.23-09.59.59:205][247]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 61
+[2020.10.23-09.59.59:222][248]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 60
+[2020.10.23-09.59.59:273][251]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 59
+[2020.10.23-09.59.59:416][259]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 58
+[2020.10.23-09.59.59:416][259]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 57
+[2020.10.23-09.59.59:747][278]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 56
+[2020.10.23-09.59.59:886][286]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 55
+[2020.10.23-09.59.59:984][292]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 54
+[2020.10.23-10.00.00:000][293]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 53
+[2020.10.23-10.00.00:137][301]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 52
+[2020.10.23-10.00.00:227][306]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 51
+[2020.10.23-10.00.00:245][307]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 50
+[2020.10.23-10.00.00:297][310]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 49
+[2020.10.23-10.00.00:349][313]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 48
+[2020.10.23-10.00.00:368][314]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 47
+[2020.10.23-10.00.00:520][323]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 46
+[2020.10.23-10.00.00:573][326]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 45
+[2020.10.23-10.00.00:715][334]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 44
+[2020.10.23-10.00.00:715][334]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 43
+[2020.10.23-10.00.00:834][339]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 42
+[2020.10.23-10.00.00:962][346]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 41
+[2020.10.23-10.00.00:983][347]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 40
+[2020.10.23-10.00.01:161][357]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 39
+[2020.10.23-10.00.01:195][359]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 38
+[2020.10.23-10.00.01:212][360]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 37
+[2020.10.23-10.00.01:230][361]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 36
+[2020.10.23-10.00.01:313][366]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 35
+[2020.10.23-10.00.01:486][376]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 34
+[2020.10.23-10.00.01:538][379]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 33
+[2020.10.23-10.00.01:572][381]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 32
+[2020.10.23-10.00.01:832][396]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 31
+[2020.10.23-10.00.01:850][397]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 30
+[2020.10.23-10.00.01:850][397]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 29
+[2020.10.23-10.00.02:054][409]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 28
+[2020.10.23-10.00.02:084][410]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 27
+[2020.10.23-10.00.02:184][415]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 26
+[2020.10.23-10.00.02:218][417]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 25
+[2020.10.23-10.00.02:270][420]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 24
+[2020.10.23-10.00.02:531][435]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 23
+[2020.10.23-10.00.02:706][445]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 22
+[2020.10.23-10.00.02:708][445]MaterialEditorStats: Base pass shader: 116 instructions
+[2020.10.23-10.00.02:708][445]MaterialEditorStats: Base pass shader with Surface Lightmap: 102 instructions
+[2020.10.23-10.00.02:708][445]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 116 instructions
+[2020.10.23-10.00.02:708][445]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.10.23-10.00.02:708][445]MaterialEditorStats: Texture samplers: 2/16
+[2020.10.23-10.00.02:708][445]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2020.10.23-10.00.02:708][445]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.10.23-10.00.02:723][445]LogSlate: Took 0.000328 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.10.23-10.00.02:747][447]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 21
+[2020.10.23-10.00.02:767][448]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 20
+[2020.10.23-10.00.02:805][450]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 19
+[2020.10.23-10.00.02:908][455]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 18
+[2020.10.23-10.00.02:927][456]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2020.10.23-10.00.03:036][462]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2020.10.23-10.00.03:301][472]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.10.23-10.00.03:301][472]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-10.00.07:268][661]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/WateryMud_MasterMaterial.WateryMud_MasterMaterial
+[2020.10.23-10.00.07:271][661]LogMaterial: Display: Missing cached shader map for material WateryMud_MasterMaterial, compiling. 
+[2020.10.23-10.00.07:374][661]LogMaterial: Display: Missing cached shader map for material WateryMud_MasterMaterial, compiling. 
+[2020.10.23-10.00.07:394][661]LogMaterial: Display: Missing cached shader map for material WateryMud_MasterMaterial, compiling. 
+[2020.10.23-10.00.07:419][661]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.10.23-10.00.07:422][661]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2020.10.23-10.00.07:426][661]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 33
+[2020.10.23-10.00.07:426][661]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 32
+[2020.10.23-10.00.07:426][661]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 31
+[2020.10.23-10.00.07:426][661]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 30
+[2020.10.23-10.00.07:426][661]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 29
+[2020.10.23-10.00.07:426][661]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 28
+[2020.10.23-10.00.07:426][661]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 27
+[2020.10.23-10.00.07:426][661]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 26
+[2020.10.23-10.00.07:426][661]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2020.10.23-10.00.07:430][661]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2020.10.23-10.00.07:434][661]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2020.10.23-10.00.07:439][661]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2020.10.23-10.00.07:445][661]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2020.10.23-10.00.07:451][661]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_5, compiling. 
+[2020.10.23-10.00.07:457][661]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_6, compiling. 
+[2020.10.23-10.00.07:463][661]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_7, compiling. 
+[2020.10.23-10.00.07:469][661]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_8, compiling. 
+[2020.10.23-10.00.07:475][661]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_9, compiling. 
+[2020.10.23-10.00.07:482][661]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_10, compiling. 
+[2020.10.23-10.00.07:808][662]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 73
+[2020.10.23-10.00.07:954][663]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 72
+[2020.10.23-10.00.07:954][663]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 71
+[2020.10.23-10.00.07:955][663]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 70
+[2020.10.23-10.00.08:085][664]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 69
+[2020.10.23-10.00.08:220][665]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 68
+[2020.10.23-10.00.08:251][667]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 67
+[2020.10.23-10.00.08:484][681]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 66
+[2020.10.23-10.00.08:518][683]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 65
+[2020.10.23-10.00.08:617][689]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 64
+[2020.10.23-10.00.08:634][690]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 63
+[2020.10.23-10.00.08:906][706]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 62
+[2020.10.23-10.00.09:008][712]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 61
+[2020.10.23-10.00.09:040][714]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 60
+[2020.10.23-10.00.09:140][720]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 59
+[2020.10.23-10.00.09:173][722]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 58
+[2020.10.23-10.00.09:359][733]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 57
+[2020.10.23-10.00.09:428][737]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 56
+[2020.10.23-10.00.09:531][743]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 55
+[2020.10.23-10.00.09:531][743]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 54
+[2020.10.23-10.00.09:597][747]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 53
+[2020.10.23-10.00.09:726][754]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 52
+[2020.10.23-10.00.09:843][761]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 51
+[2020.10.23-10.00.10:027][772]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 50
+[2020.10.23-10.00.10:059][774]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 49
+[2020.10.23-10.00.10:094][776]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 48
+[2020.10.23-10.00.10:094][776]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 47
+[2020.10.23-10.00.10:131][778]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 46
+[2020.10.23-10.00.10:431][794]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 45
+[2020.10.23-10.00.10:581][801]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 44
+[2020.10.23-10.00.10:629][803]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 43
+[2020.10.23-10.00.10:664][803]MaterialEditorStats: Base pass shader: 150 instructions
+[2020.10.23-10.00.10:664][803]MaterialEditorStats: Base pass shader with Surface Lightmap: 183 instructions
+[2020.10.23-10.00.10:664][803]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 230 instructions
+[2020.10.23-10.00.10:664][803]MaterialEditorStats: Base pass vertex shader: 47 instructions
+[2020.10.23-10.00.10:664][803]MaterialEditorStats: Texture samplers: 13/16
+[2020.10.23-10.00.10:664][803]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2020.10.23-10.00.10:664][803]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.10.23-10.00.10:792][809]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 42
+[2020.10.23-10.00.10:863][812]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 41
+[2020.10.23-10.00.10:911][814]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 40
+[2020.10.23-10.00.10:911][814]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 39
+[2020.10.23-10.00.10:953][816]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 38
+[2020.10.23-10.00.11:092][823]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 37
+[2020.10.23-10.00.11:177][823]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.10.23-10.00.11:177][823]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-10.00.17:152][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2020.10.23-10.00.19:178][ 93]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.23-10.00.19:291][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.10.23-10.00.19:313][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.10.23-10.00.19:327][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.10.23-10.00.20:287][140]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/WateryMud_MasterMaterial.WateryMud_MasterMaterial
+[2020.10.23-10.00.20:290][140]LogMaterial: Display: Missing cached shader map for material WateryMud_MasterMaterial, compiling. 
+[2020.10.23-10.00.20:388][140]LogMaterial: Display: Missing cached shader map for material WateryMud_MasterMaterial, compiling. 
+[2020.10.23-10.00.20:406][140]LogMaterial: Display: Missing cached shader map for material WateryMud_MasterMaterial, compiling. 
+[2020.10.23-10.00.20:431][140]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 29
+[2020.10.23-10.00.20:431][140]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 28
+[2020.10.23-10.00.20:431][140]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 27
+[2020.10.23-10.00.20:431][140]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 26
+[2020.10.23-10.00.20:431][140]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 25
+[2020.10.23-10.00.20:431][140]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 24
+[2020.10.23-10.00.20:431][140]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 23
+[2020.10.23-10.00.20:431][140]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 22
+[2020.10.23-10.00.20:435][140]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.10.23-10.00.20:440][140]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2020.10.23-10.00.20:445][140]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2020.10.23-10.00.20:451][140]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2020.10.23-10.00.20:457][140]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2020.10.23-10.00.20:463][140]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2020.10.23-10.00.20:469][140]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2020.10.23-10.00.20:476][140]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_5, compiling. 
+[2020.10.23-10.00.20:482][140]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_6, compiling. 
+[2020.10.23-10.00.20:489][140]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_7, compiling. 
+[2020.10.23-10.00.20:496][140]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_8, compiling. 
+[2020.10.23-10.00.20:502][140]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_9, compiling. 
+[2020.10.23-10.00.20:508][140]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_10, compiling. 
+[2020.10.23-10.00.20:821][141]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 73
+[2020.10.23-10.00.20:963][142]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 72
+[2020.10.23-10.00.20:963][142]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 71
+[2020.10.23-10.00.21:078][143]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 70
+[2020.10.23-10.00.21:078][143]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 69
+[2020.10.23-10.00.21:207][145]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 68
+[2020.10.23-10.00.21:290][150]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 67
+[2020.10.23-10.00.21:496][162]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 66
+[2020.10.23-10.00.21:530][164]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 65
+[2020.10.23-10.00.21:647][171]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 64
+[2020.10.23-10.00.21:664][172]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 63
+[2020.10.23-10.00.21:930][188]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 62
+[2020.10.23-10.00.22:032][194]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 61
+[2020.10.23-10.00.22:151][201]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 60
+[2020.10.23-10.00.22:151][201]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 59
+[2020.10.23-10.00.22:218][205]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 58
+[2020.10.23-10.00.22:449][218]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 57
+[2020.10.23-10.00.22:468][219]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 56
+[2020.10.23-10.00.22:487][220]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 55
+[2020.10.23-10.00.22:688][230]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 54
+[2020.10.23-10.00.22:710][231]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 53
+[2020.10.23-10.00.22:815][235]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 52
+[2020.10.23-10.00.22:995][244]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 51
+[2020.10.23-10.00.23:014][245]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 50
+[2020.10.23-10.00.23:071][248]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 49
+[2020.10.23-10.00.23:170][253]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 48
+[2020.10.23-10.00.23:293][259]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 47
+[2020.10.23-10.00.23:440][266]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 46
+[2020.10.23-10.00.23:461][267]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 45
+[2020.10.23-10.00.23:523][270]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 44
+[2020.10.23-10.00.23:741][279]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 43
+[2020.10.23-10.00.23:743][279]MaterialEditorStats: Base pass shader: 150 instructions
+[2020.10.23-10.00.23:743][279]MaterialEditorStats: Base pass shader with Surface Lightmap: 183 instructions
+[2020.10.23-10.00.23:743][279]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 230 instructions
+[2020.10.23-10.00.23:743][279]MaterialEditorStats: Base pass vertex shader: 47 instructions
+[2020.10.23-10.00.23:743][279]MaterialEditorStats: Texture samplers: 13/16
+[2020.10.23-10.00.23:743][279]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2020.10.23-10.00.23:743][279]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.10.23-10.00.23:766][280]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 42
+[2020.10.23-10.00.23:766][280]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 41
+[2020.10.23-10.00.23:791][281]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 40
+[2020.10.23-10.00.23:981][290]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 39
+[2020.10.23-10.00.24:112][296]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 38
+[2020.10.23-10.00.24:297][304]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 37
+[2020.10.23-10.00.24:319][305]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 36
+[2020.10.23-10.00.24:404][309]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 35
+[2020.10.23-10.00.24:424][310]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 34
+[2020.10.23-10.00.24:518][315]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 33
+[2020.10.23-10.00.24:594][319]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 32
+[2020.10.23-10.00.24:840][329]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 31
+[2020.10.23-10.00.24:930][333]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 30
+[2020.10.23-10.00.24:973][335]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 29
+[2020.10.23-10.00.25:146][343]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 28
+[2020.10.23-10.00.25:186][345]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 27
+[2020.10.23-10.00.25:186][345]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 26
+[2020.10.23-10.00.25:295][346]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.10.23-10.00.25:295][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-10.00.27:090][439]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/WateryMud_MasterMaterial.WateryMud_MasterMaterial
+[2020.10.23-10.00.27:094][439]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.10.23-10.00.27:194][439]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.10.23-10.00.27:215][439]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.10.23-10.00.27:239][439]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.10.23-10.00.27:243][439]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 29
+[2020.10.23-10.00.27:243][439]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 28
+[2020.10.23-10.00.27:244][439]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 27
+[2020.10.23-10.00.27:244][439]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 26
+[2020.10.23-10.00.27:244][439]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 25
+[2020.10.23-10.00.27:244][439]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 24
+[2020.10.23-10.00.27:244][439]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 23
+[2020.10.23-10.00.27:244][439]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 22
+[2020.10.23-10.00.27:244][439]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2020.10.23-10.00.27:248][439]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2020.10.23-10.00.27:252][439]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2020.10.23-10.00.27:257][439]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2020.10.23-10.00.27:263][439]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2020.10.23-10.00.27:269][439]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2020.10.23-10.00.27:275][439]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_5, compiling. 
+[2020.10.23-10.00.27:281][439]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_6, compiling. 
+[2020.10.23-10.00.27:287][439]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_7, compiling. 
+[2020.10.23-10.00.27:294][439]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_8, compiling. 
+[2020.10.23-10.00.27:300][439]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_9, compiling. 
+[2020.10.23-10.00.27:307][439]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_10, compiling. 
+[2020.10.23-10.00.27:631][440]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 73
+[2020.10.23-10.00.27:779][441]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 72
+[2020.10.23-10.00.27:779][441]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 71
+[2020.10.23-10.00.27:893][442]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 70
+[2020.10.23-10.00.27:893][442]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 69
+[2020.10.23-10.00.28:010][443]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 68
+[2020.10.23-10.00.28:040][445]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 67
+[2020.10.23-10.00.28:239][457]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 66
+[2020.10.23-10.00.28:325][462]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 65
+[2020.10.23-10.00.28:357][464]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 64
+[2020.10.23-10.00.28:440][469]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 63
+[2020.10.23-10.00.28:659][482]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 62
+[2020.10.23-10.00.28:843][493]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 61
+[2020.10.23-10.00.28:909][497]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 60
+[2020.10.23-10.00.28:926][498]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 59
+[2020.10.23-10.00.29:027][504]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 58
+[2020.10.23-10.00.29:144][511]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 57
+[2020.10.23-10.00.29:280][519]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 56
+[2020.10.23-10.00.29:298][520]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 55
+[2020.10.23-10.00.29:381][525]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 54
+[2020.10.23-10.00.29:396][526]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 53
+[2020.10.23-10.00.29:464][530]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 52
+[2020.10.23-10.00.29:616][539]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 51
+[2020.10.23-10.00.29:790][549]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 50
+[2020.10.23-10.00.29:904][556]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 49
+[2020.10.23-10.00.29:964][559]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 48
+[2020.10.23-10.00.30:131][569]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 47
+[2020.10.23-10.00.30:148][570]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 46
+[2020.10.23-10.00.30:166][571]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 45
+[2020.10.23-10.00.30:315][580]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 44
+[2020.10.23-10.00.30:464][587]MaterialEditorStats: Base pass shader: 150 instructions
+[2020.10.23-10.00.30:464][587]MaterialEditorStats: Base pass shader with Surface Lightmap: 183 instructions
+[2020.10.23-10.00.30:464][587]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 230 instructions
+[2020.10.23-10.00.30:464][587]MaterialEditorStats: Base pass vertex shader: 47 instructions
+[2020.10.23-10.00.30:464][587]MaterialEditorStats: Texture samplers: 13/16
+[2020.10.23-10.00.30:464][587]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2020.10.23-10.00.30:464][587]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.10.23-10.00.30:529][591]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 43
+[2020.10.23-10.00.30:703][599]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 42
+[2020.10.23-10.00.30:722][600]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 41
+[2020.10.23-10.00.30:812][605]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 40
+[2020.10.23-10.00.30:866][608]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 39
+[2020.10.23-10.00.30:986][615]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 38
+[2020.10.23-10.00.31:021][617]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 37
+[2020.10.23-10.00.31:059][619]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 36
+[2020.10.23-10.00.31:324][634]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 35
+[2020.10.23-10.00.31:416][639]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 34
+[2020.10.23-10.00.31:491][643]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 33
+[2020.10.23-10.00.31:509][644]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 32
+[2020.10.23-10.00.31:688][654]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 31
+[2020.10.23-10.00.31:741][657]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 30
+[2020.10.23-10.00.31:856][662]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 29
+[2020.10.23-10.00.31:898][664]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 28
+[2020.10.23-10.00.32:144][678]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2020.10.23-10.00.32:197][681]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 26
+[2020.10.23-10.00.32:268][685]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 25
+[2020.10.23-10.00.32:381][692]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 24
+[2020.10.23-10.00.32:518][700]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 23
+[2020.10.23-10.00.32:535][701]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 22
+[2020.10.23-10.00.32:585][704]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 21
+[2020.10.23-10.00.32:708][711]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2020.10.23-10.00.32:912][723]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 19
+[2020.10.23-10.00.32:962][726]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 18
+[2020.10.23-10.00.33:028][730]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2020.10.23-10.00.33:045][731]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 16
+[2020.10.23-10.00.33:297][746]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 15
+[2020.10.23-10.00.33:315][747]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2020.10.23-10.00.33:348][749]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2020.10.23-10.00.33:367][750]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 12
+[2020.10.23-10.00.33:640][766]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2020.10.23-10.00.33:674][768]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 10
+[2020.10.23-10.00.33:695][769]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.10.23-10.00.33:921][781]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2020.10.23-10.00.34:023][787]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2020.10.23-10.00.34:182][796]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2020.10.23-10.00.34:182][796]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.10.23-10.00.34:239][799]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2020.10.23-10.00.34:491][813]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2020.10.23-10.00.34:546][816]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2020.10.23-10.00.34:580][818]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2020.10.23-10.00.35:692][881]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.10.23-10.00.35:692][881]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-10.00.38:066][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.10.23-10.00.54:488][  5]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.23-10.01.19:811][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.10.23-10.01.23:884][260]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.23-10.01.23:914][260]LogAssetEditorSubsystem: Opening Asset editor for ObjectRedirector /Game/Materials/WallsMaterial.WallsMaterial
+[2020.10.23-10.01.25:538][347]LogSlate: Window 'WallsMaterial' being destroyed
+[2020.10.23-10.01.30:081][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.10.23-10.01.31:253][582]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.23-10.01.31:359][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.10.23-10.01.31:381][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.10.23-10.01.31:395][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2020.10.23-10.01.33:678][704]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials/BrokenWallMaterial.BrokenWallMaterial
+[2020.10.23-10.01.36:996][859]LogSlate: Window 'BrokenWallMaterial' being destroyed
+[2020.10.23-10.01.37:046][859]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.10.23-10.01.37:046][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-10.01.37:511][878]LogSavePackage: Moving '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Saved/BrokenWallMaterial9D427FFA4A5AD176EAF5A885E44F31AC.tmp' to '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Materials/BrokenWallMaterial.uasset'
+[2020.10.23-10.01.37:521][878]AssetCheck: New page: Asset Save: BrokenWallMaterial
+[2020.10.23-10.01.37:521][878]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/BrokenWallMaterial.BrokenWallMaterial
+[2020.10.23-10.01.38:849][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2020.10.23-10.01.45:886][947]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.23-10.01.49:152][123]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2020.10.23-10.01.52:114][123]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.23-10.02.09:692][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.23-10.02.09:706][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2020.10.23-10.02.09:960][982]LogSavePackage: Moving '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Saved/Main0FDA8912489C17A17AA0DF9F65238A5F.tmp' to '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap'
+[2020.10.23-10.02.10:001][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_BuiltData" FILE="../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main_BuiltData.uasset" SILENT=true
+[2020.10.23-10.02.10:326][982]LogSavePackage: Moving '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Saved/Main_BuiltDataC009FF2C48D4316868D7528DC1C4A087.tmp' to '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main_BuiltData.uasset'
+[2020.10.23-10.02.10:342][982]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.23-10.02.10:342][982]LogContentValidation: Display: Validating World /Game/Main.Main
+[2020.10.23-10.02.10:342][982]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Main_BuiltData.Main_BuiltData
+[2020.10.23-10.02.25:788][796]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/NewLandscapeMaterial_Inst.NewLandscapeMaterial_Inst
+[2020.10.23-10.02.28:687][942]LogSlate: Window 'NewLandscapeMaterial_Inst' being destroyed
+[2020.10.23-10.02.28:695][942]LogSlate: Window 'NewLandscapeMaterial_Inst' being destroyed
+[2020.10.23-10.02.28:734][942]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.10.23-10.02.28:734][942]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-10.02.29:975][  0]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/NewLandscapeMaterial.NewLandscapeMaterial
+[2020.10.23-10.02.29:978][  0]LogMaterial: Display: Missing cached shader map for material NewLandscapeMaterial, compiling. 
+[2020.10.23-10.02.30:078][  0]LogMaterial: Display: Missing cached shader map for material NewLandscapeMaterial, compiling. 
+[2020.10.23-10.02.30:100][  0]LogMaterial: Display: Missing cached shader map for material NewLandscapeMaterial, compiling. 
+[2020.10.23-10.02.30:128][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 43
+[2020.10.23-10.02.30:128][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 42
+[2020.10.23-10.02.30:128][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 41
+[2020.10.23-10.02.30:128][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 40
+[2020.10.23-10.02.30:128][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 39
+[2020.10.23-10.02.30:128][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 38
+[2020.10.23-10.02.30:128][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 37
+[2020.10.23-10.02.30:128][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 36
+[2020.10.23-10.02.30:132][  0]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.10.23-10.02.30:136][  0]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.10.23-10.02.30:140][  0]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.10.23-10.02.30:145][  0]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.10.23-10.02.30:150][  0]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2020.10.23-10.02.30:155][  0]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2020.10.23-10.02.30:160][  0]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2020.10.23-10.02.30:165][  0]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2020.10.23-10.02.30:170][  0]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2020.10.23-10.02.30:759][ 23]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 71
+[2020.10.23-10.02.30:897][ 31]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 70
+[2020.10.23-10.02.30:939][ 33]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 69
+[2020.10.23-10.02.31:055][ 40]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 68
+[2020.10.23-10.02.31:246][ 51]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 67
+[2020.10.23-10.02.31:297][ 54]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 66
+[2020.10.23-10.02.31:297][ 54]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 65
+[2020.10.23-10.02.31:383][ 59]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 64
+[2020.10.23-10.02.31:514][ 66]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 63
+[2020.10.23-10.02.31:533][ 67]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 62
+[2020.10.23-10.02.31:621][ 72]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 61
+[2020.10.23-10.02.31:639][ 73]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 60
+[2020.10.23-10.02.31:639][ 73]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 59
+[2020.10.23-10.02.31:814][ 83]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 58
+[2020.10.23-10.02.31:835][ 84]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 57
+[2020.10.23-10.02.32:101][ 99]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 56
+[2020.10.23-10.02.32:235][106]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 55
+[2020.10.23-10.02.32:357][113]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 54
+[2020.10.23-10.02.32:521][122]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 53
+[2020.10.23-10.02.32:539][123]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 52
+[2020.10.23-10.02.32:572][125]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 51
+[2020.10.23-10.02.32:607][127]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 50
+[2020.10.23-10.02.32:607][127]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 49
+[2020.10.23-10.02.32:726][134]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 48
+[2020.10.23-10.02.32:763][136]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 47
+[2020.10.23-10.02.32:959][147]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 46
+[2020.10.23-10.02.33:034][151]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 45
+[2020.10.23-10.02.33:035][151]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 44
+[2020.10.23-10.02.33:170][158]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 43
+[2020.10.23-10.02.33:256][163]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 42
+[2020.10.23-10.02.33:324][166]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 41
+[2020.10.23-10.02.33:421][172]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 40
+[2020.10.23-10.02.33:507][177]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 39
+[2020.10.23-10.02.33:625][184]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 38
+[2020.10.23-10.02.33:690][188]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 37
+[2020.10.23-10.02.33:690][188]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 36
+[2020.10.23-10.02.33:724][190]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 35
+[2020.10.23-10.02.33:875][199]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 34
+[2020.10.23-10.02.33:893][200]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 33
+[2020.10.23-10.02.33:975][205]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 32
+[2020.10.23-10.02.34:128][214]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 31
+[2020.10.23-10.02.34:296][224]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 30
+[2020.10.23-10.02.34:346][227]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 29
+[2020.10.23-10.02.34:528][238]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 28
+[2020.10.23-10.02.34:578][241]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 27
+[2020.10.23-10.02.34:608][242]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 26
+[2020.10.23-10.02.34:608][242]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 25
+[2020.10.23-10.02.34:760][251]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 24
+[2020.10.23-10.02.34:960][263]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 23
+[2020.10.23-10.02.35:093][271]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 22
+[2020.10.23-10.02.35:129][273]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 21
+[2020.10.23-10.02.35:129][273]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 20
+[2020.10.23-10.02.35:200][277]MaterialEditorStats: Base pass shader: 116 instructions
+[2020.10.23-10.02.35:200][277]MaterialEditorStats: Base pass shader with Surface Lightmap: 102 instructions
+[2020.10.23-10.02.35:200][277]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 116 instructions
+[2020.10.23-10.02.35:200][277]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.10.23-10.02.35:200][277]MaterialEditorStats: Texture samplers: 2/16
+[2020.10.23-10.02.35:200][277]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2020.10.23-10.02.35:200][277]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.10.23-10.02.35:346][286]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2020.10.23-10.02.35:413][290]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 18
+[2020.10.23-10.02.35:447][292]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 17
+[2020.10.23-10.02.35:464][293]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 16
+[2020.10.23-10.02.35:731][309]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 15
+[2020.10.23-10.02.35:799][313]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 14
+[2020.10.23-10.02.35:849][316]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2020.10.23-10.02.36:123][332]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2020.10.23-10.02.36:142][333]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2020.10.23-10.02.36:156][334]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2020.10.23-10.02.36:224][338]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.10.23-10.02.36:224][338]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2020.10.23-10.02.36:509][355]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.10.23-10.02.36:560][358]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2020.10.23-10.02.36:645][363]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2020.10.23-10.02.36:843][375]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2020.10.23-10.02.36:925][380]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2020.10.23-10.02.36:943][381]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2020.10.23-10.02.37:047][387]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2020.10.23-10.02.56:457][548]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.10.23-10.02.56:457][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-10.03.16:599][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.10.23-10.03.20:406][723]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.23-10.03.21:802][806]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.10.23-10.03.23:666][806]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.23-10.03.23:692][806]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials/BrokenWallMaterial.BrokenWallMaterial
+[2020.10.23-10.03.25:705][911]LogSlate: Window 'BrokenWallMaterial' being destroyed
+[2020.10.23-10.03.25:750][911]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.10.23-10.03.25:751][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-10.03.27:027][984]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/WateryMud_MasterMaterial.WateryMud_MasterMaterial
+[2020.10.23-10.03.27:029][984]LogMaterial: Display: Missing cached shader map for material WateryMud_MasterMaterial, compiling. 
+[2020.10.23-10.03.27:122][984]LogMaterial: Display: Missing cached shader map for material WateryMud_MasterMaterial, compiling. 
+[2020.10.23-10.03.27:138][984]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 29
+[2020.10.23-10.03.27:138][984]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 28
+[2020.10.23-10.03.27:138][984]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 27
+[2020.10.23-10.03.27:138][984]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 26
+[2020.10.23-10.03.27:138][984]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 25
+[2020.10.23-10.03.27:138][984]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 24
+[2020.10.23-10.03.27:138][984]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 23
+[2020.10.23-10.03.27:138][984]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 22
+[2020.10.23-10.03.27:141][984]LogMaterial: Display: Missing cached shader map for material WateryMud_MasterMaterial, compiling. 
+[2020.10.23-10.03.27:167][984]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.10.23-10.03.27:171][984]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2020.10.23-10.03.27:176][984]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2020.10.23-10.03.27:181][984]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2020.10.23-10.03.27:185][984]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2020.10.23-10.03.27:191][984]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2020.10.23-10.03.27:196][984]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2020.10.23-10.03.27:201][984]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_5, compiling. 
+[2020.10.23-10.03.27:207][984]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_6, compiling. 
+[2020.10.23-10.03.27:213][984]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_7, compiling. 
+[2020.10.23-10.03.27:219][984]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_8, compiling. 
+[2020.10.23-10.03.27:224][984]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_9, compiling. 
+[2020.10.23-10.03.27:231][984]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_10, compiling. 
+[2020.10.23-10.03.27:793][987]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 81
+[2020.10.23-10.03.27:915][988]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 80
+[2020.10.23-10.03.27:930][989]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 79
+[2020.10.23-10.03.28:047][996]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 78
+[2020.10.23-10.03.28:062][997]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 77
+[2020.10.23-10.03.28:179][  4]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 76
+[2020.10.23-10.03.28:412][ 15]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 75
+[2020.10.23-10.03.28:462][ 17]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 74
+[2020.10.23-10.03.28:545][ 19]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 73
+[2020.10.23-10.03.28:580][ 20]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 72
+[2020.10.23-10.03.28:732][ 25]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 71
+[2020.10.23-10.03.28:738][ 26]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 70
+[2020.10.23-10.03.28:939][ 36]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 69
+[2020.10.23-10.03.29:039][ 42]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 68
+[2020.10.23-10.03.29:055][ 43]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 67
+[2020.10.23-10.03.29:116][ 44]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 66
+[2020.10.23-10.03.29:116][ 44]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 65
+[2020.10.23-10.03.29:161][ 44]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2020.10.23-10.03.29:161][ 44]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.10.23-10.03.29:161][ 44]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-10.03.29:626][ 68]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.10.23-10.03.29:728][ 74]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2020.10.23-10.03.29:830][ 80]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2020.10.23-10.03.29:857][ 81]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2020.10.23-10.03.29:972][ 87]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2020.10.23-10.03.30:061][ 92]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2020.10.23-10.03.30:381][110]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2020.10.23-10.03.30:488][115]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2020.10.23-10.03.30:488][115]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.10.23-10.03.30:558][119]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2020.10.23-10.03.30:560][119]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2020.10.23-10.03.31:000][142]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.10.23-10.03.34:371][142]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.23-10.03.34:401][142]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials/BrokenWallMaterial.BrokenWallMaterial
+[2020.10.23-10.03.39:714][440]LogSlate: Window 'BrokenWallMaterial' being destroyed
+[2020.10.23-10.03.39:762][440]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.10.23-10.03.39:762][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-10.03.42:373][589]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Megascans/Surfaces/Damaged_Wall_Plaster_00/Damaged_Wall_Plaster_00_inst.Damaged_Wall_Plaster_00_inst
+[2020.10.23-10.03.45:778][769]LogSlate: Window 'Damaged_Wall_Plaster_00_inst' being destroyed
+[2020.10.23-10.03.45:833][769]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.10.23-10.03.45:833][769]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-10.03.46:772][823]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.10.23-10.03.48:235][823]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.23-10.03.50:338][938]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.10.23-10.03.53:646][938]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.23-10.04.22:206][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.10.23-10.04.40:212][568]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.23-10.04.40:331][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.10.23-10.04.40:346][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2020.10.23-10.04.40:367][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.10.23-10.04.40:381][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2020.10.23-10.04.44:363][801]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2020.10.23-10.04.46:719][801]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.23-10.04.46:827][801]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.10.23-10.04.46:849][801]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.10.23-10.04.46:862][801]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2020.10.23-10.05.13:438][384]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Megascans/Surfaces/Broken_Concrete_Floor_2x2_M_00/Broken_Concrete_Floor_2x2_M_00_inst.Broken_Concrete_Floor_2x2_M_00_inst
+[2020.10.23-10.05.16:186][530]LogSlate: Window 'Broken_Concrete_Floor_2x2_M_00_inst' being destroyed
+[2020.10.23-10.05.16:237][530]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.10.23-10.05.16:237][530]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-10.05.20:421][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.10.23-10.05.21:418][775]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.23-10.05.21:543][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.10.23-10.05.21:558][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2020.10.23-10.05.21:573][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.10.23-10.05.21:588][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2020.10.23-10.05.21:603][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2020.10.23-10.05.21:616][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.10.23-10.05.21:631][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2020.10.23-10.05.21:645][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.10.23-10.05.21:661][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2020.10.23-10.05.21:674][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2020.10.23-10.05.21:696][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.10.23-10.05.21:708][775]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2020.10.23-10.05.35:358][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2020.10.23-10.05.37:475][588]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.23-10.05.41:470][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2020.10.23-10.05.44:194][825]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.23-10.05.47:219][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.10.23-10.05.49:798][  4]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.23-10.05.51:402][ 95]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Megascans/Surfaces/Damaged_Concrete_Wall_2x2_M_00/Damaged_Concrete_Wall_2x2_M_00_inst.Damaged_Concrete_Wall_2x2_M_00_inst
+[2020.10.23-10.05.53:296][195]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.10.23-10.05.53:296][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-10.05.58:375][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.10.23-10.05.59:772][491]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.23-10.05.59:899][491]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2020.10.23-10.05.59:913][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2020.10.23-10.05.59:928][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2020.10.23-10.05.59:942][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2020.10.23-10.05.59:956][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.10.23-10.05.59:972][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2020.10.23-10.05.59:994][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2020.10.23-10.06.00:009][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2020.10.23-10.06.02:846][654]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Megascans/Surfaces/Damaged_Wall_Plaster_00/Damaged_Wall_Plaster_00_inst.Damaged_Wall_Plaster_00_inst
+[2020.10.23-10.06.06:358][841]LogSlate: Window 'Damaged_Wall_Plaster_00_inst' being destroyed
+[2020.10.23-10.06.06:411][841]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2020.10.23-10.06.06:411][841]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-10.06.11:306][130]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.10.23-10.06.12:169][130]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.23-10.06.26:035][594]LogTexture: Display: Building textures: scoldges0_4K_AO (BC7, 4096X4096)
+[2020.10.23-10.06.26:035][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.10.23-10.06.29:405][594]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.23-10.06.30:878][669]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Megascans/Surfaces/Grassy_Soil_00/Grassy_Soil_00_inst.Grassy_Soil_00_inst
+[2020.10.23-10.06.34:010][837]LogSlate: Window 'Grassy_Soil_00_inst' being destroyed
+[2020.10.23-10.06.34:052][837]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2020.10.23-10.06.34:052][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-10.06.37:740][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.10.23-10.06.38:826][ 55]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.23-10.06.38:955][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.10.23-10.06.38:970][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2020.10.23-10.06.38:984][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2020.10.23-10.06.38:999][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.10.23-10.06.39:013][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2020.10.23-10.06.39:027][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.10.23-10.06.39:049][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.10.23-10.06.39:063][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.10.23-10.06.44:773][391]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Megascans/Surfaces/Mossy_Cracked_Concrete_2x1_M_00/Mossy_Cracked_Concrete_2x1_M_00_inst.Mossy_Cracked_Concrete_2x1_M_00_inst
+[2020.10.23-10.06.45:778][435]LogSlate: Window 'Mossy_Cracked_Concrete_2x1_M_00_inst' being destroyed
+[2020.10.23-10.06.45:825][435]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2020.10.23-10.06.45:825][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-10.06.49:714][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.10.23-10.06.50:694][662]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.23-10.06.50:826][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.10.23-10.06.50:840][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2020.10.23-10.06.50:854][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2020.10.23-10.06.50:869][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2020.10.23-10.06.50:883][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.10.23-10.06.50:898][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2020.10.23-10.06.50:914][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.10.23-10.06.50:929][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2020.10.23-10.06.50:944][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2020.10.23-10.06.50:966][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.10.23-10.06.50:980][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2020.10.23-10.06.53:948][831]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Megascans/Surfaces/Rough_Brick_Wall_2x2_M_00/Rough_Brick_Wall_2x2_M_00_inst.Rough_Brick_Wall_2x2_M_00_inst
+[2020.10.23-10.06.56:311][955]LogSlate: Window 'Rough_Brick_Wall_2x2_M_00_inst' being destroyed
+[2020.10.23-10.06.56:356][955]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2020.10.23-10.06.56:356][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-10.06.57:482][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.10.23-10.06.58:775][ 18]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.23-10.07.02:913][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.10.23-10.07.04:354][265]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.23-10.07.09:677][577]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Megascans/Surfaces/Stained_Concrete_Wall_2x2_M_00/Stained_Concrete_Wall_2x2_M_00_inst.Stained_Concrete_Wall_2x2_M_00_inst
+[2020.10.23-10.07.11:879][696]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2020.10.23-10.07.11:879][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-10.07.15:330][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.10.23-10.07.17:104][900]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.23-10.07.17:233][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.10.23-10.07.17:247][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2020.10.23-10.07.17:262][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2020.10.23-10.07.17:278][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.10.23-10.07.17:292][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2020.10.23-10.07.17:306][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2020.10.23-10.07.17:328][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2020.10.23-10.07.17:342][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.10.23-10.07.35:055][255]LogTexture: Display: Building textures: tgmjffbqx_4K_AO (BC7, 4096X4096)
+[2020.10.23-10.07.35:055][255]LogTexture: Display: Building textures: tgmjffbqx_4K_Displacement (BC7, 4096X4096)
+[2020.10.23-10.07.35:055][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2020.10.23-10.07.40:775][255]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.23-10.07.40:903][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.10.23-10.07.40:919][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2020.10.23-10.07.40:933][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.10.23-10.07.40:947][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.10.23-10.07.40:962][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.10.23-10.07.40:976][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2020.10.23-10.07.40:998][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2020.10.23-10.07.41:014][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2020.10.23-10.07.47:617][639]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2020.10.23-10.07.49:812][639]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.23-10.07.51:265][719]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Megascans/Surfaces/Wallsmaterial_leakage_00/Wallsmaterial_leakage_00_inst.Wallsmaterial_leakage_00_inst
+[2020.10.23-10.07.55:284][935]LogSlate: Window 'Wallsmaterial_leakage_00_inst' being destroyed
+[2020.10.23-10.07.55:328][935]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2020.10.23-10.07.55:328][935]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.23-10.07.59:589][182]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2020.10.23-10.08.00:489][182]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.23-10.08.00:634][182]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.10.23-10.08.00:650][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2020.10.23-10.08.00:665][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2020.10.23-10.08.00:679][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.10.23-10.08.00:695][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2020.10.23-10.08.00:711][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2020.10.23-10.08.00:726][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.10.23-10.08.00:740][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2020.10.23-10.08.00:754][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2020.10.23-10.08.00:783][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.10.23-10.08.00:797][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.10.23-10.08.02:603][286]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.23-10.08.02:618][286]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2020.10.23-10.08.02:825][286]LogSavePackage: Moving '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Saved/Main9F4B5B4C47963DDE13CC3390E7E435F7.tmp' to '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap'
+[2020.10.23-10.08.02:865][286]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_BuiltData" FILE="../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main_BuiltData.uasset" SILENT=true
+[2020.10.23-10.08.03:129][286]LogSavePackage: Moving '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Saved/Main_BuiltData34CF5AE2449B519BF0C8DBB92C9481C0.tmp' to '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main_BuiltData.uasset'
+[2020.10.23-10.08.03:143][286]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.23-10.08.03:143][286]LogContentValidation: Display: Validating World /Game/Main.Main
+[2020.10.23-10.08.03:143][286]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Main_BuiltData.Main_BuiltData
+[2020.10.23-10.08.18:792][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.10.23-10.08.20:455][837]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.23-10.08.20:574][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.10.23-10.08.20:588][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2020.10.23-10.08.20:603][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2020.10.23-10.08.20:617][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.10.23-10.08.20:631][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.10.23-10.08.20:645][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.10.23-10.08.20:668][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2020.10.23-10.08.20:683][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2020.10.23-10.08.24:743][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2020.10.23-10.08.31:233][ 78]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.23-10.08.40:189][612]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2020.10.23-10.08.44:873][612]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.23-10.08.50:223][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2020.10.23-10.08.51:572][932]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.23-10.08.51:676][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2020.10.23-10.08.51:698][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2020.10.23-10.08.51:712][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2020.10.23-10.08.58:366][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.10.23-10.08.59:502][330]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.23-10.08.59:622][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.10.23-10.08.59:637][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2020.10.23-10.08.59:653][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2020.10.23-10.08.59:668][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2020.10.23-10.08.59:682][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2020.10.23-10.08.59:698][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2020.10.23-10.08.59:720][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.10.23-10.08.59:733][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.10.23-10.09.06:105][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2020.10.23-10.09.08:395][705]LogSlate: Window 'Delete Assets' being destroyed
+[2020.10.23-10.09.09:031][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.23-10.09.09:046][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2020.10.23-10.09.09:257][742]LogSavePackage: Moving '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Saved/Main6B4294324E185C5347698C8E78D1FA8A.tmp' to '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main.umap'
+[2020.10.23-10.09.09:295][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_BuiltData" FILE="../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main_BuiltData.uasset" SILENT=true
+[2020.10.23-10.09.09:554][742]LogSavePackage: Moving '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Saved/Main_BuiltDataC21202A54ACAE97AE38DD3BAF8653E8E.tmp' to '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Main_BuiltData.uasset'
+[2020.10.23-10.09.09:569][742]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.23-10.09.09:569][742]LogContentValidation: Display: Validating World /Game/Main.Main
+[2020.10.23-10.09.09:569][742]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Main_BuiltData.Main_BuiltData
