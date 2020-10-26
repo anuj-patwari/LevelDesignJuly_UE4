@@ -1710,3 +1710,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.26-10.36.14:831][138]LogSlate: Window 'Dirty_Ceramic_Tiles_2x2_M_00_inst_Inst' being destroyed
 [2020.10.26-10.36.14:934][138]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
 [2020.10.26-10.36.14:934][138]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.26-10.36.40:641][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.10.26-10.36.40:689][221]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/RestaurantLevel_Auto34D624C6E42F6DB7002CC1188B07A8CC9.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/Autosaves/Game/Levels/RestaurantLevel_Auto3.umap'
+[2020.10.26-10.36.40:692][221]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/RestaurantLevel' took 0.063
+[2020.10.26-10.36.40:693][221]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.063
+[2020.10.26-10.37.50:759][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.10.26-10.37.50:803][432]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/RestaurantLevel25C947CA433042CF8D3D26A1383B4666.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Levels/RestaurantLevel.umap'
+[2020.10.26-10.37.51:544][432]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/RestaurantLevel_BuiltData73C8935941DD00055C7D4298E42AB216.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Levels/RestaurantLevel_BuiltData.uasset'
+[2020.10.26-10.37.51:585][432]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.26-10.37.51:585][432]LogContentValidation: Display: Validating World /Game/Levels/RestaurantLevel.RestaurantLevel
+[2020.10.26-10.37.51:585][432]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/RestaurantLevel_BuiltData.RestaurantLevel_BuiltData
