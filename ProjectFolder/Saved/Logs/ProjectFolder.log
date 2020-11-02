@@ -1890,3 +1890,89 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.02-07.14.39:234][143]AssetCheck: New page: Asset Save: multiple assets
 [2020.11.02-07.14.39:234][143]LogContentValidation: Display: Validating World /Game/Levels/RestaurantLevel.RestaurantLevel
 [2020.11.02-07.14.39:234][143]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/RestaurantLevel_BuiltData.RestaurantLevel_BuiltData
+[2020.11.02-07.15.16:787][576]LogActorFactory: Actor Factory created ubrqeehhx_LOD0_1
+[2020.11.02-07.15.17:968][709]LogActorFactory: Actor Factory created ubrqeehhx_LOD0_1
+[2020.11.02-07.15.24:482][475]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_11)
+[2020.11.02-07.15.27:472][831]Cmd: TRANSACTION UNDO
+[2020.11.02-07.15.27:472][831]LogEditorTransaction: Undo Rotate Actors
+[2020.11.02-07.15.33:135][467]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.02-07.16.03:196][ 12]LogActorFactory: Actor Factory created ubrqeehhx_LOD0_4
+[2020.11.02-07.16.07:942][532]LogActorFactory: Actor Factory created ubrqeehhx_LOD0_4
+[2020.11.02-07.16.28:424][826]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_12)
+[2020.11.02-07.24.44:341][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.11.02-07.24.44:728][192]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/RestaurantLevel_Auto35291EB3A4B4D72B129E98496492B5099.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/Autosaves/Game/Levels/RestaurantLevel_Auto3.umap'
+[2020.11.02-07.24.44:729][192]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/RestaurantLevel' took 0.410
+[2020.11.02-07.24.44:729][192]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.410
+[2020.11.02-07.28.03:958][627]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LargeRoom_BrokenFloor)
+[2020.11.02-07.28.21:565][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.11.02-07.28.21:691][ 57]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/RestaurantLevelF6470FF142BD2CB0CD012BA00DA764AB.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Levels/RestaurantLevel.umap'
+[2020.11.02-07.28.22:475][ 57]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/RestaurantLevel_BuiltDataA10E3C1B429E99D7EF1D648EF44FDAA5.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Levels/RestaurantLevel_BuiltData.uasset'
+[2020.11.02-07.28.22:506][ 57]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.02-07.28.22:506][ 57]LogContentValidation: Display: Validating World /Game/Levels/RestaurantLevel.RestaurantLevel
+[2020.11.02-07.28.22:506][ 57]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/RestaurantLevel_BuiltData.RestaurantLevel_BuiltData
+[2020.11.02-07.28.33:161][ 91]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.11.02-07.32.14:352][642]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Megascans\Megascans Library\Downloaded\3d\other_barrier_udqjbg1qx\udqjbg1qx_4K_Albedo.jpg)
+[2020.11.02-07.32.14:785][642]LogTexture: Display: Building textures: udqjbg1qx_4K_Albedo (AutoDXT, 4096X4096)
+[2020.11.02-07.32.19:216][642]LogTexture: Display: Building textures: udqjbg1qx_4K_Albedo (BC7, 4096X4096)
+[2020.11.02-07.32.24:370][642]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Megascans\Megascans Library\Downloaded\3d\other_barrier_udqjbg1qx\udqjbg1qx_4K_Displacement.jpg)
+[2020.11.02-07.32.24:621][642]LogTexture: Display: Building textures: udqjbg1qx_4K_Displacement (AutoDXT, 4096X4096)
+[2020.11.02-07.32.25:766][642]LogTexture: Display: Building textures: udqjbg1qx_4K_Displacement (BC7, 4096X4096)
+[2020.11.02-07.32.31:023][642]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Megascans\Megascans Library\Downloaded\3d\other_barrier_udqjbg1qx\udqjbg1qx_4K_Normal_LOD0.jpg)
+[2020.11.02-07.32.31:699][642]LogTexture: Display: Building textures: udqjbg1qx_4K_NormalLOD0 (BC5, 4096X4096)
+[2020.11.02-07.32.32:569][642]LogTexture: Display: Building textures: udqjbg1qx_4K_NormalLOD0 (BC5, 4096X4096)
+[2020.11.02-07.32.33:472][642]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Megascans\Megascans Library\Downloaded\3d\other_barrier_udqjbg1qx\udqjbg1qx_4K_Roughness.jpg)
+[2020.11.02-07.32.33:712][642]LogTexture: Display: Building textures: udqjbg1qx_4K_Roughness (AutoDXT, 4096X4096)
+[2020.11.02-07.32.34:957][642]LogTexture: Display: Building textures: udqjbg1qx_4K_Roughness (BC7, 4096X4096)
+[2020.11.02-07.32.39:829][642]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Megascans\Megascans Library\Downloaded\3d\other_barrier_udqjbg1qx\udqjbg1qx_LOD0.fbx)
+[2020.11.02-07.32.39:839][642]LogFbx: Loading FBX Scene from D:\Megascans\Megascans Library\Downloaded\3d\other_barrier_udqjbg1qx\udqjbg1qx_LOD0.fbx
+[2020.11.02-07.32.39:853][642]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.02-07.32.39:930][642]LogStaticMesh: Building static mesh udqjbg1qx_LOD0...
+[2020.11.02-07.32.40:131][642]LogStaticMesh: Built static mesh [0.20s] /Game/Megascans/3D_Assets/Sandbag_Pile_00/udqjbg1qx_LOD0.udqjbg1qx_LOD0
+[2020.11.02-07.32.40:194][642]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.11.02-07.32.40:470][642]LogExportMeshUtils: Fbx LOD loading
+[2020.11.02-07.32.40:559][642]LogFbx: Loading FBX Scene from D:\Megascans\Megascans Library\Downloaded\3d\other_barrier_udqjbg1qx\udqjbg1qx_LOD1.fbx
+[2020.11.02-07.32.40:574][642]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.02-07.32.40:646][642]LogStaticMesh: Building static mesh udqjbg1qx_LOD0...
+[2020.11.02-07.32.40:980][642]LogStaticMesh: Built static mesh [0.33s] /Game/Megascans/3D_Assets/Sandbag_Pile_00/udqjbg1qx_LOD0.udqjbg1qx_LOD0
+[2020.11.02-07.32.41:154][642]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.11.02-07.32.41:156][642]LogExportMeshUtils: Fbx LOD loading
+[2020.11.02-07.32.41:354][642]LogFbx: Loading FBX Scene from D:\Megascans\Megascans Library\Downloaded\3d\other_barrier_udqjbg1qx\udqjbg1qx_LOD2.fbx
+[2020.11.02-07.32.41:377][642]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.02-07.32.41:529][642]LogStaticMesh: Building static mesh udqjbg1qx_LOD0...
+[2020.11.02-07.32.41:971][642]LogStaticMesh: Built static mesh [0.44s] /Game/Megascans/3D_Assets/Sandbag_Pile_00/udqjbg1qx_LOD0.udqjbg1qx_LOD0
+[2020.11.02-07.32.42:157][642]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.11.02-07.32.42:159][642]LogExportMeshUtils: Fbx LOD loading
+[2020.11.02-07.32.42:421][642]LogFbx: Loading FBX Scene from D:\Megascans\Megascans Library\Downloaded\3d\other_barrier_udqjbg1qx\udqjbg1qx_LOD3.fbx
+[2020.11.02-07.32.42:432][642]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.02-07.32.42:502][642]LogStaticMesh: Building static mesh udqjbg1qx_LOD0...
+[2020.11.02-07.32.43:012][642]LogStaticMesh: Built static mesh [0.51s] /Game/Megascans/3D_Assets/Sandbag_Pile_00/udqjbg1qx_LOD0.udqjbg1qx_LOD0
+[2020.11.02-07.32.43:206][642]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.11.02-07.32.43:209][642]LogExportMeshUtils: Fbx LOD loading
+[2020.11.02-07.32.43:376][642]LogFbx: Loading FBX Scene from D:\Megascans\Megascans Library\Downloaded\3d\other_barrier_udqjbg1qx\udqjbg1qx_LOD4.fbx
+[2020.11.02-07.32.43:382][642]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.02-07.32.43:435][642]LogStaticMesh: Building static mesh udqjbg1qx_LOD0...
+[2020.11.02-07.32.43:981][642]LogStaticMesh: Built static mesh [0.55s] /Game/Megascans/3D_Assets/Sandbag_Pile_00/udqjbg1qx_LOD0.udqjbg1qx_LOD0
+[2020.11.02-07.32.44:286][642]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.11.02-07.32.44:294][642]LogExportMeshUtils: Fbx LOD loading
+[2020.11.02-07.32.44:542][642]LogFbx: Loading FBX Scene from D:\Megascans\Megascans Library\Downloaded\3d\other_barrier_udqjbg1qx\udqjbg1qx_LOD5.fbx
+[2020.11.02-07.32.44:551][642]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.02-07.32.44:615][642]LogStaticMesh: Building static mesh udqjbg1qx_LOD0...
+[2020.11.02-07.32.45:169][642]LogStaticMesh: Built static mesh [0.55s] /Game/Megascans/3D_Assets/Sandbag_Pile_00/udqjbg1qx_LOD0.udqjbg1qx_LOD0
+[2020.11.02-07.32.45:418][642]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.11.02-07.32.47:481][823]LogSlate: Window 'Message Log' being destroyed
+[2020.11.02-07.32.47:487][823]LogSlate: Window 'Message Log' being destroyed
+[2020.11.02-07.32.49:914][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.11.02-07.32.50:760][ 94]LogSlate: Window 'Save Content' being destroyed
+[2020.11.02-07.32.50:807][ 94]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/Sandbag_Pile_00_inst0947E2AC429946FF38B3CE8AB3B1013E.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Assets/Sandbag_Pile_00/Sandbag_Pile_00_inst.uasset'
+[2020.11.02-07.32.51:710][ 94]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/udqjbg1qx_4K_AlbedoEC6491074522030E0FF911B07E9285DA.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Assets/Sandbag_Pile_00/udqjbg1qx_4K_Albedo.uasset'
+[2020.11.02-07.32.52:260][ 94]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/udqjbg1qx_4K_Displacement6380AAF74E1FC424AB0D239114FECFE0.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Assets/Sandbag_Pile_00/udqjbg1qx_4K_Displacement.uasset'
+[2020.11.02-07.32.53:822][ 94]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/udqjbg1qx_4K_NormalLOD0C737163E4531BC4516F738B42FAB497F.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Assets/Sandbag_Pile_00/udqjbg1qx_4K_NormalLOD0.uasset'
+[2020.11.02-07.32.54:381][ 94]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/udqjbg1qx_4K_Roughness91DD5B3A4F26DF7869228B80CB9A08A0.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Assets/Sandbag_Pile_00/udqjbg1qx_4K_Roughness.uasset'
+[2020.11.02-07.32.54:553][ 94]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/udqjbg1qx_LOD0D0E210CA49812E6B17D6E0AF7127BCBE.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Assets/Sandbag_Pile_00/udqjbg1qx_LOD0.uasset'
+[2020.11.02-07.32.54:581][ 94]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.02-07.32.54:581][ 94]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Megascans/3D_Assets/Sandbag_Pile_00/Sandbag_Pile_00_inst.Sandbag_Pile_00_inst
+[2020.11.02-07.32.54:581][ 94]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Sandbag_Pile_00/udqjbg1qx_4K_Albedo.udqjbg1qx_4K_Albedo
+[2020.11.02-07.32.54:581][ 94]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Sandbag_Pile_00/udqjbg1qx_4K_Displacement.udqjbg1qx_4K_Displacement
+[2020.11.02-07.32.54:581][ 94]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Sandbag_Pile_00/udqjbg1qx_4K_NormalLOD0.udqjbg1qx_4K_NormalLOD0
+[2020.11.02-07.32.54:581][ 94]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Sandbag_Pile_00/udqjbg1qx_4K_Roughness.udqjbg1qx_4K_Roughness
+[2020.11.02-07.32.54:581][ 94]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Sandbag_Pile_00/udqjbg1qx_LOD0.udqjbg1qx_LOD0
