@@ -1976,3 +1976,304 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.02-07.32.54:581][ 94]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Sandbag_Pile_00/udqjbg1qx_4K_NormalLOD0.udqjbg1qx_4K_NormalLOD0
 [2020.11.02-07.32.54:581][ 94]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Sandbag_Pile_00/udqjbg1qx_4K_Roughness.udqjbg1qx_4K_Roughness
 [2020.11.02-07.32.54:581][ 94]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Sandbag_Pile_00/udqjbg1qx_LOD0.udqjbg1qx_LOD0
+[2020.11.02-07.34.50:676][793]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_4)
+[2020.11.02-07.35.11:531][226]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.11.02-07.35.48:530][623]LogActorFactory: Actor Factory created ubrqeehhx_LOD0_1
+[2020.11.02-07.35.49:105][684]LogHttp: Warning: 00000265CC452B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B969ABE7D-4990-1D4F-8579-64BF7D388305%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=871548e94080860209612a8d16adc1eb%7Cfd76827fcadf45fe8a123f715f1009ca%7C498a3d62-314f-4b32-a039-ab057761fe37&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.11.02-07.35.49:105][684]LogHttp: Warning: 00000265CC452B00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.11.02-07.35.49:105][684]LogHttp: Warning: 00000265CC452B00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x265eaba5960 [can pipeline])
+[2020.11.02-07.35.49:105][684]LogHttp: Warning: 00000265CC452B00: libcurl info message cache 1 (Re-using existing connection! (#34) with host datarouter.ol.epicgames.com)
+[2020.11.02-07.35.49:105][684]LogHttp: Warning: 00000265CC452B00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.196.158.99) port 443 (#34))
+[2020.11.02-07.35.49:105][684]LogHttp: Warning: 00000265CC452B00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.11.02-07.35.49:105][684]LogHttp: Warning: 00000265CC452B00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.11.02-07.35.49:105][684]LogHttp: Warning: 00000265CC452B00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.11.02-07.35.49:105][684]LogHttp: Warning: 00000265CC452B00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.11.02-07.35.49:105][684]LogHttp: Warning: 00000265CC452B00: libcurl info message cache 7 (Closing connection 34)
+[2020.11.02-07.35.49:105][684]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B969ABE7D-4990-1D4F-8579-64BF7D388305%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=871548e94080860209612a8d16adc1eb%7Cfd76827fcadf45fe8a123f715f1009ca%7C498a3d62-314f-4b32-a039-ab057761fe37&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2020.11.02-07.35.55:324][429]LogActorFactory: Actor Factory created ubrqeehhx_LOD0_1
+[2020.11.02-07.35.56:225][529]LogActorFactory: Actor Factory created ubrqeehhx_LOD0_3
+[2020.11.02-07.35.56:880][602]LogActorFactory: Actor Factory created ubrqeehhx_LOD0_3
+[2020.11.02-07.36.01:082][ 99]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_17)
+[2020.11.02-07.36.01:268][120]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.02-07.36.17:333][ 27]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_14)
+[2020.11.02-07.36.20:073][347]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_17)
+[2020.11.02-07.36.26:963][168]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_14)
+[2020.11.02-07.36.28:101][301]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_17)
+[2020.11.02-07.36.35:417][168]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_14)
+[2020.11.02-07.36.37:005][355]Cmd: ACTOR HIDE SELECTED
+[2020.11.02-07.36.39:348][636]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_17)
+[2020.11.02-07.36.40:718][797]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.11.02-07.36.45:561][364]Cmd: TRANSACTION UNDO
+[2020.11.02-07.36.45:561][364]LogEditorTransaction: Undo Scale Actors
+[2020.11.02-07.36.47:948][605]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_13)
+[2020.11.02-07.36.59:517][977]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheLevel_WashroomFloor)
+[2020.11.02-07.37.20:336][465]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_17)
+[2020.11.02-07.37.37:865][557]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_13)
+[2020.11.02-07.37.39:835][773]LogActorFactory: Actor Factory created ubrqeehhx_LOD0_1
+[2020.11.02-07.37.41:356][950]LogActorFactory: Actor Factory created ubrqeehhx_LOD0_1
+[2020.11.02-07.37.47:000][613]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_18)
+[2020.11.02-07.37.57:714][883]Cmd: TRANSACTION UNDO
+[2020.11.02-07.37.57:714][883]LogEditorTransaction: Undo Move Actors
+[2020.11.02-07.38.34:369][220]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_13)
+[2020.11.02-07.38.36:187][434]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_18)
+[2020.11.02-07.38.43:290][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.11.02-07.38.43:417][278]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/RestaurantLevel3F4EC69A4282182D86B2FA9444B53584.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Levels/RestaurantLevel.umap'
+[2020.11.02-07.38.44:202][278]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/RestaurantLevel_BuiltData8F0A2FBC427B5909E02324AC15F98CA8.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Levels/RestaurantLevel_BuiltData.uasset'
+[2020.11.02-07.38.44:233][278]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.02-07.38.44:234][278]LogContentValidation: Display: Validating World /Game/Levels/RestaurantLevel.RestaurantLevel
+[2020.11.02-07.38.44:234][278]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/RestaurantLevel_BuiltData.RestaurantLevel_BuiltData
+[2020.11.02-07.38.46:021][488]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.11.02-07.51.08:353][926]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheLevel_WashroomOuterWall)
+[2020.11.02-07.54.48:064][872]LogWindows: Failed to load 'libalias_api.dll' (GetLastError=126)
+[2020.11.02-07.54.48:064][872]LogWindows: File 'libalias_api.dll' does not exist
+[2020.11.02-07.54.48:114][872]LogEditorFactories: Performing atomic reimport of [E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/3D Models/TheLevel.fbx]
+[2020.11.02-07.54.48:148][872]LogFbx: Loading FBX Scene from E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/3D Models/TheLevel.fbx
+[2020.11.02-07.54.48:262][872]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.02-07.54.48:292][872]LogStaticMesh: Building static mesh TheLevel_WashroomOuterWall...
+[2020.11.02-07.54.48:370][872]LogStaticMesh: Built static mesh [0.08s] /Engine/Transient.TheLevel_WashroomOuterWall
+[2020.11.02-07.55.13:790][872]LogFbx: Display: Triangulating static mesh WashroomOuterWall
+[2020.11.02-07.55.14:032][872]LogStaticMesh: Building static mesh TheLevel_WashroomOuterWall...
+[2020.11.02-07.55.14:051][872]LogStaticMesh: Built static mesh [0.02s] /Game/3D_Models/Level/TheLevel_WashroomOuterWall.TheLevel_WashroomOuterWall
+[2020.11.02-07.55.14:055][872]LogStaticMesh: Warning: TheLevel_WashroomOuterWall has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2020.11.02-07.55.14:055][872]LogStaticMesh: Warning: TheLevel_WashroomOuterWall has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2020.11.02-07.55.14:119][872]LogEditorFactories: -- imported successfully
+[2020.11.02-07.55.14:134][872]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.11.02-07.55.14:134][872]FBXImport: Warning: TheLevel_WashroomOuterWall has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2020.11.02-07.55.14:134][872]FBXImport: Warning: TheLevel_WashroomOuterWall has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2020.11.02-07.55.14:543][873]LogD3D12RHI: Creating RTPSO with 170 shaders (169 cached, 1 new) took 87.82 ms. Compile time 37.45 ms, link time 49.64 ms.
+[2020.11.02-07.55.21:314][651]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/3D_Models/Level/TheLevel_WashroomOuterWall.TheLevel_WashroomOuterWall
+[2020.11.02-07.55.21:598][651]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.11.02-07.55.21:598][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.02-07.55.27:900][ 85]LogSlate: Window 'Generate Unwrapped UV' being destroyed
+[2020.11.02-07.55.27:973][ 85]LogStaticMesh: Building static mesh TheLevel_WashroomOuterWall...
+[2020.11.02-07.55.27:997][ 85]LogStaticMesh: Built static mesh [0.02s] /Game/3D_Models/Level/TheLevel_WashroomOuterWall.TheLevel_WashroomOuterWall
+[2020.11.02-07.55.31:134][313]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/TheLevel_WashroomOuterWall9CE7AC87421352FCAD54408DD3E2A137.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/3D_Models/Level/TheLevel_WashroomOuterWall.uasset'
+[2020.11.02-07.55.31:146][313]AssetCheck: New page: Asset Save: TheLevel_WashroomOuterWall
+[2020.11.02-07.55.31:146][313]LogContentValidation: Display: Validating StaticMesh /Game/3D_Models/Level/TheLevel_WashroomOuterWall.TheLevel_WashroomOuterWall
+[2020.11.02-07.55.31:597][349]LogSlate: Window 'TheLevel_WashroomOuterWall' being destroyed
+[2020.11.02-07.55.31:616][349]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.11.02-07.55.31:616][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.02-07.56.12:911][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.11.02-07.56.13:032][265]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/RestaurantLevel9BA856D2401A74D5B7263C834343AA80.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Levels/RestaurantLevel.umap'
+[2020.11.02-07.56.13:810][265]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/RestaurantLevel_BuiltData26DA5C424EF4A9B0FC9A54979E742CC6.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Levels/RestaurantLevel_BuiltData.uasset'
+[2020.11.02-07.56.13:838][265]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.02-07.56.13:838][265]LogContentValidation: Display: Validating World /Game/Levels/RestaurantLevel.RestaurantLevel
+[2020.11.02-07.56.13:838][265]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/RestaurantLevel_BuiltData.RestaurantLevel_BuiltData
+[2020.11.02-07.56.57:148][457]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.11.02-07.57.02:560][ 93]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_15)
+[2020.11.02-07.57.07:073][612]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.02-07.57.30:795][438]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_16)
+[2020.11.02-07.57.39:595][485]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_14)
+[2020.11.02-07.57.40:400][578]Cmd: ACTOR HIDE SELECTED
+[2020.11.02-07.57.42:895][875]Cmd: DELETE
+[2020.11.02-07.57.42:895][875]Cmd: ACTOR DELETE
+[2020.11.02-07.57.42:900][875]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.02-07.57.42:910][875]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.11.02-07.57.42:928][875]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.11.02-07.57.45:126][138]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_16)
+[2020.11.02-07.57.45:833][219]Cmd: DELETE
+[2020.11.02-07.57.45:833][219]Cmd: ACTOR DELETE
+[2020.11.02-07.57.45:838][219]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.02-07.57.45:846][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.11.02-07.57.45:848][219]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2020.11.02-07.57.53:269][109]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_15)
+[2020.11.02-07.57.57:879][623]LogActorFactory: Actor Factory created ubrqeehhx_LOD0_1
+[2020.11.02-07.58.00:267][896]LogActorFactory: Actor Factory created ubrqeehhx_LOD0_1
+[2020.11.02-07.58.06:679][654]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_14)
+[2020.11.02-07.58.22:601][555]Cmd: TRANSACTION UNDO
+[2020.11.02-07.58.22:601][555]LogEditorTransaction: Undo Rotate Actors
+[2020.11.02-07.58.22:838][564]Cmd: TRANSACTION UNDO
+[2020.11.02-07.58.22:838][564]LogEditorTransaction: Undo Rotate Actors
+[2020.11.02-07.58.31:979][607]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_15)
+[2020.11.02-07.58.35:545][ 31]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_14)
+[2020.11.02-07.58.41:950][786]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_14)
+[2020.11.02-07.58.42:360][834]Cmd: TRANSACTION UNDO
+[2020.11.02-07.58.42:360][834]LogEditorTransaction: Undo Set Location
+[2020.11.02-07.58.43:162][883]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_15)
+[2020.11.02-07.58.46:174][236]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_14)
+[2020.11.02-07.58.49:350][605]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_15)
+[2020.11.02-07.58.51:724][886]Cmd: DELETE
+[2020.11.02-07.58.51:724][886]Cmd: ACTOR DELETE
+[2020.11.02-07.58.51:729][886]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.02-07.58.51:739][886]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.11.02-07.58.51:757][886]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.11.02-07.58.52:781][  9]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_14)
+[2020.11.02-07.59.15:884][753]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.02-07.59.35:785][132]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (ubrqeehhx_LOD0_14)
+[2020.11.02-07.59.49:005][674]Cmd: TRANSACTION UNDO
+[2020.11.02-07.59.49:006][674]LogEditorTransaction: Undo Move Actors
+[2020.11.02-07.59.51:219][894]Cmd: TRANSACTION UNDO
+[2020.11.02-07.59.51:219][894]LogEditorTransaction: Undo Move Actors
+[2020.11.02-07.59.55:790][436]Cmd: TRANSACTION UNDO
+[2020.11.02-07.59.55:790][436]LogEditorTransaction: Undo Move Actors
+[2020.11.02-08.00.01:187][ 34]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (ubrqeehhx_LOD0_14)
+[2020.11.02-08.00.05:301][522]Cmd: TRANSACTION UNDO
+[2020.11.02-08.00.05:301][522]LogEditorTransaction: Undo Move Actors
+[2020.11.02-08.00.07:605][750]Cmd: TRANSACTION UNDO
+[2020.11.02-08.00.07:605][750]LogEditorTransaction: Undo Move Actors
+[2020.11.02-08.00.08:472][851]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.02-08.00.15:228][654]Cmd: TRANSACTION UNDO
+[2020.11.02-08.00.15:228][654]LogEditorTransaction: Undo Move Actors
+[2020.11.02-08.00.19:638][132]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.11.02-08.00.35:679][ 39]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.02-08.00.40:438][591]Cmd: TRANSACTION UNDO
+[2020.11.02-08.00.40:438][591]LogEditorTransaction: Undo Move Actors
+[2020.11.02-08.00.41:406][657]Cmd: TRANSACTION UNDO
+[2020.11.02-08.00.41:406][657]LogEditorTransaction: Undo Move Actors
+[2020.11.02-08.00.44:770][ 60]Cmd: TRANSACTION REDO
+[2020.11.02-08.00.44:770][ 60]LogEditorTransaction: Redo Move Actors
+[2020.11.02-08.00.45:770][133]Cmd: TRANSACTION REDO
+[2020.11.02-08.00.45:771][133]LogEditorTransaction: Redo Move Actors
+[2020.11.02-08.01.01:676][ 17]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.11.02-08.01.31:545][571]LogActorFactory: Actor Factory created ubrqeehhx_LOD0_2
+[2020.11.02-08.01.32:228][647]LogActorFactory: Actor Factory created ubrqeehhx_LOD0_2
+[2020.11.02-08.02.03:587][373]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_14)
+[2020.11.02-08.02.10:352][180]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.11.02-08.02.22:369][613]LogActorFactory: Actor Factory created ubrqeehhx_LOD0_1
+[2020.11.02-08.02.23:194][704]LogActorFactory: Actor Factory created ubrqeehhx_LOD0_1
+[2020.11.02-08.02.27:578][209]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_16)
+[2020.11.02-08.02.41:552][860]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.02-08.03.10:552][310]LogActorFactory: Actor Factory created ubrqeehhx_LOD0_4
+[2020.11.02-08.03.13:794][689]LogActorFactory: Actor Factory created ubrqeehhx_LOD0_4
+[2020.11.02-08.03.52:022][241]Cmd: TRANSACTION UNDO
+[2020.11.02-08.03.52:022][241]LogEditorTransaction: Undo Scale Actors
+[2020.11.02-08.04.29:882][663]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_19)
+[2020.11.02-08.04.39:873][847]Cmd: TRANSACTION UNDO
+[2020.11.02-08.04.39:873][847]LogEditorTransaction: Undo Move Actors
+[2020.11.02-08.05.02:359][462]Cmd: DELETE
+[2020.11.02-08.05.02:359][462]Cmd: ACTOR DELETE
+[2020.11.02-08.05.02:364][462]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.02-08.05.02:375][462]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.11.02-08.05.02:398][462]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2020.11.02-08.05.04:096][666]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_19)
+[2020.11.02-08.05.22:159][804]LogActorFactory: Actor Factory created ubrqeehhx_LOD0_3
+[2020.11.02-08.05.23:497][952]LogActorFactory: Actor Factory created ubrqeehhx_LOD0_3
+[2020.11.02-08.05.32:482][  8]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.02-08.05.35:319][345]Cmd: DELETE
+[2020.11.02-08.05.35:319][345]Cmd: ACTOR DELETE
+[2020.11.02-08.05.35:324][345]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.02-08.05.35:333][345]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.11.02-08.05.35:339][345]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2020.11.02-08.05.36:731][507]LogActorFactory: Actor Factory created ubrqeehhx_LOD0_2
+[2020.11.02-08.05.37:628][610]LogActorFactory: Actor Factory created ubrqeehhx_LOD0_2
+[2020.11.02-08.05.55:320][700]Cmd: TRANSACTION UNDO
+[2020.11.02-08.05.55:320][700]LogEditorTransaction: Undo Move Actors
+[2020.11.02-08.05.56:468][789]Cmd: TRANSACTION REDO
+[2020.11.02-08.05.56:468][789]LogEditorTransaction: Redo Move Actors
+[2020.11.02-08.06.15:410][ 31]Cmd: TRANSACTION UNDO
+[2020.11.02-08.06.15:410][ 31]LogEditorTransaction: Undo Move Actors
+[2020.11.02-08.06.25:237][159]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_19)
+[2020.11.02-08.06.26:383][293]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_21)
+[2020.11.02-08.06.46:691][698]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_19)
+[2020.11.02-08.06.49:958][ 86]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_21)
+[2020.11.02-08.07.02:485][574]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_21)
+[2020.11.02-08.07.02:851][617]Cmd: TRANSACTION UNDO
+[2020.11.02-08.07.02:851][617]LogEditorTransaction: Undo Set Location
+[2020.11.02-08.07.08:076][190]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheLevel_KRoom3_Wall3)
+[2020.11.02-08.07.09:238][326]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_21)
+[2020.11.02-08.07.11:055][540]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheLevel_KRoom3_Wall3)
+[2020.11.02-08.07.12:427][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.11.02-08.07.12:551][695]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/RestaurantLevelDE53718941738D2649B178BAB26765E0.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Levels/RestaurantLevel.umap'
+[2020.11.02-08.07.13:340][695]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/RestaurantLevel_BuiltData793E723343443AB003A6569C09CE9D3E.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Levels/RestaurantLevel_BuiltData.uasset'
+[2020.11.02-08.07.13:380][695]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.02-08.07.13:380][695]LogContentValidation: Display: Validating World /Game/Levels/RestaurantLevel.RestaurantLevel
+[2020.11.02-08.07.13:380][695]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/RestaurantLevel_BuiltData.RestaurantLevel_BuiltData
+[2020.11.02-08.07.23:890][950]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_20)
+[2020.11.02-08.07.28:458][492]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.02-08.07.32:978][ 27]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheLevel_KRoom3_Wall3)
+[2020.11.02-08.07.34:416][196]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_20)
+[2020.11.02-08.07.38:347][656]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_21)
+[2020.11.02-08.07.53:372][426]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_20)
+[2020.11.02-08.07.58:111][985]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.02-08.08.03:433][621]Cmd: TRANSACTION UNDO
+[2020.11.02-08.08.03:433][621]LogEditorTransaction: Undo Move Actors
+[2020.11.02-08.08.32:944][ 97]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.02-08.08.50:382][161]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_14)
+[2020.11.02-08.08.51:118][246]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_24)
+[2020.11.02-08.09.01:359][460]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_14)
+[2020.11.02-08.09.08:152][265]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_14)
+[2020.11.02-08.09.37:831][783]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_24)
+[2020.11.02-08.09.43:691][473]Cmd: TRANSACTION UNDO
+[2020.11.02-08.09.43:691][473]LogEditorTransaction: Undo Set Rotation
+[2020.11.02-08.10.09:056][444]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheLevel_Kitchen_MainWall)
+[2020.11.02-08.10.13:093][913]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_24)
+[2020.11.02-08.10.36:541][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.11.02-08.10.41:895][695]LogSlate: Window 'Delete Assets' being destroyed
+[2020.11.02-08.10.42:556][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2020.11.02-08.10.42:662][763]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/RestaurantLevel2DC82A1249D933B38F28F3A68C8C80F4.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Levels/RestaurantLevel.umap'
+[2020.11.02-08.10.43:404][763]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/RestaurantLevel_BuiltDataC66628C24BF493DB4C038E9E7556BAA4.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Levels/RestaurantLevel_BuiltData.uasset'
+[2020.11.02-08.10.43:444][763]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.02-08.10.43:444][763]LogContentValidation: Display: Validating World /Game/Levels/RestaurantLevel.RestaurantLevel
+[2020.11.02-08.10.43:444][763]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/RestaurantLevel_BuiltData.RestaurantLevel_BuiltData
+[2020.11.02-08.10.45:814][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.11.02-08.10.46:840][ 29]LogSlate: Window 'Delete Assets' being destroyed
+[2020.11.02-08.10.47:345][ 29]LogUObjectGlobals: Force Deleting 6 Package(s):
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Foliage/ubrqeehhx_LOD0_4.ubrqeehhx_LOD0_4
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Foliage/ubrqeehhx_LOD0_3.ubrqeehhx_LOD0_3
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Foliage/ubrqeehhx_LOD0_2.ubrqeehhx_LOD0_2
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Foliage/ubrqeehhx_LOD0_1.ubrqeehhx_LOD0_1
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Foliage/ubrqeehhx_LOD0_6.ubrqeehhx_LOD0_6
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Foliage/ubrqeehhx_LOD0_5.ubrqeehhx_LOD0_5
+[2020.11.02-08.10.47:866][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.11.02-08.10.47:876][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.11.02-08.10.47:884][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.11.02-08.10.47:892][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.11.02-08.10.47:901][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.11.02-08.10.47:909][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.11.02-08.10.47:919][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.11.02-08.10.47:928][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2020.11.02-08.11.05:850][166]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_22)
+[2020.11.02-08.11.11:145][794]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.02-08.11.20:302][882]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_24)
+[2020.11.02-08.11.32:968][389]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheLevel_KRoom2_Wall1)
+[2020.11.02-08.11.33:535][453]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_16)
+[2020.11.02-08.11.37:171][882]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.02-08.11.48:304][187]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_26)
+[2020.11.02-08.11.48:627][225]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.02-08.12.01:590][759]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.02-08.12.15:177][382]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_25)
+[2020.11.02-08.12.17:332][637]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_26)
+[2020.11.02-08.12.19:527][897]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_25)
+[2020.11.02-08.12.20:287][985]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_26)
+[2020.11.02-08.12.22:425][235]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_25)
+[2020.11.02-08.12.23:272][333]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_26)
+[2020.11.02-08.12.29:559][ 80]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_24)
+[2020.11.02-08.13.00:492][761]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_19)
+[2020.11.02-08.13.10:316][923]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_20)
+[2020.11.02-08.13.14:115][367]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (ubrqeehhx_LOD0_23)
+[2020.11.02-08.13.19:030][942]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_21)
+[2020.11.02-08.13.23:182][432]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.02-08.13.30:233][260]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_22)
+[2020.11.02-08.13.32:441][514]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.02-08.13.36:065][945]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheLevel_WashroomFloor)
+[2020.11.02-08.13.37:477][111]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_22)
+[2020.11.02-08.13.40:024][404]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_25)
+[2020.11.02-08.13.42:958][748]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.02-08.13.47:742][314]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_23)
+[2020.11.02-08.13.53:610][  9]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.02-08.14.12:190][210]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_26)
+[2020.11.02-08.14.38:326][335]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheLevel_KRoom2_Floor)
+[2020.11.02-08.14.40:465][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.11.02-08.14.40:598][579]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/RestaurantLevel0A85335B49770E17428A4DA7C0CB1D72.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Levels/RestaurantLevel.umap'
+[2020.11.02-08.14.41:360][579]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/RestaurantLevel_BuiltDataB9AA34A2471ACF45B97FD2B2A4344C11.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Levels/RestaurantLevel_BuiltData.uasset'
+[2020.11.02-08.14.41:392][579]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.02-08.14.41:392][579]LogContentValidation: Display: Validating World /Game/Levels/RestaurantLevel.RestaurantLevel
+[2020.11.02-08.14.41:392][579]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/RestaurantLevel_BuiltData.RestaurantLevel_BuiltData
+[2020.11.02-08.15.28:984][275]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.11.02-08.15.34:093][871]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_27)
+[2020.11.02-08.15.46:765][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.11.02-08.15.46:890][375]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/RestaurantLevel228A36394CCD671CD5F448BA23057D3E.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Levels/RestaurantLevel.umap'
+[2020.11.02-08.15.47:649][375]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/RestaurantLevel_BuiltDataB050F7B44D33CBD85199409CEB1F0C96.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Levels/RestaurantLevel_BuiltData.uasset'
+[2020.11.02-08.15.47:678][375]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.02-08.15.47:678][375]LogContentValidation: Display: Validating World /Game/Levels/RestaurantLevel.RestaurantLevel
+[2020.11.02-08.15.47:678][375]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/RestaurantLevel_BuiltData.RestaurantLevel_BuiltData
+[2020.11.02-08.15.48:220][439]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_6)
+[2020.11.02-08.15.51:336][782]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_6.ubrqeehhx_LOD0_6
+[2020.11.02-08.15.51:567][782]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.11.02-08.15.51:567][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.02-08.15.58:564][248]LogSlate: Window 'ubrqeehhx_LOD0_6' being destroyed
+[2020.11.02-08.15.58:583][248]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.11.02-08.15.58:583][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.02-08.16.18:776][514]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/ubrqeehhx_LOD0_6A3D9610A4A964E9842529AACD362AA23.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_6.uasset'
+[2020.11.02-08.16.18:784][514]AssetCheck: New page: Asset Save: ubrqeehhx_LOD0_6
+[2020.11.02-08.16.18:784][514]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_6.ubrqeehhx_LOD0_6
