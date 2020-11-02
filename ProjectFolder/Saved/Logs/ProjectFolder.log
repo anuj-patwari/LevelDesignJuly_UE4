@@ -2277,3 +2277,384 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.02-08.16.18:776][514]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/ubrqeehhx_LOD0_6A3D9610A4A964E9842529AACD362AA23.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_6.uasset'
 [2020.11.02-08.16.18:784][514]AssetCheck: New page: Asset Save: ubrqeehhx_LOD0_6
 [2020.11.02-08.16.18:784][514]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_6.ubrqeehhx_LOD0_6
+[2020.11.02-08.47.12:429][702]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2020.11.02-08.47.14:459][938]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LargeRoom_BrokenFloor)
+[2020.11.02-08.47.40:021][996]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheLevel_WashroomOuterWall)
+[2020.11.02-08.48.05:647][ 58]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheLevel_WashroomFloor)
+[2020.11.02-08.48.18:617][396]LogD3D12RHI: Creating RTPSO with 171 shaders (170 cached, 1 new) took 28.03 ms. Compile time 9.34 ms, link time 18.32 ms.
+[2020.11.02-08.48.22:288][789]LogD3D12RHI: Creating RTPSO with 172 shaders (171 cached, 1 new) took 214.64 ms. Compile time 207.05 ms, link time 7.34 ms.
+[2020.11.02-08.48.32:185][967]Cmd: TRANSACTION UNDO
+[2020.11.02-08.48.32:185][967]LogEditorTransaction: Undo Foliage Editing
+[2020.11.02-08.48.37:466][547]Cmd: TRANSACTION UNDO
+[2020.11.02-08.48.37:466][547]LogEditorTransaction: Undo Foliage Editing
+[2020.11.02-08.48.46:036][491]LogD3D12RHI: Creating RTPSO with 173 shaders (172 cached, 1 new) took 17.54 ms. Compile time 9.69 ms, link time 7.57 ms.
+[2020.11.02-08.48.48:057][729]Cmd: TRANSACTION UNDO
+[2020.11.02-08.48.48:057][729]LogEditorTransaction: Undo Foliage Editing
+[2020.11.02-08.48.55:705][462]Cmd: TRANSACTION UNDO
+[2020.11.02-08.48.55:705][462]LogEditorTransaction: Undo Foliage Editing
+[2020.11.02-08.48.57:839][671]Cmd: TRANSACTION UNDO
+[2020.11.02-08.48.57:840][671]LogEditorTransaction: Undo Foliage Editing
+[2020.11.02-08.49.05:055][515]Cmd: TRANSACTION UNDO
+[2020.11.02-08.49.05:055][515]LogEditorTransaction: Undo Foliage Editing
+[2020.11.02-08.49.18:073][990]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.11.02-08.49.39:365][510]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.11.02-08.50.33:066][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.11.02-08.50.33:293][911]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/RestaurantLevel5E3075EC4899D1F863C280B17100F5BB.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Levels/RestaurantLevel.umap'
+[2020.11.02-08.50.34:062][911]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/RestaurantLevel_BuiltData1D887CE1494B9C0DFB2BAF8758D56AEB.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Levels/RestaurantLevel_BuiltData.uasset'
+[2020.11.02-08.50.34:095][911]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.02-08.50.34:095][911]LogContentValidation: Display: Validating World /Game/Levels/RestaurantLevel.RestaurantLevel
+[2020.11.02-08.50.34:095][911]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/RestaurantLevel_BuiltData.RestaurantLevel_BuiltData
+[2020.11.02-08.50.55:102][422]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LargeRoom_BrokenFloor)
+[2020.11.02-08.51.07:869][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.11.02-08.51.08:001][857]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/RestaurantLevel62F4375C4C4A298BB3D487ABA90D86FA.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Levels/RestaurantLevel.umap'
+[2020.11.02-08.51.08:747][857]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/RestaurantLevel_BuiltDataEA0FBFB74E20B29FF9F164908E70C43F.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Levels/RestaurantLevel_BuiltData.uasset'
+[2020.11.02-08.51.08:783][857]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.02-08.51.08:783][857]LogContentValidation: Display: Validating World /Game/Levels/RestaurantLevel.RestaurantLevel
+[2020.11.02-08.51.08:783][857]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/RestaurantLevel_BuiltData.RestaurantLevel_BuiltData
+[2020.11.02-08.52.18:026][ 47]MapCheck: New page: Map Check
+[2020.11.02-08.52.18:038][ 47]LightingResults: New page: Lighting Build - Nov 2, 2020, 7:52:18 PM
+[2020.11.02-08.52.18:077][ 47]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.11.02-08.52.18:077][ 47]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.11.02-08.52.18:077][ 47]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.11.02-08.52.18:077][ 47]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.11.02-08.52.18:077][ 47]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.11.02-08.52.18:077][ 47]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.11.02-08.52.18:077][ 47]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.11.02-08.52.18:077][ 47]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.11.02-08.52.18:095][ 47]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.11.02-08.52.18:099][ 47]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.11.02-08.52.18:099][ 47]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.11.02-08.52.18:101][ 47]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.11.02-08.52.18:101][ 47]LogSwarmInterface: [TryOpenConnection] Local Process ID is 8504
+[2020.11.02-08.52.22:910][ 47]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.11.02-08.52.22:910][ 47]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.11.02-08.52.22:910][ 47]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.11.02-08.52.22:911][ 47]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.11.02-08.52.22:911][ 47]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.11.02-08.52.23:557][ 47]LogEditorBuildUtils: Build time 0:05
+[2020.11.02-08.52.24:039][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.11.02-08.52.38:383][436]LightingResults: Warning: ubrqeehhx_LOD0_1 Object has wrapping UVs.
+[2020.11.02-08.52.39:729][440]LightingResults: Warning: ubrqeehhx_LOD0_1 Object has wrapping UVs.
+[2020.11.02-08.52.43:144][450]LightingResults: Warning: ubrqeehhx_LOD0_2 Object has wrapping UVs.
+[2020.11.02-08.52.44:495][456]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.11.02-08.52.46:447][469]LightingResults: Warning: ubrqeehhx_LOD0_1 Object has wrapping UVs.
+[2020.11.02-08.52.52:239][490]LightingResults: Warning: ubrqeehhx_LOD0_1 Object has wrapping UVs.
+[2020.11.02-08.52.53:577][494]LightingResults: Warning: ubrqeehhx_LOD0_1 Object has wrapping UVs.
+[2020.11.02-08.52.57:956][507]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.11.02-08.52.58:639][509]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.11.02-08.53.00:028][513]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.11.02-08.53.03:531][523]LightingResults: Warning: ubrqeehhx_LOD0_2 Object has wrapping UVs.
+[2020.11.02-08.53.04:247][525]LightingResults: Warning: ubrqeehhx_LOD0_1 Object has wrapping UVs.
+[2020.11.02-08.53.07:598][535]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.11.02-08.53.08:954][539]LightingResults: Warning: ubrqeehhx_LOD0_2 Object has wrapping UVs.
+[2020.11.02-08.53.11:307][546]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.11.02-08.53.13:975][554]LightingResults: Warning: ubrqeehhx_LOD0_1 Object has wrapping UVs.
+[2020.11.02-08.53.18:015][566]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.11.02-08.53.22:053][578]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.11.02-08.53.22:389][579]LightingResults: Warning: ubrqeehhx_LOD0_2 Object has wrapping UVs.
+[2020.11.02-08.53.23:727][583]LightingResults: Warning: ubrqeehhx_LOD0_2 Object has wrapping UVs.
+[2020.11.02-08.53.24:402][585]LightingResults: Warning: ubrqeehhx_LOD0_1 Object has wrapping UVs.
+[2020.11.02-08.53.25:751][589]LightingResults: Warning: ubrqeehhx_LOD0_2 Object has wrapping UVs.
+[2020.11.02-08.53.26:759][592]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.11.02-08.53.27:088][593]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.11.02-08.53.35:158][617]Job is a success!
+[2020.11.02-08.53.35:634][618]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.006s
+[2020.11.02-08.53.35:634][618]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.11.02-08.53.35:634][618]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2020.11.02-08.53.35:634][618]LogVolumetricLightmapImport:      Bricks at depth
+[2020.11.02-08.53.35:634][618]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2020.11.02-08.53.35:634][618]LogVolumetricLightmapImport:          1: 10.0% covering 1.6% of volume
+[2020.11.02-08.53.35:634][618]LogVolumetricLightmapImport:          2: 80.0% covering 0.2% of volume
+[2020.11.02-08.53.35:634][618]LogVolumetricLightmapImport:      Bricks in each level
+[2020.11.02-08.53.35:634][618]LogVolumetricLightmapImport:          RestaurantLevel 			 10 bricks 	 100.0% (Persistent Level)
+[2020.11.02-08.53.40:597][618]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.11.02-08.53.40:597][618]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.11.02-08.53.40:597][618]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2020.11.02-08.53.40:597][618]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2020.11.02-08.53.40:597][618]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2020.11.02-08.53.40:597][618]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2020.11.02-08.53.40:597][618]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2020.11.02-08.53.40:597][618]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2020.11.02-08.53.40:597][618]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 1024X1024)
+[2020.11.02-08.53.40:598][618]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 1024X1024)
+[2020.11.02-08.53.40:598][618]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 1024X1024)
+[2020.11.02-08.53.40:598][618]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 1024X1024)
+[2020.11.02-08.53.40:598][618]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 1024X1024)
+[2020.11.02-08.53.40:598][618]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 1024X1024)
+[2020.11.02-08.53.40:598][618]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 1024X1024)
+[2020.11.02-08.53.40:598][618]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 1024X1024)
+[2020.11.02-08.53.40:598][618]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 1024X1024)
+[2020.11.02-08.53.40:598][618]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 1024X1024)
+[2020.11.02-08.53.40:598][618]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 64X64)
+[2020.11.02-08.53.40:598][618]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 64X64)
+[2020.11.02-08.53.40:642][618]Lightmass on ANUJ-PC: 1:15 min total, 1.94 sec importing, 988 ms setup, 9.36 sec photons, 1:03 min processing, 0 ms extra exporting [1203/1203 mappings]. Threads: 7:21 min total, 5:39 min processing.
+[2020.11.02-08.53.40:642][618]LogStaticLightingSystem: RestaurantLevel_BuiltData storing lightmap data for 409 meshes in 11 LightmapResourceClusters (37.2 Meshes per cluster).
+[2020.11.02-08.53.40:663][618]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.11.02-08.53.40:714][618]LogStaticLightingSystem: Illumination: 1:22 min (3.80 sec encoding lightmaps, 0 ms encoding shadowmaps)
+[2020.11.02-08.53.40:714][618]LogStaticLightingSystem: Lightmap texture memory:  18.7 MB (18.7 MB streaming, 0.0 MB non-streaming), 20 textures
+[2020.11.02-08.53.40:714][618]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2020.11.02-08.53.40:978][618]DumpUnbuiltLightIteractions
+[2020.11.02-08.53.40:978][618]Lights with unbuilt interactions: 0
+[2020.11.02-08.53.40:978][618]
+[2020.11.02-08.53.40:978][618]Primitives with unbuilt interactions: 0
+[2020.11.02-08.53.41:035][619]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.11.02-08.53.41:035][619]MapCheck: New page: RestaurantLevel - Nov 2, 2020, 7:53:41 PM
+[2020.11.02-08.53.41:067][619]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 32.574ms to complete.
+[2020.11.02-09.01.13:816][966]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.11.02-09.01.13:937][966]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/RestaurantLevel_Auto4E8F04A6545CF1BAD776DC5A5795E3B6B.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/Autosaves/Game/Levels/RestaurantLevel_Auto4.umap'
+[2020.11.02-09.01.13:938][966]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/RestaurantLevel' took 0.133
+[2020.11.02-09.01.13:938][966]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.133
+[2020.11.02-09.01.13:939][966]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var1_LOD2_1] ([1] browsable assets)...
+[2020.11.02-09.01.13:962][966]OBJ SavePackage:     Rendered thumbnail for [FoliageType_InstancedStaticMesh /Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var1_LOD2_1.uehjcafia_Var1_LOD2_1]
+[2020.11.02-09.01.13:962][966]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var1_LOD2_1]
+[2020.11.02-09.01.13:976][966]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/uehjcafia_Var1_LOD2_1_Auto41AA5A0994C067613D3386A929ABBD895.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/Autosaves/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var1_LOD2_1_Auto4.uasset'
+[2020.11.02-09.01.13:999][966]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var2_LOD2_2] ([1] browsable assets)...
+[2020.11.02-09.01.14:023][966]OBJ SavePackage:     Rendered thumbnail for [FoliageType_InstancedStaticMesh /Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var2_LOD2_2.uehjcafia_Var2_LOD2_2]
+[2020.11.02-09.01.14:023][966]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var2_LOD2_2]
+[2020.11.02-09.01.14:051][966]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/uehjcafia_Var2_LOD2_2_Auto464861327467A5B6FC2F6FBA5871FB7E0.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/Autosaves/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var2_LOD2_2_Auto4.uasset'
+[2020.11.02-09.01.14:052][966]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var3_LOD2_3] ([1] browsable assets)...
+[2020.11.02-09.01.14:075][966]OBJ SavePackage:     Rendered thumbnail for [FoliageType_InstancedStaticMesh /Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var3_LOD2_3.uehjcafia_Var3_LOD2_3]
+[2020.11.02-09.01.14:075][966]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var3_LOD2_3]
+[2020.11.02-09.01.14:105][966]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/uehjcafia_Var3_LOD2_3_Auto4DDCAA0B14140296EC2844EB32B72C4D0.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/Autosaves/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var3_LOD2_3_Auto4.uasset'
+[2020.11.02-09.01.14:106][966]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var4_LOD2_4] ([1] browsable assets)...
+[2020.11.02-09.01.14:127][966]OBJ SavePackage:     Rendered thumbnail for [FoliageType_InstancedStaticMesh /Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var4_LOD2_4.uehjcafia_Var4_LOD2_4]
+[2020.11.02-09.01.14:127][966]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var4_LOD2_4]
+[2020.11.02-09.01.14:166][966]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/uehjcafia_Var4_LOD2_4_Auto4472570A84F64B509B52730B4D07DCBC5.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/Autosaves/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var4_LOD2_4_Auto4.uasset'
+[2020.11.02-09.01.14:168][966]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var5_LOD2_5] ([1] browsable assets)...
+[2020.11.02-09.01.14:206][966]OBJ SavePackage:     Rendered thumbnail for [FoliageType_InstancedStaticMesh /Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var5_LOD2_5.uehjcafia_Var5_LOD2_5]
+[2020.11.02-09.01.14:206][966]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var5_LOD2_5]
+[2020.11.02-09.01.14:233][966]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/uehjcafia_Var5_LOD2_5_Auto447766D04461D5A0575BAE5B78C3B986A.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/Autosaves/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var5_LOD2_5_Auto4.uasset'
+[2020.11.02-09.01.14:234][966]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var6_LOD2_6] ([1] browsable assets)...
+[2020.11.02-09.01.14:253][966]OBJ SavePackage:     Rendered thumbnail for [FoliageType_InstancedStaticMesh /Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var6_LOD2_6.uehjcafia_Var6_LOD2_6]
+[2020.11.02-09.01.14:253][966]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var6_LOD2_6]
+[2020.11.02-09.01.14:273][966]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/uehjcafia_Var6_LOD2_6_Auto4A5810ED84F81518AB9764AB7F34B546D.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/Autosaves/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var6_LOD2_6_Auto4.uasset'
+[2020.11.02-09.01.14:274][966]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var7_LOD2_7] ([1] browsable assets)...
+[2020.11.02-09.01.14:290][966]OBJ SavePackage:     Rendered thumbnail for [FoliageType_InstancedStaticMesh /Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var7_LOD2_7.uehjcafia_Var7_LOD2_7]
+[2020.11.02-09.01.14:290][966]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var7_LOD2_7]
+[2020.11.02-09.01.14:305][966]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/uehjcafia_Var7_LOD2_7_Auto4B020D4C94E13D323199346A4FBDEC889.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/Autosaves/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var7_LOD2_7_Auto4.uasset'
+[2020.11.02-09.01.14:305][966]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var8_LOD2_8] ([1] browsable assets)...
+[2020.11.02-09.01.14:319][966]OBJ SavePackage:     Rendered thumbnail for [FoliageType_InstancedStaticMesh /Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var8_LOD2_8.uehjcafia_Var8_LOD2_8]
+[2020.11.02-09.01.14:319][966]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var8_LOD2_8]
+[2020.11.02-09.01.14:333][966]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/uehjcafia_Var8_LOD2_8_Auto42CA5C805420967EA73FEF296F983B72E.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/Autosaves/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var8_LOD2_8_Auto4.uasset'
+[2020.11.02-09.01.14:334][966]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var9_LOD2_9] ([1] browsable assets)...
+[2020.11.02-09.01.14:351][966]OBJ SavePackage:     Rendered thumbnail for [FoliageType_InstancedStaticMesh /Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var9_LOD2_9.uehjcafia_Var9_LOD2_9]
+[2020.11.02-09.01.14:351][966]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var9_LOD2_9]
+[2020.11.02-09.01.14:366][966]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/uehjcafia_Var9_LOD2_9_Auto40A50E1AB48AA237BE1197D8F856A9EB5.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/Autosaves/Game/Megascans/3D_Plants/Salt_Bulrush_00/Foliage/uehjcafia_Var9_LOD2_9_Auto4.uasset'
+[2020.11.02-09.01.14:366][966]LogFileHelpers: Auto-saving content packages took 0.428
+[2020.11.02-09.19.37:261][298]LogSlate: Window 'Message Log' being destroyed
+[2020.11.02-09.19.37:521][298]LogSlate: Window 'Message Log' being destroyed
+[2020.11.02-09.20.02:545][658]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.11.02-09.20.02:670][658]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/RestaurantLevel28825B4B419B1CB8C5426FB683A96B6A.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Levels/RestaurantLevel.umap'
+[2020.11.02-09.20.03:502][658]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/RestaurantLevel_BuiltDataBB08446F4B86A237152FDEB0DDBC65B2.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Levels/RestaurantLevel_BuiltData.uasset'
+[2020.11.02-09.20.03:544][658]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.02-09.20.03:544][658]LogContentValidation: Display: Validating World /Game/Levels/RestaurantLevel.RestaurantLevel
+[2020.11.02-09.20.03:544][658]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/RestaurantLevel_BuiltData.RestaurantLevel_BuiltData
+[2020.11.02-09.21.05:717][513]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.02-09.23.07:548][191]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.02-09.23.55:330][307]Cmd: TRANSACTION UNDO
+[2020.11.02-09.23.55:330][307]LogEditorTransaction: Undo Move Actors
+[2020.11.02-09.23.58:412][528]MapCheck: New page: Map Check
+[2020.11.02-09.23.58:427][528]LightingResults: New page: Lighting Build - Nov 2, 2020, 8:23:58 PM
+[2020.11.02-09.23.58:432][528]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.11.02-09.23.58:433][528]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.11.02-09.23.58:433][528]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.11.02-09.23.58:433][528]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.11.02-09.23.58:433][528]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.11.02-09.23.58:433][528]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.11.02-09.23.58:433][528]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.11.02-09.23.58:433][528]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.11.02-09.23.58:449][528]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.11.02-09.23.58:451][528]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.11.02-09.23.58:451][528]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.11.02-09.23.58:452][528]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.11.02-09.23.58:452][528]LogSwarmInterface: [TryOpenConnection] Local Process ID is 8504
+[2020.11.02-09.24.02:982][528]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.11.02-09.24.02:982][528]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.11.02-09.24.02:982][528]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.11.02-09.24.02:982][528]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.11.02-09.24.02:982][528]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.11.02-09.24.03:350][528]LogEditorBuildUtils: Build time 0:04
+[2020.11.02-09.24.03:445][529]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2020.11.02-09.24.15:554][716]LightingResults: Warning: ubrqeehhx_LOD0_1 Object has wrapping UVs.
+[2020.11.02-09.24.17:042][736]LightingResults: Warning: ubrqeehhx_LOD0_1 Object has wrapping UVs.
+[2020.11.02-09.24.20:402][781]LightingResults: Warning: ubrqeehhx_LOD0_2 Object has wrapping UVs.
+[2020.11.02-09.24.21:511][796]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.11.02-09.24.23:138][818]LightingResults: Warning: ubrqeehhx_LOD0_1 Object has wrapping UVs.
+[2020.11.02-09.24.27:751][880]LightingResults: Warning: ubrqeehhx_LOD0_1 Object has wrapping UVs.
+[2020.11.02-09.24.29:315][901]LightingResults: Warning: ubrqeehhx_LOD0_1 Object has wrapping UVs.
+[2020.11.02-09.24.33:336][955]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.11.02-09.24.34:071][965]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.11.02-09.24.35:481][984]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.11.02-09.24.38:229][ 21]LightingResults: Warning: ubrqeehhx_LOD0_2 Object has wrapping UVs.
+[2020.11.02-09.24.38:600][ 26]LightingResults: Warning: ubrqeehhx_LOD0_1 Object has wrapping UVs.
+[2020.11.02-09.24.41:506][ 65]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.11.02-09.24.42:401][ 77]LightingResults: Warning: ubrqeehhx_LOD0_2 Object has wrapping UVs.
+[2020.11.02-09.24.45:300][116]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.11.02-09.24.47:823][150]LightingResults: Warning: ubrqeehhx_LOD0_1 Object has wrapping UVs.
+[2020.11.02-09.24.51:826][204]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.11.02-09.24.56:646][269]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.11.02-09.24.56:797][271]LightingResults: Warning: ubrqeehhx_LOD0_2 Object has wrapping UVs.
+[2020.11.02-09.24.58:357][292]LightingResults: Warning: ubrqeehhx_LOD0_2 Object has wrapping UVs.
+[2020.11.02-09.24.59:107][302]LightingResults: Warning: ubrqeehhx_LOD0_1 Object has wrapping UVs.
+[2020.11.02-09.25.00:661][323]LightingResults: Warning: ubrqeehhx_LOD0_2 Object has wrapping UVs.
+[2020.11.02-09.25.01:036][328]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.11.02-09.25.01:854][339]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.11.02-09.25.09:318][440]Job is a success!
+[2020.11.02-09.25.09:779][441]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.010s
+[2020.11.02-09.25.09:779][441]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.11.02-09.25.09:779][441]LogVolumetricLightmapImport:      BrickData (all levels) 0.0Mb
+[2020.11.02-09.25.09:779][441]LogVolumetricLightmapImport:      Bricks at depth
+[2020.11.02-09.25.09:779][441]LogVolumetricLightmapImport:          0: 10.0% covering 100.0% of volume
+[2020.11.02-09.25.09:779][441]LogVolumetricLightmapImport:          1: 10.0% covering 1.6% of volume
+[2020.11.02-09.25.09:779][441]LogVolumetricLightmapImport:          2: 80.0% covering 0.2% of volume
+[2020.11.02-09.25.09:779][441]LogVolumetricLightmapImport:      Bricks in each level
+[2020.11.02-09.25.09:779][441]LogVolumetricLightmapImport:          RestaurantLevel 			 10 bricks 	 100.0% (Persistent Level)
+[2020.11.02-09.25.14:607][441]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.11.02-09.25.14:607][441]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.11.02-09.25.14:607][441]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2020.11.02-09.25.14:607][441]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2020.11.02-09.25.14:607][441]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2020.11.02-09.25.14:607][441]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2020.11.02-09.25.14:607][441]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 1024X1024)
+[2020.11.02-09.25.14:607][441]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 1024X1024)
+[2020.11.02-09.25.14:607][441]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 1024X1024)
+[2020.11.02-09.25.14:607][441]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 1024X1024)
+[2020.11.02-09.25.14:607][441]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 1024X1024)
+[2020.11.02-09.25.14:607][441]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 1024X1024)
+[2020.11.02-09.25.14:607][441]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 1024X1024)
+[2020.11.02-09.25.14:607][441]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 1024X1024)
+[2020.11.02-09.25.14:607][441]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 1024X1024)
+[2020.11.02-09.25.14:607][441]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 1024X1024)
+[2020.11.02-09.25.14:607][441]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 1024X1024)
+[2020.11.02-09.25.14:607][441]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 1024X1024)
+[2020.11.02-09.25.14:607][441]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 64X64)
+[2020.11.02-09.25.14:607][441]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 64X64)
+[2020.11.02-09.25.14:934][441]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X1024)
+[2020.11.02-09.25.14:934][441]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X1024)
+[2020.11.02-09.25.14:934][441]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X1024)
+[2020.11.02-09.25.14:934][441]Lightmass on ANUJ-PC: 1:10 min total, 463 ms importing, 568 ms setup, 9.00 sec photons, 1:00 min processing, 0 ms extra exporting [1203/1203 mappings]. Threads: 7:05 min total, 5:27 min processing.
+[2020.11.02-09.25.14:944][441]LogStaticLightingSystem: RestaurantLevel_BuiltData storing lightmap data for 409 meshes in 21 LightmapResourceClusters (19.5 Meshes per cluster).
+[2020.11.02-09.25.14:968][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.11.02-09.25.15:021][441]LogStaticLightingSystem: Illumination: 1:16 min (3.51 sec encoding lightmaps, 271 ms encoding shadowmaps)
+[2020.11.02-09.25.15:021][441]LogStaticLightingSystem: Lightmap texture memory:  18.7 MB (18.7 MB streaming, 0.0 MB non-streaming), 20 textures
+[2020.11.02-09.25.15:021][441]LogStaticLightingSystem: Shadowmap texture memory: 16.1 MB (16.1 MB streaming, 0.0 MB non-streaming), 3 textures
+[2020.11.02-09.25.16:036][441]DumpUnbuiltLightIteractions
+[2020.11.02-09.25.16:037][441]Lights with unbuilt interactions: 0
+[2020.11.02-09.25.16:037][441]
+[2020.11.02-09.25.16:037][441]Primitives with unbuilt interactions: 0
+[2020.11.02-09.25.16:161][442]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.11.02-09.25.16:161][442]MapCheck: New page: RestaurantLevel - Nov 2, 2020, 8:25:16 PM
+[2020.11.02-09.25.16:162][442]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.997ms to complete.
+[2020.11.02-09.25.16:197][444]LogD3D12RHI: Creating RTPSO with 174 shaders (173 cached, 1 new) took 24.15 ms. Compile time 7.14 ms, link time 16.65 ms.
+[2020.11.02-09.26.18:908][857]LogSlate: Window 'Message Log' being destroyed
+[2020.11.02-09.26.18:985][857]LogSlate: Window 'Message Log' being destroyed
+[2020.11.02-09.27.13:292][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.11.02-09.27.13:430][  0]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/RestaurantLevel5011CCD3471F3FC8B5FFC1AB92AA46D6.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Levels/RestaurantLevel.umap'
+[2020.11.02-09.27.14:313][  0]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/RestaurantLevel_BuiltData0588B09446FB3E4E7FB7759B7F1BAB62.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Levels/RestaurantLevel_BuiltData.uasset'
+[2020.11.02-09.27.14:344][  0]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.02-09.27.14:344][  0]LogContentValidation: Display: Validating World /Game/Levels/RestaurantLevel.RestaurantLevel
+[2020.11.02-09.27.14:344][  0]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/RestaurantLevel_BuiltData.RestaurantLevel_BuiltData
+[2020.11.02-09.27.20:069][ 49]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_1.ubrqeehhx_LOD0_1
+[2020.11.02-09.27.20:340][ 49]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.11.02-09.27.20:340][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.02-09.27.26:381][336]LogSlate: Window 'Generate Unwrapped UV' being destroyed
+[2020.11.02-09.27.26:483][336]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_1...
+[2020.11.02-09.27.26:581][336]LogStaticMesh: Built static mesh [0.10s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_1.ubrqeehhx_LOD0_1
+[2020.11.02-09.27.26:631][336]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_1...
+[2020.11.02-09.27.26:747][336]LogStaticMesh: Built static mesh [0.12s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_1.ubrqeehhx_LOD0_1
+[2020.11.02-09.27.26:794][336]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_1...
+[2020.11.02-09.27.26:929][336]LogStaticMesh: Built static mesh [0.13s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_1.ubrqeehhx_LOD0_1
+[2020.11.02-09.27.26:976][336]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_1...
+[2020.11.02-09.27.27:124][336]LogStaticMesh: Built static mesh [0.15s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_1.ubrqeehhx_LOD0_1
+[2020.11.02-09.27.27:170][336]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_1...
+[2020.11.02-09.27.27:333][336]LogStaticMesh: Built static mesh [0.16s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_1.ubrqeehhx_LOD0_1
+[2020.11.02-09.27.27:380][336]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_1...
+[2020.11.02-09.27.27:553][336]LogStaticMesh: Built static mesh [0.17s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_1.ubrqeehhx_LOD0_1
+[2020.11.02-09.27.32:772][374]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/ubrqeehhx_LOD0_14D09B4094AF14165FA7CC7ADDC5F4933.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_1.uasset'
+[2020.11.02-09.27.32:784][374]AssetCheck: New page: Asset Save: ubrqeehhx_LOD0_1
+[2020.11.02-09.27.32:784][374]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_1.ubrqeehhx_LOD0_1
+[2020.11.02-09.27.35:693][399]LogSlate: Window 'ubrqeehhx_LOD0_1' being destroyed
+[2020.11.02-09.27.35:982][399]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.11.02-09.27.35:982][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.02-09.27.46:107][569]Cmd: TRANSACTION UNDO
+[2020.11.02-09.27.46:107][569]LogEditorTransaction: Undo Generate Unwrapped UVs
+[2020.11.02-09.27.48:251][623]Cmd: TRANSACTION REDO
+[2020.11.02-09.27.48:251][623]LogEditorTransaction: Redo Generate Unwrapped UVs
+[2020.11.02-09.28.10:228][925]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LargeRoom_BrokenFloor)
+[2020.11.02-09.29.07:899][375]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_1.ubrqeehhx_LOD0_1
+[2020.11.02-09.29.08:141][375]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.11.02-09.29.08:141][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.02-09.29.18:500][159]LogEditorTransaction: Undo Clicking on Actors
+[2020.11.02-09.29.19:772][222]LogEditorTransaction: Undo Generate Unwrapped UVs
+[2020.11.02-09.29.32:802][262]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/ubrqeehhx_LOD0_11A0AAF364FF7DF9E037D259393130E7D.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_1.uasset'
+[2020.11.02-09.29.32:811][262]AssetCheck: New page: Asset Save: ubrqeehhx_LOD0_1
+[2020.11.02-09.29.32:811][262]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_1.ubrqeehhx_LOD0_1
+[2020.11.02-09.29.34:891][403]LogSlate: Window 'ubrqeehhx_LOD0_1' being destroyed
+[2020.11.02-09.29.34:912][403]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.11.02-09.29.34:912][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.02-09.29.36:783][612]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.11.02-09.29.36:918][612]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/RestaurantLevelC5C5ECBF45723F1D2BE3EBAAD041868C.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Levels/RestaurantLevel.umap'
+[2020.11.02-09.29.37:779][612]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/RestaurantLevel_BuiltData602F77044EE952F07B533D84B4D6EF39.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Levels/RestaurantLevel_BuiltData.uasset'
+[2020.11.02-09.29.37:803][612]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.02-09.29.37:803][612]LogContentValidation: Display: Validating World /Game/Levels/RestaurantLevel.RestaurantLevel
+[2020.11.02-09.29.37:803][612]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/RestaurantLevel_BuiltData.RestaurantLevel_BuiltData
+[2020.11.02-09.30.13:329][869]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.11.02-10.03.15:230][269]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheLevel_Kitchen_MainWall)
+[2020.11.02-10.03.29:199][933]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LargeRoom_ThreeWalls)
+[2020.11.02-10.04.51:410][687]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Megascans/3D_Plants/Salt_Bulrush_00/Salt_Bulrush_00_inst.Salt_Bulrush_00_inst
+[2020.11.02-10.04.51:885][687]LogRenderer: Reallocating scene render targets to support 1432x960 Format 10 NumSamples 1 (Frame:1).
+[2020.11.02-10.05.05:366][245]LogD3D12RHI: Creating RTPSO with 175 shaders (174 cached, 1 new) took 93.87 ms. Compile time 73.28 ms, link time 20.31 ms.
+[2020.11.02-10.05.05:386][245]LogD3D12RHI: Creating RTPSO with 176 shaders (175 cached, 1 new) took 17.09 ms. Compile time 8.78 ms, link time 8.11 ms.
+[2020.11.02-10.05.33:774][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2020.11.02-10.05.33:851][603]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.11.02-10.05.34:483][603]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.11.02-10.05.34:483][603]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.11.02-10.05.35:462][603]TextureStreamingBuild: Display: Compiling optional shaders took 1.640 seconds.
+[2020.11.02-10.05.35:511][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.11.02-10.05.35:529][603]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/Salt_Bulrush_00_inst7B40DC9A4142338E1D461E9B1FED7BA0.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Plants/Salt_Bulrush_00/Salt_Bulrush_00_inst.uasset'
+[2020.11.02-10.05.35:561][603]AssetCheck: New page: Asset Save: Salt_Bulrush_00_inst
+[2020.11.02-10.05.35:561][603]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Megascans/3D_Plants/Salt_Bulrush_00/Salt_Bulrush_00_inst.Salt_Bulrush_00_inst
+[2020.11.02-10.05.36:026][652]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/Salt_Bulrush_00_inst04AA3A9348D783501C552CA9E4634951.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Plants/Salt_Bulrush_00/Salt_Bulrush_00_inst.uasset'
+[2020.11.02-10.05.36:033][652]AssetCheck: New page: Asset Save: Salt_Bulrush_00_inst
+[2020.11.02-10.05.36:033][652]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Megascans/3D_Plants/Salt_Bulrush_00/Salt_Bulrush_00_inst.Salt_Bulrush_00_inst
+[2020.11.02-10.05.40:112][117]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Megascans/3D_Plants/Purple_Woodsorrel_00/Purple_Woodsorrel_00_inst.Purple_Woodsorrel_00_inst
+[2020.11.02-10.05.51:390][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.11.02-10.05.51:407][383]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2020.11.02-10.05.51:416][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2020.11.02-10.05.51:451][383]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/Purple_Woodsorrel_00_inst86600E4F4C4B4FFFA8F748BDDD2B4DD1.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Plants/Purple_Woodsorrel_00/Purple_Woodsorrel_00_inst.uasset'
+[2020.11.02-10.05.51:460][383]AssetCheck: New page: Asset Save: Purple_Woodsorrel_00_inst
+[2020.11.02-10.05.51:460][383]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Megascans/3D_Plants/Purple_Woodsorrel_00/Purple_Woodsorrel_00_inst.Purple_Woodsorrel_00_inst
+[2020.11.02-10.06.39:540][ 75]Cmd: TRANSACTION UNDO
+[2020.11.02-10.06.39:540][ 75]LogEditorTransaction: Undo Custom Reset to Default
+[2020.11.02-10.06.42:312][348]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.11.02-10.06.54:898][833]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.11.02-10.07.15:163][205]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.11.02-10.07.38:258][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.11.02-10.07.38:294][930]TextureStreamingBuild: Display: Compiling optional shaders took 0.015 seconds.
+[2020.11.02-10.07.38:303][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.11.02-10.07.38:315][930]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/Purple_Woodsorrel_00_inst04A912D3475DEB769C0EAF857B3595DA.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Plants/Purple_Woodsorrel_00/Purple_Woodsorrel_00_inst.uasset'
+[2020.11.02-10.07.38:323][930]AssetCheck: New page: Asset Save: Purple_Woodsorrel_00_inst
+[2020.11.02-10.07.38:323][930]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Megascans/3D_Plants/Purple_Woodsorrel_00/Purple_Woodsorrel_00_inst.Purple_Woodsorrel_00_inst
+[2020.11.02-10.07.42:269][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.11.02-10.07.42:271][378]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2020.11.02-10.07.42:280][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.11.02-10.07.42:293][378]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/Salt_Bulrush_00_instFB4496DA4F0103447A944794CA87810B.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Plants/Salt_Bulrush_00/Salt_Bulrush_00_inst.uasset'
+[2020.11.02-10.07.42:301][378]AssetCheck: New page: Asset Save: Salt_Bulrush_00_inst
+[2020.11.02-10.07.42:301][378]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Megascans/3D_Plants/Salt_Bulrush_00/Salt_Bulrush_00_inst.Salt_Bulrush_00_inst
+[2020.11.02-10.07.43:376][500]LogSlate: Window 'Purple_Woodsorrel_00_inst' being destroyed
+[2020.11.02-10.07.43:380][500]LogSlate: Window 'Purple_Woodsorrel_00_inst' being destroyed
+[2020.11.02-10.07.43:409][500]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.11.02-10.07.43:409][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.02-10.07.43:448][500]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.11.02-10.07.43:448][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.02-10.07.44:623][636]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.11.02-10.08.18:306][668]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.11.02-10.09.07:837][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.11.02-10.09.07:981][695]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/RestaurantLevel_Auto57CF98D7645CFD8B97A8411BB24EE5C62.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/Autosaves/Game/Levels/RestaurantLevel_Auto5.umap'
+[2020.11.02-10.09.07:982][695]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/RestaurantLevel' took 0.157
+[2020.11.02-10.09.07:982][695]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.157
+[2020.11.02-10.11.27:019][922]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_13)
+[2020.11.02-10.19.07:916][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.11.02-10.19.08:044][132]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/RestaurantLevel_Auto663B10D6941F76FD405F41A995293A4FF.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/Autosaves/Game/Levels/RestaurantLevel_Auto6.umap'
+[2020.11.02-10.19.08:045][132]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/RestaurantLevel' took 0.138
+[2020.11.02-10.19.08:045][132]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.138
