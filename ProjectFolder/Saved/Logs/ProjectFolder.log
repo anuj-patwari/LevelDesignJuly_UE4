@@ -1081,3 +1081,770 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.02-06.19.12:876][346]Cmd: TRANSACTION UNDO
 [2020.11.02-06.19.12:876][346]LogEditorTransaction: Undo Landscape Editing: Erosion
 [2020.11.02-06.19.12:900][346]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.11.02-06.19.58:765][121]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.11.02-06.19.58:788][121]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.11.02-06.19.58:906][121]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/RestaurantLevel_Auto12770EA80472AE9494ECFB8BFB428B2C9.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/Autosaves/Game/Levels/RestaurantLevel_Auto1.umap'
+[2020.11.02-06.19.58:907][121]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/RestaurantLevel' took 0.167
+[2020.11.02-06.19.58:907][121]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.167
+[2020.11.02-06.23.11:285][696]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Megascans\Megascans Library\Downloaded\3d\3d_metal_ubrqeehhx\ubrqeehhx_4K_Albedo.jpg)
+[2020.11.02-06.23.11:697][696]LogTexture: Display: Building textures: ubrqeehhx_4K_Albedo (AutoDXT, 4096X4096)
+[2020.11.02-06.23.15:831][696]LogTexture: Display: Building textures: ubrqeehhx_4K_Albedo (BC7, 4096X4096)
+[2020.11.02-06.23.21:159][696]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Megascans\Megascans Library\Downloaded\3d\3d_metal_ubrqeehhx\ubrqeehhx_4K_Displacement.jpg)
+[2020.11.02-06.23.21:362][696]LogTexture: Display: Building textures: ubrqeehhx_4K_Displacement (AutoDXT, 4096X4096)
+[2020.11.02-06.23.22:452][696]LogTexture: Display: Building textures: ubrqeehhx_4K_Displacement (BC7, 4096X4096)
+[2020.11.02-06.23.27:574][696]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Megascans\Megascans Library\Downloaded\3d\3d_metal_ubrqeehhx\ubrqeehhx_4K_Normal_LOD0.jpg)
+[2020.11.02-06.23.28:290][696]LogTexture: Display: Building textures: ubrqeehhx_4K_NormalLOD0 (BC5, 4096X4096)
+[2020.11.02-06.23.29:166][696]LogTexture: Display: Building textures: ubrqeehhx_4K_NormalLOD0 (BC5, 4096X4096)
+[2020.11.02-06.23.30:005][696]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Megascans\Megascans Library\Downloaded\3d\3d_metal_ubrqeehhx\ubrqeehhx_4K_Roughness.jpg)
+[2020.11.02-06.23.30:227][696]LogTexture: Display: Building textures: ubrqeehhx_4K_Roughness (AutoDXT, 4096X4096)
+[2020.11.02-06.23.31:282][696]LogTexture: Display: Building textures: ubrqeehhx_4K_Roughness (BC7, 4096X4096)
+[2020.11.02-06.23.36:380][696]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Megascans\Megascans Library\Downloaded\3d\3d_metal_ubrqeehhx\ubrqeehhx_LOD0.fbx)
+[2020.11.02-06.23.36:559][696]LogFbx: Loading FBX Scene from D:\Megascans\Megascans Library\Downloaded\3d\3d_metal_ubrqeehhx\ubrqeehhx_LOD0.fbx
+[2020.11.02-06.23.36:579][696]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.02-06.23.36:638][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_00_LOD0...
+[2020.11.02-06.23.36:663][696]LogStaticMesh: Built static mesh [0.03s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_00_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_00_LOD0
+[2020.11.02-06.23.36:769][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_01_LOD0...
+[2020.11.02-06.23.36:840][696]LogStaticMesh: Built static mesh [0.07s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_01_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_01_LOD0
+[2020.11.02-06.23.36:865][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_02_LOD0...
+[2020.11.02-06.23.36:886][696]LogStaticMesh: Built static mesh [0.02s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_02_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_02_LOD0
+[2020.11.02-06.23.36:896][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_03_LOD0...
+[2020.11.02-06.23.36:906][696]LogStaticMesh: Built static mesh [0.01s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_03_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_03_LOD0
+[2020.11.02-06.23.36:918][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_04_LOD0...
+[2020.11.02-06.23.36:938][696]LogStaticMesh: Built static mesh [0.02s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_04_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_04_LOD0
+[2020.11.02-06.23.36:966][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_05_LOD0...
+[2020.11.02-06.23.37:019][696]LogStaticMesh: Built static mesh [0.05s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_05_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_05_LOD0
+[2020.11.02-06.23.37:071][696]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.11.02-06.23.37:409][696]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Megascans\Megascans Library\Downloaded\3d\3d_metal_ubrqeehhx\ubrqeehhx_LOD1.fbx)
+[2020.11.02-06.23.37:416][696]LogFbx: Loading FBX Scene from D:\Megascans\Megascans Library\Downloaded\3d\3d_metal_ubrqeehhx\ubrqeehhx_LOD1.fbx
+[2020.11.02-06.23.37:428][696]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.02-06.23.37:436][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_00_LOD1...
+[2020.11.02-06.23.37:453][696]LogStaticMesh: Built static mesh [0.02s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_00_LOD1.ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_00_LOD1
+[2020.11.02-06.23.37:464][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_01_LOD1...
+[2020.11.02-06.23.37:479][696]LogStaticMesh: Built static mesh [0.01s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_01_LOD1.ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_01_LOD1
+[2020.11.02-06.23.37:489][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_02_LOD1...
+[2020.11.02-06.23.37:502][696]LogStaticMesh: Built static mesh [0.01s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_02_LOD1.ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_02_LOD1
+[2020.11.02-06.23.37:511][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_03_LOD1...
+[2020.11.02-06.23.37:518][696]LogStaticMesh: Built static mesh [0.01s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_03_LOD1.ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_03_LOD1
+[2020.11.02-06.23.37:526][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_04_LOD1...
+[2020.11.02-06.23.37:539][696]LogStaticMesh: Built static mesh [0.01s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_04_LOD1.ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_04_LOD1
+[2020.11.02-06.23.37:553][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_05_LOD1...
+[2020.11.02-06.23.37:583][696]LogStaticMesh: Built static mesh [0.03s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_05_LOD1.ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_05_LOD1
+[2020.11.02-06.23.37:615][696]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.11.02-06.23.37:648][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_00_LOD0...
+[2020.11.02-06.23.37:719][696]LogStaticMesh: Built static mesh [0.07s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_00_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_00_LOD0
+[2020.11.02-06.23.37:783][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_01_LOD0...
+[2020.11.02-06.23.37:845][696]LogStaticMesh: Built static mesh [0.06s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_01_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_01_LOD0
+[2020.11.02-06.23.37:901][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_02_LOD0...
+[2020.11.02-06.23.37:964][696]LogStaticMesh: Built static mesh [0.06s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_02_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_02_LOD0
+[2020.11.02-06.23.38:022][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_03_LOD0...
+[2020.11.02-06.23.38:080][696]LogStaticMesh: Built static mesh [0.06s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_03_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_03_LOD0
+[2020.11.02-06.23.38:134][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_04_LOD0...
+[2020.11.02-06.23.38:230][696]LogStaticMesh: Built static mesh [0.10s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_04_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_04_LOD0
+[2020.11.02-06.23.38:289][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_05_LOD0...
+[2020.11.02-06.23.38:411][696]LogStaticMesh: Built static mesh [0.12s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_05_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_05_LOD0
+[2020.11.02-06.23.39:287][696]LogUObjectGlobals: Force Deleting 6 Package(s):
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_00_LOD1.ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_00_LOD1
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_01_LOD1.ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_01_LOD1
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_02_LOD1.ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_02_LOD1
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_03_LOD1.ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_03_LOD1
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_04_LOD1.ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_04_LOD1
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_05_LOD1.ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_05_LOD1
+[2020.11.02-06.23.50:659][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.11.02-06.23.50:742][696]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Megascans\Megascans Library\Downloaded\3d\3d_metal_ubrqeehhx\ubrqeehhx_LOD2.fbx)
+[2020.11.02-06.23.50:750][696]LogFbx: Loading FBX Scene from D:\Megascans\Megascans Library\Downloaded\3d\3d_metal_ubrqeehhx\ubrqeehhx_LOD2.fbx
+[2020.11.02-06.23.50:759][696]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.02-06.23.50:764][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_00_LOD2...
+[2020.11.02-06.23.50:774][696]LogStaticMesh: Built static mesh [0.01s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_00_LOD2.ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_00_LOD2
+[2020.11.02-06.23.50:781][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_01_LOD2...
+[2020.11.02-06.23.50:789][696]LogStaticMesh: Built static mesh [0.01s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_01_LOD2.ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_01_LOD2
+[2020.11.02-06.23.50:796][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_02_LOD2...
+[2020.11.02-06.23.50:805][696]LogStaticMesh: Built static mesh [0.01s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_02_LOD2.ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_02_LOD2
+[2020.11.02-06.23.50:811][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_03_LOD2...
+[2020.11.02-06.23.50:815][696]LogStaticMesh: Built static mesh [0.00s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_03_LOD2.ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_03_LOD2
+[2020.11.02-06.23.50:822][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_04_LOD2...
+[2020.11.02-06.23.50:830][696]LogStaticMesh: Built static mesh [0.01s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_04_LOD2.ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_04_LOD2
+[2020.11.02-06.23.50:839][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_05_LOD2...
+[2020.11.02-06.23.50:856][696]LogStaticMesh: Built static mesh [0.02s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_05_LOD2.ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_05_LOD2
+[2020.11.02-06.23.50:877][696]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.11.02-06.23.50:899][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_00_LOD0...
+[2020.11.02-06.23.50:969][696]LogStaticMesh: Built static mesh [0.07s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_00_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_00_LOD0
+[2020.11.02-06.23.51:034][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_01_LOD0...
+[2020.11.02-06.23.51:113][696]LogStaticMesh: Built static mesh [0.08s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_01_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_01_LOD0
+[2020.11.02-06.23.51:171][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_02_LOD0...
+[2020.11.02-06.23.51:254][696]LogStaticMesh: Built static mesh [0.08s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_02_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_02_LOD0
+[2020.11.02-06.23.51:312][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_03_LOD0...
+[2020.11.02-06.23.51:384][696]LogStaticMesh: Built static mesh [0.07s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_03_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_03_LOD0
+[2020.11.02-06.23.51:441][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_04_LOD0...
+[2020.11.02-06.23.51:529][696]LogStaticMesh: Built static mesh [0.09s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_04_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_04_LOD0
+[2020.11.02-06.23.51:591][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_05_LOD0...
+[2020.11.02-06.23.51:732][696]LogStaticMesh: Built static mesh [0.14s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_05_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_05_LOD0
+[2020.11.02-06.23.51:903][696]LogUObjectGlobals: Force Deleting 6 Package(s):
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_05_LOD2.ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_05_LOD2
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_04_LOD2.ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_04_LOD2
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_03_LOD2.ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_03_LOD2
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_02_LOD2.ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_02_LOD2
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_01_LOD2.ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_01_LOD2
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_00_LOD2.ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_00_LOD2
+[2020.11.02-06.23.52:536][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.11.02-06.23.52:583][696]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Megascans\Megascans Library\Downloaded\3d\3d_metal_ubrqeehhx\ubrqeehhx_LOD3.fbx)
+[2020.11.02-06.23.52:592][696]LogFbx: Loading FBX Scene from D:\Megascans\Megascans Library\Downloaded\3d\3d_metal_ubrqeehhx\ubrqeehhx_LOD3.fbx
+[2020.11.02-06.23.52:600][696]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.02-06.23.52:604][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_00_LOD3...
+[2020.11.02-06.23.52:609][696]LogStaticMesh: Built static mesh [0.01s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_00_LOD3.ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_00_LOD3
+[2020.11.02-06.23.52:614][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_01_LOD3...
+[2020.11.02-06.23.52:618][696]LogStaticMesh: Built static mesh [0.00s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_01_LOD3.ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_01_LOD3
+[2020.11.02-06.23.52:623][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_02_LOD3...
+[2020.11.02-06.23.52:627][696]LogStaticMesh: Built static mesh [0.00s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_02_LOD3.ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_02_LOD3
+[2020.11.02-06.23.52:631][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_03_LOD3...
+[2020.11.02-06.23.52:634][696]LogStaticMesh: Built static mesh [0.00s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_03_LOD3.ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_03_LOD3
+[2020.11.02-06.23.52:639][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_04_LOD3...
+[2020.11.02-06.23.52:643][696]LogStaticMesh: Built static mesh [0.00s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_04_LOD3.ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_04_LOD3
+[2020.11.02-06.23.52:649][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_05_LOD3...
+[2020.11.02-06.23.52:658][696]LogStaticMesh: Built static mesh [0.01s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_05_LOD3.ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_05_LOD3
+[2020.11.02-06.23.52:672][696]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.11.02-06.23.52:691][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_00_LOD0...
+[2020.11.02-06.23.52:771][696]LogStaticMesh: Built static mesh [0.08s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_00_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_00_LOD0
+[2020.11.02-06.23.52:834][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_01_LOD0...
+[2020.11.02-06.23.52:939][696]LogStaticMesh: Built static mesh [0.10s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_01_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_01_LOD0
+[2020.11.02-06.23.53:001][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_02_LOD0...
+[2020.11.02-06.23.53:092][696]LogStaticMesh: Built static mesh [0.09s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_02_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_02_LOD0
+[2020.11.02-06.23.53:153][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_03_LOD0...
+[2020.11.02-06.23.53:228][696]LogStaticMesh: Built static mesh [0.07s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_03_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_03_LOD0
+[2020.11.02-06.23.53:285][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_04_LOD0...
+[2020.11.02-06.23.53:375][696]LogStaticMesh: Built static mesh [0.09s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_04_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_04_LOD0
+[2020.11.02-06.23.53:437][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_05_LOD0...
+[2020.11.02-06.23.53:603][696]LogStaticMesh: Built static mesh [0.17s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_05_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_05_LOD0
+[2020.11.02-06.23.53:750][696]LogUObjectGlobals: Force Deleting 6 Package(s):
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_05_LOD3.ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_05_LOD3
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_04_LOD3.ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_04_LOD3
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_03_LOD3.ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_03_LOD3
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_02_LOD3.ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_02_LOD3
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_01_LOD3.ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_01_LOD3
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_00_LOD3.ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_00_LOD3
+[2020.11.02-06.23.54:307][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.11.02-06.23.54:365][696]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Megascans\Megascans Library\Downloaded\3d\3d_metal_ubrqeehhx\ubrqeehhx_LOD4.fbx)
+[2020.11.02-06.23.54:374][696]LogFbx: Loading FBX Scene from D:\Megascans\Megascans Library\Downloaded\3d\3d_metal_ubrqeehhx\ubrqeehhx_LOD4.fbx
+[2020.11.02-06.23.54:381][696]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.02-06.23.54:384][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_00_LOD4...
+[2020.11.02-06.23.54:387][696]LogStaticMesh: Built static mesh [0.00s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_00_LOD4.ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_00_LOD4
+[2020.11.02-06.23.54:391][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_01_LOD4...
+[2020.11.02-06.23.54:393][696]LogStaticMesh: Built static mesh [0.00s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_01_LOD4.ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_01_LOD4
+[2020.11.02-06.23.54:397][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_02_LOD4...
+[2020.11.02-06.23.54:399][696]LogStaticMesh: Built static mesh [0.00s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_02_LOD4.ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_02_LOD4
+[2020.11.02-06.23.54:402][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_03_LOD4...
+[2020.11.02-06.23.54:403][696]LogStaticMesh: Built static mesh [0.00s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_03_LOD4.ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_03_LOD4
+[2020.11.02-06.23.54:406][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_04_LOD4...
+[2020.11.02-06.23.54:409][696]LogStaticMesh: Built static mesh [0.00s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_04_LOD4.ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_04_LOD4
+[2020.11.02-06.23.54:414][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_05_LOD4...
+[2020.11.02-06.23.54:421][696]LogStaticMesh: Built static mesh [0.01s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_05_LOD4.ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_05_LOD4
+[2020.11.02-06.23.54:431][696]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.11.02-06.23.54:451][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_00_LOD0...
+[2020.11.02-06.23.54:524][696]LogStaticMesh: Built static mesh [0.07s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_00_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_00_LOD0
+[2020.11.02-06.23.54:585][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_01_LOD0...
+[2020.11.02-06.23.54:713][696]LogStaticMesh: Built static mesh [0.13s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_01_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_01_LOD0
+[2020.11.02-06.23.54:776][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_02_LOD0...
+[2020.11.02-06.23.54:884][696]LogStaticMesh: Built static mesh [0.11s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_02_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_02_LOD0
+[2020.11.02-06.23.54:944][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_03_LOD0...
+[2020.11.02-06.23.55:033][696]LogStaticMesh: Built static mesh [0.09s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_03_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_03_LOD0
+[2020.11.02-06.23.55:084][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_04_LOD0...
+[2020.11.02-06.23.55:183][696]LogStaticMesh: Built static mesh [0.10s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_04_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_04_LOD0
+[2020.11.02-06.23.55:239][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_05_LOD0...
+[2020.11.02-06.23.55:412][696]LogStaticMesh: Built static mesh [0.17s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_05_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_05_LOD0
+[2020.11.02-06.23.55:538][696]LogUObjectGlobals: Force Deleting 6 Package(s):
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_05_LOD4.ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_05_LOD4
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_04_LOD4.ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_04_LOD4
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_03_LOD4.ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_03_LOD4
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_02_LOD4.ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_02_LOD4
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_01_LOD4.ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_01_LOD4
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_00_LOD4.ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_00_LOD4
+[2020.11.02-06.23.56:238][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.11.02-06.23.56:296][696]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Megascans\Megascans Library\Downloaded\3d\3d_metal_ubrqeehhx\ubrqeehhx_LOD5.fbx)
+[2020.11.02-06.23.56:303][696]LogFbx: Loading FBX Scene from D:\Megascans\Megascans Library\Downloaded\3d\3d_metal_ubrqeehhx\ubrqeehhx_LOD5.fbx
+[2020.11.02-06.23.56:310][696]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.02-06.23.56:312][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_00_LOD5...
+[2020.11.02-06.23.56:314][696]LogStaticMesh: Built static mesh [0.00s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_00_LOD5.ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_00_LOD5
+[2020.11.02-06.23.56:317][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_01_LOD5...
+[2020.11.02-06.23.56:318][696]LogStaticMesh: Built static mesh [0.00s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_01_LOD5.ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_01_LOD5
+[2020.11.02-06.23.56:321][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_02_LOD5...
+[2020.11.02-06.23.56:322][696]LogStaticMesh: Built static mesh [0.00s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_02_LOD5.ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_02_LOD5
+[2020.11.02-06.23.56:325][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_03_LOD5...
+[2020.11.02-06.23.56:326][696]LogStaticMesh: Built static mesh [0.00s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_03_LOD5.ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_03_LOD5
+[2020.11.02-06.23.56:329][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_04_LOD5...
+[2020.11.02-06.23.56:330][696]LogStaticMesh: Built static mesh [0.00s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_04_LOD5.ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_04_LOD5
+[2020.11.02-06.23.56:335][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_05_LOD5...
+[2020.11.02-06.23.56:340][696]LogStaticMesh: Built static mesh [0.01s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_05_LOD5.ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_05_LOD5
+[2020.11.02-06.23.56:349][696]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.11.02-06.23.56:364][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_00_LOD0...
+[2020.11.02-06.23.56:447][696]LogStaticMesh: Built static mesh [0.08s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_00_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_00_LOD0
+[2020.11.02-06.23.56:512][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_01_LOD0...
+[2020.11.02-06.23.56:626][696]LogStaticMesh: Built static mesh [0.11s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_01_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_01_LOD0
+[2020.11.02-06.23.56:688][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_02_LOD0...
+[2020.11.02-06.23.56:792][696]LogStaticMesh: Built static mesh [0.10s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_02_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_02_LOD0
+[2020.11.02-06.23.56:852][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_03_LOD0...
+[2020.11.02-06.23.56:942][696]LogStaticMesh: Built static mesh [0.09s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_03_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_03_LOD0
+[2020.11.02-06.23.56:999][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_04_LOD0...
+[2020.11.02-06.23.57:105][696]LogStaticMesh: Built static mesh [0.11s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_04_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_04_LOD0
+[2020.11.02-06.23.57:163][696]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_05_LOD0...
+[2020.11.02-06.23.57:425][696]LogStaticMesh: Built static mesh [0.26s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_05_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_05_LOD0
+[2020.11.02-06.23.57:569][696]LogUObjectGlobals: Force Deleting 6 Package(s):
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_05_LOD5.ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_05_LOD5
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_04_LOD5.ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_04_LOD5
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_03_LOD5.ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_03_LOD5
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_02_LOD5.ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_02_LOD5
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_01_LOD5.ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_01_LOD5
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_00_LOD5.ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_00_LOD5
+[2020.11.02-06.23.58:133][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.11.02-06.23.58:319][696]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_1
+[2020.11.02-06.23.58:426][696]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/ubrqeehhx_LOD0_18DCAA9EF491C866C1FC0989126773656.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_1.uasset'
+[2020.11.02-06.23.58:588][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.11.02-06.23.58:603][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.11.02-06.23.58:611][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.11.02-06.23.58:789][696]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_2
+[2020.11.02-06.23.58:849][696]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/ubrqeehhx_LOD0_2AA6E51FF40D407ABE409669436F2A11A.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_2.uasset'
+[2020.11.02-06.23.58:964][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.11.02-06.23.58:977][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.11.02-06.23.58:986][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.11.02-06.23.59:148][696]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_3
+[2020.11.02-06.23.59:210][696]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/ubrqeehhx_LOD0_38D101D204A48C72FA60E638C324199D0.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_3.uasset'
+[2020.11.02-06.23.59:329][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.11.02-06.23.59:342][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2020.11.02-06.23.59:351][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.11.02-06.23.59:459][696]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_4
+[2020.11.02-06.23.59:511][696]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/ubrqeehhx_LOD0_4BCD2E58842760C7A9722BFB287E5C581.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_4.uasset'
+[2020.11.02-06.23.59:666][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.11.02-06.23.59:677][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2020.11.02-06.23.59:686][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.11.02-06.23.59:823][696]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_5
+[2020.11.02-06.23.59:904][696]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/ubrqeehhx_LOD0_5D150A56C4C5CC3C318E10A9A86F4E798.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_5.uasset'
+[2020.11.02-06.24.00:016][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.11.02-06.24.00:029][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2020.11.02-06.24.00:037][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.11.02-06.24.00:240][696]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_6
+[2020.11.02-06.24.00:331][696]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/ubrqeehhx_LOD0_66CE5E38F418F4A81BFCB768D76AAE856.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_6.uasset'
+[2020.11.02-06.24.00:473][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2020.11.02-06.24.00:488][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2020.11.02-06.24.00:497][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2020.11.02-06.24.00:893][697]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.02-06.24.00:893][697]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_1.ubrqeehhx_LOD0_1
+[2020.11.02-06.24.00:893][697]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_2.ubrqeehhx_LOD0_2
+[2020.11.02-06.24.00:893][697]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_3.ubrqeehhx_LOD0_3
+[2020.11.02-06.24.00:893][697]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_4.ubrqeehhx_LOD0_4
+[2020.11.02-06.24.00:893][697]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_5.ubrqeehhx_LOD0_5
+[2020.11.02-06.24.00:893][697]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_6.ubrqeehhx_LOD0_6
+[2020.11.02-06.24.11:954][953]LogSlate: Window 'Message Log' being destroyed
+[2020.11.02-06.24.11:957][953]LogSlate: Window 'Message Log' being destroyed
+[2020.11.02-06.24.13:551][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.11.02-06.24.14:568][140]LogSlate: Window 'Save Content' being destroyed
+[2020.11.02-06.24.14:604][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.11.02-06.24.14:709][140]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/RestaurantLevel36C25E614DFE56719DB574AFDED89B00.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Levels/RestaurantLevel.umap'
+[2020.11.02-06.24.14:740][140]LogFileHelpers: Saving map 'RestaurantLevel' took 0.144
+[2020.11.02-06.24.15:478][140]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/RestaurantLevel_BuiltData67C2F7CB49F9D9FBE1C5FC8502CD5271.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Levels/RestaurantLevel_BuiltData.uasset'
+[2020.11.02-06.24.15:508][140]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/ubrqeehhx_LOD0_1424D05AF447299EF7218A98D4E2123BA.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Foliage/ubrqeehhx_LOD0_1.uasset'
+[2020.11.02-06.24.15:525][140]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/ubrqeehhx_LOD0_289D228794FBF12842E21F8B0D8B434AA.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Foliage/ubrqeehhx_LOD0_2.uasset'
+[2020.11.02-06.24.15:540][140]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/ubrqeehhx_LOD0_36EA988B14056FCB312033DBD90E71958.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Foliage/ubrqeehhx_LOD0_3.uasset'
+[2020.11.02-06.24.15:556][140]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/ubrqeehhx_LOD0_40A0EC6AF413ACDDEC92970B4520A238E.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Foliage/ubrqeehhx_LOD0_4.uasset'
+[2020.11.02-06.24.15:573][140]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/ubrqeehhx_LOD0_51A6978564E7C6D405184019040CCAE62.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Foliage/ubrqeehhx_LOD0_5.uasset'
+[2020.11.02-06.24.15:591][140]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/ubrqeehhx_LOD0_6917056FC4C0DF5AB06A1C0B33C6EE7B5.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Foliage/ubrqeehhx_LOD0_6.uasset'
+[2020.11.02-06.24.15:610][140]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/Metal_Pipe_Modular_Pack_00_inst0CB2C6FD4CD42E65910413BDEC08A289.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Metal_Pipe_Modular_Pack_00_inst.uasset'
+[2020.11.02-06.24.16:622][140]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/ubrqeehhx_4K_Albedo23B8ADA540381FFBCA388C913EE6A3D3.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_4K_Albedo.uasset'
+[2020.11.02-06.24.17:221][140]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/ubrqeehhx_4K_Displacement7F28F4E34208AE813CADDFB3FE52C916.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_4K_Displacement.uasset'
+[2020.11.02-06.24.18:841][140]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/ubrqeehhx_4K_NormalLOD0E2E5FFA8435EDA398442B1B9DFEE13BE.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_4K_NormalLOD0.uasset'
+[2020.11.02-06.24.19:435][140]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/ubrqeehhx_4K_Roughness09D1A42B4A3AED1E01E91CA663933BB3.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_4K_Roughness.uasset'
+[2020.11.02-06.24.19:495][140]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/ubrqeehhx_LOD0_1597219384FF753E6EE1C51A2E5B294FE.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_1.uasset'
+[2020.11.02-06.24.19:541][140]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/ubrqeehhx_LOD0_2B4CBFC57486B3E201EFF09BB0494E0A7.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_2.uasset'
+[2020.11.02-06.24.19:595][140]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/ubrqeehhx_LOD0_333E32F584B375EEAF771C581952E8B10.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_3.uasset'
+[2020.11.02-06.24.19:633][140]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/ubrqeehhx_LOD0_488934E8C43D786187BFFB89A5256757F.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_4.uasset'
+[2020.11.02-06.24.19:697][140]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/ubrqeehhx_LOD0_52B7374404A63AE4BC673C3A6F29B82D8.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_5.uasset'
+[2020.11.02-06.24.19:767][140]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/ubrqeehhx_LOD0_65DFE2B694A13FD2A053DEEB312C921EA.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_6.uasset'
+[2020.11.02-06.24.19:802][140]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.02-06.24.19:802][140]LogContentValidation: Display: Validating World /Game/Levels/RestaurantLevel.RestaurantLevel
+[2020.11.02-06.24.19:802][140]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/RestaurantLevel_BuiltData.RestaurantLevel_BuiltData
+[2020.11.02-06.24.19:802][140]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Foliage/ubrqeehhx_LOD0_1.ubrqeehhx_LOD0_1
+[2020.11.02-06.24.19:802][140]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Foliage/ubrqeehhx_LOD0_2.ubrqeehhx_LOD0_2
+[2020.11.02-06.24.19:802][140]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Foliage/ubrqeehhx_LOD0_3.ubrqeehhx_LOD0_3
+[2020.11.02-06.24.19:802][140]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Foliage/ubrqeehhx_LOD0_4.ubrqeehhx_LOD0_4
+[2020.11.02-06.24.19:802][140]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Foliage/ubrqeehhx_LOD0_5.ubrqeehhx_LOD0_5
+[2020.11.02-06.24.19:802][140]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Foliage/ubrqeehhx_LOD0_6.ubrqeehhx_LOD0_6
+[2020.11.02-06.24.19:802][140]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Metal_Pipe_Modular_Pack_00_inst.Metal_Pipe_Modular_Pack_00_inst
+[2020.11.02-06.24.19:802][140]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_4K_Albedo.ubrqeehhx_4K_Albedo
+[2020.11.02-06.24.19:802][140]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_4K_Displacement.ubrqeehhx_4K_Displacement
+[2020.11.02-06.24.19:802][140]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_4K_NormalLOD0.ubrqeehhx_4K_NormalLOD0
+[2020.11.02-06.24.19:802][140]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_4K_Roughness.ubrqeehhx_4K_Roughness
+[2020.11.02-06.24.19:802][140]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_1.ubrqeehhx_LOD0_1
+[2020.11.02-06.24.19:802][140]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_2.ubrqeehhx_LOD0_2
+[2020.11.02-06.24.19:802][140]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_3.ubrqeehhx_LOD0_3
+[2020.11.02-06.24.19:802][140]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_4.ubrqeehhx_LOD0_4
+[2020.11.02-06.24.19:802][140]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_5.ubrqeehhx_LOD0_5
+[2020.11.02-06.24.19:802][140]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_6.ubrqeehhx_LOD0_6
+[2020.11.02-06.24.27:104][970]LogActorFactory: Actor Factory created ubrqeehhx_LOD0_4
+[2020.11.02-06.24.27:136][971]LogD3D12RHI: Creating RTPSO with 169 shaders (168 cached, 1 new) took 24.53 ms. Compile time 8.23 ms, link time 16.04 ms.
+[2020.11.02-06.24.29:109][205]LogActorFactory: Actor Factory created ubrqeehhx_LOD0_4
+[2020.11.02-06.24.33:006][659]Cmd: DELETE
+[2020.11.02-06.24.33:006][659]Cmd: ACTOR DELETE
+[2020.11.02-06.24.33:013][659]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.02-06.24.33:022][659]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.11.02-06.24.33:039][659]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2020.11.02-06.24.34:437][825]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_4.ubrqeehhx_LOD0_4
+[2020.11.02-06.24.35:338][825]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.11.02-06.24.35:338][825]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.02-06.24.38:402][ 91]LogRenderer: Reallocating scene render targets to support 1432x940 Format 10 NumSamples 1 (Frame:264).
+[2020.11.02-06.25.15:344][706]LogSlate: Window 'ubrqeehhx_LOD0_4' being destroyed
+[2020.11.02-06.25.15:363][706]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.11.02-06.25.15:363][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.02-06.25.21:000][355]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Crate)
+[2020.11.02-06.25.21:797][443]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (uchkajuia_Var7_LOD1_7)
+[2020.11.02-06.25.26:672][946]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Megascans/3D_Plants/Purple_Woodsorrel_00/uchkajuia_Var7_LOD1_7.uchkajuia_Var7_LOD1_7
+[2020.11.02-06.25.26:864][946]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.11.02-06.25.26:864][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.02-06.25.32:756][285]LogSlate: Window 'uchkajuia_Var7_LOD1_7' being destroyed
+[2020.11.02-06.25.32:777][285]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.11.02-06.25.32:778][285]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.02-06.26.44:543][845]LogActorFactory: Actor Factory created ubrqeehhx_LOD0_4
+[2020.11.02-06.26.45:982][ 14]LogActorFactory: Actor Factory created ubrqeehhx_LOD0_4
+[2020.11.02-06.27.34:830][773]LogActorFactory: Actor Factory created ubrqeehhx_LOD0_5
+[2020.11.02-06.27.36:138][920]LogActorFactory: Actor Factory created ubrqeehhx_LOD0_5
+[2020.11.02-06.27.49:499][514]Cmd: DELETE
+[2020.11.02-06.27.49:499][514]Cmd: ACTOR DELETE
+[2020.11.02-06.27.49:504][514]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.02-06.27.49:516][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.11.02-06.27.49:533][514]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2020.11.02-06.27.52:135][819]LogActorFactory: Actor Factory created ubrqeehhx_LOD0_1
+[2020.11.02-06.27.52:896][909]LogActorFactory: Actor Factory created ubrqeehhx_LOD0_1
+[2020.11.02-06.28.04:648][277]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_4)
+[2020.11.02-06.28.10:281][941]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_1)
+[2020.11.02-06.28.25:683][738]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_4)
+[2020.11.02-06.28.34:792][798]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_1)
+[2020.11.02-06.28.36:982][ 55]Cmd: TRANSACTION UNDO
+[2020.11.02-06.28.36:982][ 55]LogEditorTransaction: Undo Move Actors
+[2020.11.02-06.28.37:770][106]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.02-06.28.44:698][932]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_1)
+[2020.11.02-06.29.33:259][643]LogActorFactory: Actor Factory created ubrqeehhx_LOD0_6
+[2020.11.02-06.29.33:958][718]LogActorFactory: Actor Factory created ubrqeehhx_LOD0_6
+[2020.11.02-06.29.35:314][878]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_4)
+[2020.11.02-06.29.36:740][ 45]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_6)
+[2020.11.02-06.29.48:867][473]Cmd: DELETE
+[2020.11.02-06.29.48:867][473]Cmd: ACTOR DELETE
+[2020.11.02-06.29.48:873][473]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.02-06.29.48:881][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.11.02-06.29.48:889][473]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2020.11.02-06.30.12:577][581]LogActorFactory: Actor Factory created ubrqeehhx_LOD0_1
+[2020.11.02-06.30.13:832][730]LogActorFactory: Actor Factory created ubrqeehhx_LOD0_1
+[2020.11.02-06.30.21:090][578]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_2)
+[2020.11.02-06.30.28:813][499]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_4)
+[2020.11.02-06.30.29:996][637]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_2)
+[2020.11.02-06.30.37:613][527]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_4)
+[2020.11.02-06.30.39:451][744]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_2)
+[2020.11.02-06.30.42:922][153]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.02-06.30.53:981][459]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_4)
+[2020.11.02-06.30.54:827][557]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2020.11.02-06.30.55:460][630]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_2)
+[2020.11.02-06.31.54:016][597]LogActorFactory: Actor Factory created ubrqeehhx_LOD0_2
+[2020.11.02-06.31.56:099][836]LogActorFactory: Actor Factory created ubrqeehhx_LOD0_2
+[2020.11.02-06.32.00:658][369]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (ubrqeehhx_LOD0_3)
+[2020.11.02-06.32.03:765][736]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.02-06.32.18:340][460]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_2)
+[2020.11.02-06.32.19:662][615]Cmd: DELETE
+[2020.11.02-06.32.19:662][615]Cmd: ACTOR DELETE
+[2020.11.02-06.32.19:668][615]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.02-06.32.19:678][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.11.02-06.32.19:695][615]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2020.11.02-06.32.20:722][738]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_3)
+[2020.11.02-06.32.26:564][430]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_4)
+[2020.11.02-06.32.29:601][787]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LargeRoom_ThreeWalls)
+[2020.11.02-06.32.30:630][906]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_3)
+[2020.11.02-06.32.39:421][950]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_3)
+[2020.11.02-06.32.43:448][430]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.02-06.33.20:559][840]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_1)
+[2020.11.02-06.34.13:893][635]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LargeRoom_ThreeWalls)
+[2020.11.02-06.34.14:924][748]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_4)
+[2020.11.02-06.34.38:576][546]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_1)
+[2020.11.02-06.34.51:926][128]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LargeRoom_ThreeWalls)
+[2020.11.02-06.35.02:364][358]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_3)
+[2020.11.02-06.35.06:269][818]Cmd: TRANSACTION UNDO
+[2020.11.02-06.35.06:269][818]LogEditorTransaction: Undo Move Actors
+[2020.11.02-06.35.08:111][989]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.02-06.35.27:694][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.11.02-06.35.27:840][315]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/RestaurantLevel33FDFB4F42E7193FD20C2392B5E7B2B6.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Levels/RestaurantLevel.umap'
+[2020.11.02-06.35.28:603][315]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/RestaurantLevel_BuiltDataA2F2DFA0469B8F9822CCF986C65F4D86.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Levels/RestaurantLevel_BuiltData.uasset'
+[2020.11.02-06.35.28:634][315]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.02-06.35.28:634][315]LogContentValidation: Display: Validating World /Game/Levels/RestaurantLevel.RestaurantLevel
+[2020.11.02-06.35.28:634][315]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/RestaurantLevel_BuiltData.RestaurantLevel_BuiltData
+[2020.11.02-06.35.45:008][953]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_1)
+[2020.11.02-06.35.54:349][ 45]Cmd: DELETE
+[2020.11.02-06.35.54:349][ 45]Cmd: ACTOR DELETE
+[2020.11.02-06.35.54:355][ 45]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.02-06.35.54:355][ 45]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.02-06.35.54:355][ 45]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.02-06.35.54:355][ 45]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.02-06.35.54:364][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.11.02-06.35.54:381][ 45]LogEditorActor: Deleted 4 Actors (0.031 secs)
+[2020.11.02-06.35.56:069][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.11.02-06.35.56:173][244]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/RestaurantLevelBDD5C83142D22E33C8D9EE99CEC82156.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Levels/RestaurantLevel.umap'
+[2020.11.02-06.35.56:922][244]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/RestaurantLevel_BuiltDataA0025B7347D7CD38022412AD244C8622.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Levels/RestaurantLevel_BuiltData.uasset'
+[2020.11.02-06.35.56:958][244]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.02-06.35.56:958][244]LogContentValidation: Display: Validating World /Game/Levels/RestaurantLevel.RestaurantLevel
+[2020.11.02-06.35.56:958][244]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/RestaurantLevel_BuiltData.RestaurantLevel_BuiltData
+[2020.11.02-06.36.03:162][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.11.02-06.36.12:303][974]LogSlate: Window 'Delete Assets' being destroyed
+[2020.11.02-06.36.12:784][974]LogUObjectGlobals: Force Deleting 17 Package(s):
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_4K_Albedo.ubrqeehhx_4K_Albedo
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_4K_NormalLOD0.ubrqeehhx_4K_NormalLOD0
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_4K_Displacement.ubrqeehhx_4K_Displacement
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Metal_Pipe_Modular_Pack_00_inst.Metal_Pipe_Modular_Pack_00_inst
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_4K_Roughness.ubrqeehhx_4K_Roughness
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Foliage/ubrqeehhx_LOD0_1.ubrqeehhx_LOD0_1
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_1.ubrqeehhx_LOD0_1
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Foliage/ubrqeehhx_LOD0_2.ubrqeehhx_LOD0_2
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_2.ubrqeehhx_LOD0_2
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Foliage/ubrqeehhx_LOD0_3.ubrqeehhx_LOD0_3
+[2020.11.02-06.36.14:146][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.11.02-06.36.14:157][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.11.02-06.36.14:165][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.11.02-06.36.14:173][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.11.02-06.36.14:182][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.11.02-06.36.14:191][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.11.02-06.36.14:199][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.11.02-06.36.14:209][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.11.02-06.36.14:217][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.11.02-06.36.14:227][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.11.02-06.36.14:236][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.11.02-06.36.14:244][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.11.02-06.36.14:253][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.11.02-06.36.14:262][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.11.02-06.36.14:270][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.11.02-06.36.14:279][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.11.02-06.36.14:287][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.11.02-06.36.14:297][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.11.02-06.36.14:306][974]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.11.02-06.36.17:276][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.11.02-06.36.17:386][322]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/RestaurantLevelB5494A4A40CE350A0E4CE3AC85329CD4.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Levels/RestaurantLevel.umap'
+[2020.11.02-06.36.18:132][322]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/RestaurantLevel_BuiltData24B88C614C81ECBD164EDC8FFB4E57A4.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Levels/RestaurantLevel_BuiltData.uasset'
+[2020.11.02-06.36.18:165][322]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.02-06.36.18:165][322]LogContentValidation: Display: Validating World /Game/Levels/RestaurantLevel.RestaurantLevel
+[2020.11.02-06.36.18:165][322]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/RestaurantLevel_BuiltData.RestaurantLevel_BuiltData
+[2020.11.02-06.39.02:950][878]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Megascans\Megascans Library\Downloaded\3d\3d_metal_ubrqeehhx\ubrqeehhx_4K_Albedo.jpg)
+[2020.11.02-06.39.03:346][878]LogTexture: Display: Building textures: ubrqeehhx_4K_Albedo (AutoDXT, 4096X4096)
+[2020.11.02-06.39.07:422][878]LogTexture: Display: Building textures: ubrqeehhx_4K_Albedo (BC7, 4096X4096)
+[2020.11.02-06.39.12:862][878]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Megascans\Megascans Library\Downloaded\3d\3d_metal_ubrqeehhx\ubrqeehhx_4K_Displacement.jpg)
+[2020.11.02-06.39.13:070][878]LogTexture: Display: Building textures: ubrqeehhx_4K_Displacement (AutoDXT, 4096X4096)
+[2020.11.02-06.39.14:134][878]LogTexture: Display: Building textures: ubrqeehhx_4K_Displacement (BC7, 4096X4096)
+[2020.11.02-06.39.19:205][878]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Megascans\Megascans Library\Downloaded\3d\3d_metal_ubrqeehhx\ubrqeehhx_4K_Normal_LOD0.jpg)
+[2020.11.02-06.39.19:950][878]LogTexture: Display: Building textures: ubrqeehhx_4K_NormalLOD0 (BC5, 4096X4096)
+[2020.11.02-06.39.20:826][878]LogTexture: Display: Building textures: ubrqeehhx_4K_NormalLOD0 (BC5, 4096X4096)
+[2020.11.02-06.39.21:709][878]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Megascans\Megascans Library\Downloaded\3d\3d_metal_ubrqeehhx\ubrqeehhx_4K_Roughness.jpg)
+[2020.11.02-06.39.21:933][878]LogTexture: Display: Building textures: ubrqeehhx_4K_Roughness (AutoDXT, 4096X4096)
+[2020.11.02-06.39.23:006][878]LogTexture: Display: Building textures: ubrqeehhx_4K_Roughness (BC7, 4096X4096)
+[2020.11.02-06.39.27:943][878]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Megascans\Megascans Library\Downloaded\3d\3d_metal_ubrqeehhx\ubrqeehhx_LOD0.fbx)
+[2020.11.02-06.39.27:951][878]LogFbx: Loading FBX Scene from D:\Megascans\Megascans Library\Downloaded\3d\3d_metal_ubrqeehhx\ubrqeehhx_LOD0.fbx
+[2020.11.02-06.39.27:967][878]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.02-06.39.27:975][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_00_LOD0...
+[2020.11.02-06.39.28:004][878]LogStaticMesh: Built static mesh [0.03s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_00_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_00_LOD0
+[2020.11.02-06.39.28:017][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_01_LOD0...
+[2020.11.02-06.39.28:035][878]LogStaticMesh: Built static mesh [0.02s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_01_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_01_LOD0
+[2020.11.02-06.39.28:046][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_02_LOD0...
+[2020.11.02-06.39.28:064][878]LogStaticMesh: Built static mesh [0.02s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_02_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_02_LOD0
+[2020.11.02-06.39.28:075][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_03_LOD0...
+[2020.11.02-06.39.28:085][878]LogStaticMesh: Built static mesh [0.01s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_03_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_03_LOD0
+[2020.11.02-06.39.28:095][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_04_LOD0...
+[2020.11.02-06.39.28:113][878]LogStaticMesh: Built static mesh [0.02s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_04_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_04_LOD0
+[2020.11.02-06.39.28:136][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_05_LOD0...
+[2020.11.02-06.39.28:186][878]LogStaticMesh: Built static mesh [0.05s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_05_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_05_LOD0
+[2020.11.02-06.39.28:258][878]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.11.02-06.39.28:564][878]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Megascans\Megascans Library\Downloaded\3d\3d_metal_ubrqeehhx\ubrqeehhx_LOD1.fbx)
+[2020.11.02-06.39.28:572][878]LogFbx: Loading FBX Scene from D:\Megascans\Megascans Library\Downloaded\3d\3d_metal_ubrqeehhx\ubrqeehhx_LOD1.fbx
+[2020.11.02-06.39.28:583][878]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.02-06.39.28:590][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_00_LOD1...
+[2020.11.02-06.39.28:607][878]LogStaticMesh: Built static mesh [0.02s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_00_LOD1.ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_00_LOD1
+[2020.11.02-06.39.28:620][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_01_LOD1...
+[2020.11.02-06.39.28:633][878]LogStaticMesh: Built static mesh [0.01s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_01_LOD1.ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_01_LOD1
+[2020.11.02-06.39.28:643][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_02_LOD1...
+[2020.11.02-06.39.28:656][878]LogStaticMesh: Built static mesh [0.01s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_02_LOD1.ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_02_LOD1
+[2020.11.02-06.39.28:662][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_03_LOD1...
+[2020.11.02-06.39.28:669][878]LogStaticMesh: Built static mesh [0.01s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_03_LOD1.ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_03_LOD1
+[2020.11.02-06.39.28:677][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_04_LOD1...
+[2020.11.02-06.39.28:690][878]LogStaticMesh: Built static mesh [0.01s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_04_LOD1.ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_04_LOD1
+[2020.11.02-06.39.28:703][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_05_LOD1...
+[2020.11.02-06.39.28:734][878]LogStaticMesh: Built static mesh [0.03s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_05_LOD1.ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_05_LOD1
+[2020.11.02-06.39.28:768][878]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.11.02-06.39.28:786][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_00_LOD0...
+[2020.11.02-06.39.28:841][878]LogStaticMesh: Built static mesh [0.06s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_00_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_00_LOD0
+[2020.11.02-06.39.28:904][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_01_LOD0...
+[2020.11.02-06.39.28:961][878]LogStaticMesh: Built static mesh [0.06s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_01_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_01_LOD0
+[2020.11.02-06.39.29:020][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_02_LOD0...
+[2020.11.02-06.39.29:077][878]LogStaticMesh: Built static mesh [0.06s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_02_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_02_LOD0
+[2020.11.02-06.39.29:136][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_03_LOD0...
+[2020.11.02-06.39.29:179][878]LogStaticMesh: Built static mesh [0.04s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_03_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_03_LOD0
+[2020.11.02-06.39.29:234][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_04_LOD0...
+[2020.11.02-06.39.29:285][878]LogStaticMesh: Built static mesh [0.05s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_04_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_04_LOD0
+[2020.11.02-06.39.29:352][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_05_LOD0...
+[2020.11.02-06.39.29:462][878]LogStaticMesh: Built static mesh [0.11s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_05_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_05_LOD0
+[2020.11.02-06.39.29:593][878]LogUObjectGlobals: Force Deleting 6 Package(s):
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_05_LOD1.ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_05_LOD1
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_04_LOD1.ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_04_LOD1
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_03_LOD1.ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_03_LOD1
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_02_LOD1.ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_02_LOD1
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_01_LOD1.ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_01_LOD1
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_00_LOD1.ubrqeehhx_LOD1_Aset_metal__M_ubrqeehhx_00_LOD1
+[2020.11.02-06.39.30:124][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.11.02-06.39.30:203][878]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Megascans\Megascans Library\Downloaded\3d\3d_metal_ubrqeehhx\ubrqeehhx_LOD2.fbx)
+[2020.11.02-06.39.30:211][878]LogFbx: Loading FBX Scene from D:\Megascans\Megascans Library\Downloaded\3d\3d_metal_ubrqeehhx\ubrqeehhx_LOD2.fbx
+[2020.11.02-06.39.30:221][878]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.02-06.39.30:225][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_00_LOD2...
+[2020.11.02-06.39.30:235][878]LogStaticMesh: Built static mesh [0.01s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_00_LOD2.ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_00_LOD2
+[2020.11.02-06.39.30:241][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_01_LOD2...
+[2020.11.02-06.39.30:249][878]LogStaticMesh: Built static mesh [0.01s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_01_LOD2.ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_01_LOD2
+[2020.11.02-06.39.30:254][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_02_LOD2...
+[2020.11.02-06.39.30:262][878]LogStaticMesh: Built static mesh [0.01s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_02_LOD2.ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_02_LOD2
+[2020.11.02-06.39.30:266][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_03_LOD2...
+[2020.11.02-06.39.30:270][878]LogStaticMesh: Built static mesh [0.00s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_03_LOD2.ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_03_LOD2
+[2020.11.02-06.39.30:275][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_04_LOD2...
+[2020.11.02-06.39.30:284][878]LogStaticMesh: Built static mesh [0.01s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_04_LOD2.ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_04_LOD2
+[2020.11.02-06.39.30:293][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_05_LOD2...
+[2020.11.02-06.39.30:310][878]LogStaticMesh: Built static mesh [0.02s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_05_LOD2.ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_05_LOD2
+[2020.11.02-06.39.30:331][878]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.11.02-06.39.30:357][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_00_LOD0...
+[2020.11.02-06.39.30:423][878]LogStaticMesh: Built static mesh [0.07s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_00_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_00_LOD0
+[2020.11.02-06.39.30:485][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_01_LOD0...
+[2020.11.02-06.39.30:566][878]LogStaticMesh: Built static mesh [0.08s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_01_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_01_LOD0
+[2020.11.02-06.39.30:628][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_02_LOD0...
+[2020.11.02-06.39.30:708][878]LogStaticMesh: Built static mesh [0.08s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_02_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_02_LOD0
+[2020.11.02-06.39.30:773][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_03_LOD0...
+[2020.11.02-06.39.30:846][878]LogStaticMesh: Built static mesh [0.07s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_03_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_03_LOD0
+[2020.11.02-06.39.30:901][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_04_LOD0...
+[2020.11.02-06.39.30:981][878]LogStaticMesh: Built static mesh [0.08s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_04_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_04_LOD0
+[2020.11.02-06.39.31:044][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_05_LOD0...
+[2020.11.02-06.39.31:181][878]LogStaticMesh: Built static mesh [0.14s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_05_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_05_LOD0
+[2020.11.02-06.39.31:306][878]LogUObjectGlobals: Force Deleting 6 Package(s):
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_05_LOD2.ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_05_LOD2
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_04_LOD2.ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_04_LOD2
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_03_LOD2.ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_03_LOD2
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_02_LOD2.ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_02_LOD2
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_01_LOD2.ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_01_LOD2
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_00_LOD2.ubrqeehhx_LOD2_Aset_metal__M_ubrqeehhx_00_LOD2
+[2020.11.02-06.39.31:850][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.11.02-06.39.31:910][878]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Megascans\Megascans Library\Downloaded\3d\3d_metal_ubrqeehhx\ubrqeehhx_LOD3.fbx)
+[2020.11.02-06.39.31:927][878]LogFbx: Loading FBX Scene from D:\Megascans\Megascans Library\Downloaded\3d\3d_metal_ubrqeehhx\ubrqeehhx_LOD3.fbx
+[2020.11.02-06.39.31:946][878]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.02-06.39.31:951][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_00_LOD3...
+[2020.11.02-06.39.31:958][878]LogStaticMesh: Built static mesh [0.01s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_00_LOD3.ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_00_LOD3
+[2020.11.02-06.39.31:963][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_01_LOD3...
+[2020.11.02-06.39.31:969][878]LogStaticMesh: Built static mesh [0.01s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_01_LOD3.ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_01_LOD3
+[2020.11.02-06.39.31:973][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_02_LOD3...
+[2020.11.02-06.39.31:979][878]LogStaticMesh: Built static mesh [0.01s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_02_LOD3.ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_02_LOD3
+[2020.11.02-06.39.31:982][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_03_LOD3...
+[2020.11.02-06.39.31:984][878]LogStaticMesh: Built static mesh [0.00s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_03_LOD3.ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_03_LOD3
+[2020.11.02-06.39.31:987][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_04_LOD3...
+[2020.11.02-06.39.31:991][878]LogStaticMesh: Built static mesh [0.00s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_04_LOD3.ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_04_LOD3
+[2020.11.02-06.39.31:996][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_05_LOD3...
+[2020.11.02-06.39.32:005][878]LogStaticMesh: Built static mesh [0.01s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_05_LOD3.ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_05_LOD3
+[2020.11.02-06.39.32:020][878]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.11.02-06.39.32:037][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_00_LOD0...
+[2020.11.02-06.39.32:114][878]LogStaticMesh: Built static mesh [0.08s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_00_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_00_LOD0
+[2020.11.02-06.39.32:178][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_01_LOD0...
+[2020.11.02-06.39.32:268][878]LogStaticMesh: Built static mesh [0.09s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_01_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_01_LOD0
+[2020.11.02-06.39.32:327][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_02_LOD0...
+[2020.11.02-06.39.32:423][878]LogStaticMesh: Built static mesh [0.10s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_02_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_02_LOD0
+[2020.11.02-06.39.32:483][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_03_LOD0...
+[2020.11.02-06.39.32:584][878]LogStaticMesh: Built static mesh [0.10s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_03_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_03_LOD0
+[2020.11.02-06.39.32:640][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_04_LOD0...
+[2020.11.02-06.39.32:739][878]LogStaticMesh: Built static mesh [0.10s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_04_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_04_LOD0
+[2020.11.02-06.39.32:799][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_05_LOD0...
+[2020.11.02-06.39.32:965][878]LogStaticMesh: Built static mesh [0.17s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_05_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_05_LOD0
+[2020.11.02-06.39.33:092][878]LogUObjectGlobals: Force Deleting 6 Package(s):
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_05_LOD3.ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_05_LOD3
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_04_LOD3.ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_04_LOD3
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_03_LOD3.ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_03_LOD3
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_02_LOD3.ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_02_LOD3
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_01_LOD3.ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_01_LOD3
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_00_LOD3.ubrqeehhx_LOD3_Aset_metal__M_ubrqeehhx_00_LOD3
+[2020.11.02-06.39.33:620][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.11.02-06.39.33:669][878]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Megascans\Megascans Library\Downloaded\3d\3d_metal_ubrqeehhx\ubrqeehhx_LOD4.fbx)
+[2020.11.02-06.39.33:676][878]LogFbx: Loading FBX Scene from D:\Megascans\Megascans Library\Downloaded\3d\3d_metal_ubrqeehhx\ubrqeehhx_LOD4.fbx
+[2020.11.02-06.39.33:683][878]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.02-06.39.33:685][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_00_LOD4...
+[2020.11.02-06.39.33:688][878]LogStaticMesh: Built static mesh [0.00s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_00_LOD4.ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_00_LOD4
+[2020.11.02-06.39.33:690][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_01_LOD4...
+[2020.11.02-06.39.33:692][878]LogStaticMesh: Built static mesh [0.00s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_01_LOD4.ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_01_LOD4
+[2020.11.02-06.39.33:695][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_02_LOD4...
+[2020.11.02-06.39.33:697][878]LogStaticMesh: Built static mesh [0.00s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_02_LOD4.ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_02_LOD4
+[2020.11.02-06.39.33:699][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_03_LOD4...
+[2020.11.02-06.39.33:700][878]LogStaticMesh: Built static mesh [0.00s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_03_LOD4.ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_03_LOD4
+[2020.11.02-06.39.33:703][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_04_LOD4...
+[2020.11.02-06.39.33:706][878]LogStaticMesh: Built static mesh [0.00s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_04_LOD4.ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_04_LOD4
+[2020.11.02-06.39.33:711][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_05_LOD4...
+[2020.11.02-06.39.33:718][878]LogStaticMesh: Built static mesh [0.01s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_05_LOD4.ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_05_LOD4
+[2020.11.02-06.39.33:728][878]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.11.02-06.39.33:747][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_00_LOD0...
+[2020.11.02-06.39.33:818][878]LogStaticMesh: Built static mesh [0.07s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_00_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_00_LOD0
+[2020.11.02-06.39.33:883][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_01_LOD0...
+[2020.11.02-06.39.33:985][878]LogStaticMesh: Built static mesh [0.10s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_01_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_01_LOD0
+[2020.11.02-06.39.34:045][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_02_LOD0...
+[2020.11.02-06.39.34:152][878]LogStaticMesh: Built static mesh [0.11s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_02_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_02_LOD0
+[2020.11.02-06.39.34:210][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_03_LOD0...
+[2020.11.02-06.39.34:302][878]LogStaticMesh: Built static mesh [0.09s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_03_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_03_LOD0
+[2020.11.02-06.39.34:358][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_04_LOD0...
+[2020.11.02-06.39.34:466][878]LogStaticMesh: Built static mesh [0.11s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_04_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_04_LOD0
+[2020.11.02-06.39.34:528][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_05_LOD0...
+[2020.11.02-06.39.34:702][878]LogStaticMesh: Built static mesh [0.17s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_05_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_05_LOD0
+[2020.11.02-06.39.34:830][878]LogUObjectGlobals: Force Deleting 6 Package(s):
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_05_LOD4.ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_05_LOD4
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_04_LOD4.ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_04_LOD4
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_03_LOD4.ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_03_LOD4
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_02_LOD4.ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_02_LOD4
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_01_LOD4.ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_01_LOD4
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_00_LOD4.ubrqeehhx_LOD4_Aset_metal__M_ubrqeehhx_00_LOD4
+[2020.11.02-06.39.35:357][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.11.02-06.39.35:409][878]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Megascans\Megascans Library\Downloaded\3d\3d_metal_ubrqeehhx\ubrqeehhx_LOD5.fbx)
+[2020.11.02-06.39.35:416][878]LogFbx: Loading FBX Scene from D:\Megascans\Megascans Library\Downloaded\3d\3d_metal_ubrqeehhx\ubrqeehhx_LOD5.fbx
+[2020.11.02-06.39.35:422][878]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.02-06.39.35:423][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_00_LOD5...
+[2020.11.02-06.39.35:425][878]LogStaticMesh: Built static mesh [0.00s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_00_LOD5.ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_00_LOD5
+[2020.11.02-06.39.35:426][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_01_LOD5...
+[2020.11.02-06.39.35:427][878]LogStaticMesh: Built static mesh [0.00s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_01_LOD5.ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_01_LOD5
+[2020.11.02-06.39.35:430][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_02_LOD5...
+[2020.11.02-06.39.35:431][878]LogStaticMesh: Built static mesh [0.00s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_02_LOD5.ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_02_LOD5
+[2020.11.02-06.39.35:433][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_03_LOD5...
+[2020.11.02-06.39.35:434][878]LogStaticMesh: Built static mesh [0.00s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_03_LOD5.ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_03_LOD5
+[2020.11.02-06.39.35:436][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_04_LOD5...
+[2020.11.02-06.39.35:438][878]LogStaticMesh: Built static mesh [0.00s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_04_LOD5.ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_04_LOD5
+[2020.11.02-06.39.35:442][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_05_LOD5...
+[2020.11.02-06.39.35:446][878]LogStaticMesh: Built static mesh [0.00s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_05_LOD5.ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_05_LOD5
+[2020.11.02-06.39.35:455][878]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.11.02-06.39.35:472][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_00_LOD0...
+[2020.11.02-06.39.35:548][878]LogStaticMesh: Built static mesh [0.08s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_00_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_00_LOD0
+[2020.11.02-06.39.35:612][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_01_LOD0...
+[2020.11.02-06.39.35:728][878]LogStaticMesh: Built static mesh [0.12s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_01_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_01_LOD0
+[2020.11.02-06.39.35:788][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_02_LOD0...
+[2020.11.02-06.39.35:909][878]LogStaticMesh: Built static mesh [0.12s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_02_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_02_LOD0
+[2020.11.02-06.39.35:968][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_03_LOD0...
+[2020.11.02-06.39.36:056][878]LogStaticMesh: Built static mesh [0.09s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_03_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_03_LOD0
+[2020.11.02-06.39.36:114][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_04_LOD0...
+[2020.11.02-06.39.36:263][878]LogStaticMesh: Built static mesh [0.15s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_04_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_04_LOD0
+[2020.11.02-06.39.36:325][878]LogStaticMesh: Building static mesh ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_05_LOD0...
+[2020.11.02-06.39.36:513][878]LogStaticMesh: Built static mesh [0.19s] /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_05_LOD0.ubrqeehhx_LOD0_Aset_metal__M_ubrqeehhx_05_LOD0
+[2020.11.02-06.39.36:639][878]LogUObjectGlobals: Force Deleting 6 Package(s):
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_05_LOD5.ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_05_LOD5
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_04_LOD5.ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_04_LOD5
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_03_LOD5.ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_03_LOD5
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_02_LOD5.ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_02_LOD5
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_01_LOD5.ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_01_LOD5
+	Asset Name: /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Lods/ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_00_LOD5.ubrqeehhx_LOD5_Aset_metal__M_ubrqeehhx_00_LOD5
+[2020.11.02-06.39.37:184][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.11.02-06.39.37:282][878]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_1
+[2020.11.02-06.39.37:381][878]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/ubrqeehhx_LOD0_16B8572AE4321D6E2709CE197C606EAA8.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_1.uasset'
+[2020.11.02-06.39.37:507][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2020.11.02-06.39.37:520][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.11.02-06.39.37:528][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.11.02-06.39.37:664][878]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_2
+[2020.11.02-06.39.37:722][878]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/ubrqeehhx_LOD0_2D6B2596342FF6545A72C24B61903AC86.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_2.uasset'
+[2020.11.02-06.39.37:844][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.11.02-06.39.37:857][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2020.11.02-06.39.37:866][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.11.02-06.39.38:001][878]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_3
+[2020.11.02-06.39.38:071][878]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/ubrqeehhx_LOD0_344152D6E4D60D5F32BE296A75B87B3A3.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_3.uasset'
+[2020.11.02-06.39.38:223][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2020.11.02-06.39.38:237][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2020.11.02-06.39.38:245][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2020.11.02-06.39.38:352][878]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_4
+[2020.11.02-06.39.38:431][878]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/ubrqeehhx_LOD0_428160FFA42F2CEBD52C768A464DEFA10.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_4.uasset'
+[2020.11.02-06.39.38:547][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.11.02-06.39.38:561][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2020.11.02-06.39.38:569][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.11.02-06.39.38:703][878]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_5
+[2020.11.02-06.39.38:762][878]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/ubrqeehhx_LOD0_5BE097D3A490776A3F34B59AFAD6CA199.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_5.uasset'
+[2020.11.02-06.39.38:884][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.11.02-06.39.38:899][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.11.02-06.39.38:907][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2020.11.02-06.39.39:106][878]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_6
+[2020.11.02-06.39.39:188][878]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/ubrqeehhx_LOD0_6B9881C1D474DFF891465999D7A886E0A.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_6.uasset'
+[2020.11.02-06.39.39:313][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.11.02-06.39.39:327][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2020.11.02-06.39.39:336][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2020.11.02-06.39.39:558][879]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.02-06.39.39:558][879]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_1.ubrqeehhx_LOD0_1
+[2020.11.02-06.39.39:558][879]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_2.ubrqeehhx_LOD0_2
+[2020.11.02-06.39.39:558][879]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_3.ubrqeehhx_LOD0_3
+[2020.11.02-06.39.39:558][879]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_4.ubrqeehhx_LOD0_4
+[2020.11.02-06.39.39:558][879]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_5.ubrqeehhx_LOD0_5
+[2020.11.02-06.39.39:558][879]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_6.ubrqeehhx_LOD0_6
+[2020.11.02-06.39.43:828][380]LogSlate: Window 'Message Log' being destroyed
+[2020.11.02-06.39.43:831][380]LogSlate: Window 'Message Log' being destroyed
+[2020.11.02-06.39.45:101][530]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2020.11.02-06.39.46:073][530]LogSlate: Window 'Save Content' being destroyed
+[2020.11.02-06.39.46:108][530]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.11.02-06.39.46:212][530]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/RestaurantLevel50AD68A946B51A03894644AAFEF86D6B.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Levels/RestaurantLevel.umap'
+[2020.11.02-06.39.46:241][530]LogFileHelpers: Saving map 'RestaurantLevel' took 0.143
+[2020.11.02-06.39.46:964][530]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/RestaurantLevel_BuiltDataB0ED9BD7468FACA9FC83CD89F7CD64E3.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Levels/RestaurantLevel_BuiltData.uasset'
+[2020.11.02-06.39.46:985][530]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/ubrqeehhx_LOD0_11970F9904B88F8F9B88ECBB4941E1936.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Foliage/ubrqeehhx_LOD0_1.uasset'
+[2020.11.02-06.39.47:003][530]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/ubrqeehhx_LOD0_2532F841D46D5F2E3547DC8A5AE9C6E22.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Foliage/ubrqeehhx_LOD0_2.uasset'
+[2020.11.02-06.39.47:021][530]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/ubrqeehhx_LOD0_320EF1D394BEFF59D9B8D1B8C7A7D11D7.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Foliage/ubrqeehhx_LOD0_3.uasset'
+[2020.11.02-06.39.47:039][530]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/ubrqeehhx_LOD0_4DBF2A0CD4276ADB2B3EA5CAEC5268965.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Foliage/ubrqeehhx_LOD0_4.uasset'
+[2020.11.02-06.39.47:056][530]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/ubrqeehhx_LOD0_53902D4264E1313B77B352985C6C3F4C3.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Foliage/ubrqeehhx_LOD0_5.uasset'
+[2020.11.02-06.39.47:074][530]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/ubrqeehhx_LOD0_60DD64E3B4EF9B44B44EA6B8961C26892.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Foliage/ubrqeehhx_LOD0_6.uasset'
+[2020.11.02-06.39.47:093][530]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/Metal_Pipe_Modular_Pack_00_inst60005E2D49127046C7C792916A5E353D.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Metal_Pipe_Modular_Pack_00_inst.uasset'
+[2020.11.02-06.39.48:063][530]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/ubrqeehhx_4K_Albedo8546CA2345AC93731FF3128690EDCC27.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_4K_Albedo.uasset'
+[2020.11.02-06.39.48:603][530]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/ubrqeehhx_4K_Displacement31A19BD94EAD23F8CBD6578DCA5D70EC.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_4K_Displacement.uasset'
+[2020.11.02-06.39.50:084][530]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/ubrqeehhx_4K_NormalLOD0C158836348307C2A30EAEF8C5F7988FD.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_4K_NormalLOD0.uasset'
+[2020.11.02-06.39.50:653][530]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/ubrqeehhx_4K_Roughness45D554704095E8FB960B029CE11E7E20.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_4K_Roughness.uasset'
+[2020.11.02-06.39.50:710][530]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/ubrqeehhx_LOD0_190005E574B222869CB856E9F266F4E2D.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_1.uasset'
+[2020.11.02-06.39.50:752][530]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/ubrqeehhx_LOD0_2332379904883943C88FB568F6490B135.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_2.uasset'
+[2020.11.02-06.39.50:793][530]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/ubrqeehhx_LOD0_3F53FECF343F6E6A91A4EEFA50FE0C9AD.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_3.uasset'
+[2020.11.02-06.39.50:863][530]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/ubrqeehhx_LOD0_4A090DFFB45CD14C43E2309B2A079C0C8.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_4.uasset'
+[2020.11.02-06.39.50:906][530]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/ubrqeehhx_LOD0_54EC7A3ED400DE767AFFA9E88A283CA99.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_5.uasset'
+[2020.11.02-06.39.50:971][530]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/ubrqeehhx_LOD0_6805F1F3E4F3C8E8187F9878201F06554.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_6.uasset'
+[2020.11.02-06.39.51:032][530]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.02-06.39.51:032][530]LogContentValidation: Display: Validating World /Game/Levels/RestaurantLevel.RestaurantLevel
+[2020.11.02-06.39.51:032][530]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/RestaurantLevel_BuiltData.RestaurantLevel_BuiltData
+[2020.11.02-06.39.51:032][530]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Foliage/ubrqeehhx_LOD0_1.ubrqeehhx_LOD0_1
+[2020.11.02-06.39.51:032][530]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Foliage/ubrqeehhx_LOD0_2.ubrqeehhx_LOD0_2
+[2020.11.02-06.39.51:032][530]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Foliage/ubrqeehhx_LOD0_3.ubrqeehhx_LOD0_3
+[2020.11.02-06.39.51:032][530]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Foliage/ubrqeehhx_LOD0_4.ubrqeehhx_LOD0_4
+[2020.11.02-06.39.51:032][530]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Foliage/ubrqeehhx_LOD0_5.ubrqeehhx_LOD0_5
+[2020.11.02-06.39.51:032][530]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Foliage/ubrqeehhx_LOD0_6.ubrqeehhx_LOD0_6
+[2020.11.02-06.39.51:032][530]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/Metal_Pipe_Modular_Pack_00_inst.Metal_Pipe_Modular_Pack_00_inst
+[2020.11.02-06.39.51:032][530]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_4K_Albedo.ubrqeehhx_4K_Albedo
+[2020.11.02-06.39.51:032][530]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_4K_Displacement.ubrqeehhx_4K_Displacement
+[2020.11.02-06.39.51:032][530]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_4K_NormalLOD0.ubrqeehhx_4K_NormalLOD0
+[2020.11.02-06.39.51:032][530]LogContentValidation: Display: Validating Texture2D /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_4K_Roughness.ubrqeehhx_4K_Roughness
+[2020.11.02-06.39.51:032][530]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_1.ubrqeehhx_LOD0_1
+[2020.11.02-06.39.51:032][530]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_2.ubrqeehhx_LOD0_2
+[2020.11.02-06.39.51:032][530]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_3.ubrqeehhx_LOD0_3
+[2020.11.02-06.39.51:032][530]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_4.ubrqeehhx_LOD0_4
+[2020.11.02-06.39.51:032][530]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_5.ubrqeehhx_LOD0_5
+[2020.11.02-06.39.51:032][530]LogContentValidation: Display: Validating StaticMesh /Game/Megascans/3D_Assets/Metal_Pipe_Modular_Pack_00/ubrqeehhx_LOD0_6.ubrqeehhx_LOD0_6
+[2020.11.02-06.40.07:782][503]LogActorFactory: Actor Factory created ubrqeehhx_LOD0_1
+[2020.11.02-06.40.08:502][588]LogActorFactory: Actor Factory created ubrqeehhx_LOD0_1
+[2020.11.02-06.40.20:767][ 46]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.02-06.40.30:793][211]LogActorFactory: Actor Factory created ubrqeehhx_LOD0_4
+[2020.11.02-06.40.31:744][319]LogActorFactory: Actor Factory created ubrqeehhx_LOD0_4
+[2020.11.02-06.40.49:145][379]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_1)
+[2020.11.02-06.40.49:932][470]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_4)
+[2020.11.02-06.41.04:384][150]LogActorFactory: Actor Factory created ubrqeehhx_LOD0_2
+[2020.11.02-06.41.05:638][294]LogActorFactory: Actor Factory created ubrqeehhx_LOD0_2
+[2020.11.02-06.41.41:979][606]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_4)
+[2020.11.02-06.42.01:784][920]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_2)
+[2020.11.02-06.42.02:324][981]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.02-06.42.18:417][892]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.02-06.49.45:397][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.11.02-06.49.45:610][ 68]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/RestaurantLevel_Auto285CFBC234BFDC18B82F1D0B6B9DC9814.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/Autosaves/Game/Levels/RestaurantLevel_Auto2.umap'
+[2020.11.02-06.49.45:613][ 68]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/RestaurantLevel' took 0.228
+[2020.11.02-06.49.45:613][ 68]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.228
+[2020.11.02-07.03.33:385][883]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2020.11.02-07.03.33:524][883]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/RestaurantLevel5A149D734F65AD93A1DB248C735A882D.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Levels/RestaurantLevel.umap'
+[2020.11.02-07.03.34:315][883]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/RestaurantLevel_BuiltDataE4C623684C13BD1BAE0C5A80FE297BAB.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Levels/RestaurantLevel_BuiltData.uasset'
+[2020.11.02-07.03.34:354][883]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.02-07.03.34:354][883]LogContentValidation: Display: Validating World /Game/Levels/RestaurantLevel.RestaurantLevel
+[2020.11.02-07.03.34:355][883]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/RestaurantLevel_BuiltData.RestaurantLevel_BuiltData
+[2020.11.02-07.03.36:370][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
