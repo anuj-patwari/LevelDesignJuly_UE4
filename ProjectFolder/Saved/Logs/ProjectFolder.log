@@ -1848,3 +1848,45 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.02-07.03.34:354][883]LogContentValidation: Display: Validating World /Game/Levels/RestaurantLevel.RestaurantLevel
 [2020.11.02-07.03.34:355][883]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/RestaurantLevel_BuiltData.RestaurantLevel_BuiltData
 [2020.11.02-07.03.36:370][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2020.11.02-07.09.27:613][990]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_4)
+[2020.11.02-07.09.43:375][844]Cmd: DELETE
+[2020.11.02-07.09.43:375][844]Cmd: ACTOR DELETE
+[2020.11.02-07.09.43:381][844]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.02-07.09.43:390][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.11.02-07.09.43:408][844]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.11.02-07.09.45:602][100]LogActorFactory: Actor Factory created ubrqeehhx_LOD0_6
+[2020.11.02-07.09.46:430][196]LogActorFactory: Actor Factory created ubrqeehhx_LOD0_6
+[2020.11.02-07.09.52:416][888]LogActorFactory: Actor Factory created ubrqeehhx_LOD0_5
+[2020.11.02-07.09.53:523][  8]LogActorFactory: Actor Factory created ubrqeehhx_LOD0_5
+[2020.11.02-07.10.10:354][992]Cmd: TRANSACTION UNDO
+[2020.11.02-07.10.10:354][992]LogEditorTransaction: Undo Rotate Actors
+[2020.11.02-07.10.22:702][415]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_3)
+[2020.11.02-07.10.23:621][521]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_5)
+[2020.11.02-07.10.41:122][581]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheLevel_KRoom1_SmallWall)
+[2020.11.02-07.10.44:159][933]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_5)
+[2020.11.02-07.10.52:064][870]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheLevel_KRoom1_SmallWall)
+[2020.11.02-07.10.56:139][350]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_6)
+[2020.11.02-07.11.35:238][997]LogActorFactory: Actor Factory created ubrqeehhx_LOD0_4
+[2020.11.02-07.11.36:604][153]LogActorFactory: Actor Factory created ubrqeehhx_LOD0_4
+[2020.11.02-07.11.49:385][670]Cmd: SELECT NONE
+[2020.11.02-07.11.49:930][734]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_7)
+[2020.11.02-07.12.03:039][296]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheLevel_KRoom1_SmallWall)
+[2020.11.02-07.12.07:571][825]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_7)
+[2020.11.02-07.12.10:502][168]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_6)
+[2020.11.02-07.12.15:074][699]LogActorFactory: Actor Factory created ubrqeehhx_LOD0_1
+[2020.11.02-07.12.15:712][766]LogActorFactory: Actor Factory created ubrqeehhx_LOD0_1
+[2020.11.02-07.12.19:984][267]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_8)
+[2020.11.02-07.13.07:386][934]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.11.02-07.13.11:194][384]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheLevel_KRoom1_SmallWall)
+[2020.11.02-07.13.11:853][455]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_9)
+[2020.11.02-07.13.19:676][386]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheLevel_KRoom1_SmallWall)
+[2020.11.02-07.13.23:746][865]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_6)
+[2020.11.02-07.13.39:311][713]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_6)
+[2020.11.02-07.13.44:365][306]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheLevel_KRoom1_SmallWall)
+[2020.11.02-07.13.52:403][256]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ubrqeehhx_LOD0_7)
+[2020.11.02-07.14.38:034][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.11.02-07.14.38:416][143]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/RestaurantLevelB72FCE034C400144B1FF7191A67AB363.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Levels/RestaurantLevel.umap'
+[2020.11.02-07.14.39:200][143]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/RestaurantLevel_BuiltDataA5C619434026DCFAA0001FAC5DD827DB.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Levels/RestaurantLevel_BuiltData.uasset'
+[2020.11.02-07.14.39:234][143]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.02-07.14.39:234][143]LogContentValidation: Display: Validating World /Game/Levels/RestaurantLevel.RestaurantLevel
+[2020.11.02-07.14.39:234][143]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/RestaurantLevel_BuiltData.RestaurantLevel_BuiltData
