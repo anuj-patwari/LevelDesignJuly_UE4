@@ -759,3 +759,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.04-05.06.20:326][452]AssetCheck: New page: Asset Save: multiple assets
 [2020.11.04-05.06.20:326][452]LogContentValidation: Display: Validating World /Game/Levels/RestaurantLevel.RestaurantLevel
 [2020.11.04-05.06.20:326][452]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/RestaurantLevel_BuiltData.RestaurantLevel_BuiltData
+[2020.11.04-05.20.42:487][360]LogD3D12RHI: Display: Temp texture streaming buffer not large enough, needed 16777216 bytes
+[2020.11.04-05.21.33:893][237]Cmd: TRANSACTION UNDO
+[2020.11.04-05.21.33:893][237]LogEditorTransaction: Undo Vertex Paint
+[2020.11.04-05.22.43:975][244]Cmd: TRANSACTION UNDO
+[2020.11.04-05.22.43:975][244]LogEditorTransaction: Undo Vertex Paint
+[2020.11.04-05.22.50:975][836]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2020.11.04-05.22.51:093][836]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/RestaurantLevel13DBDF0E4DD84DE1135B089F5814D9AA.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Levels/RestaurantLevel.umap'
+[2020.11.04-05.22.52:025][836]LogSavePackage: Moving 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Saved/RestaurantLevel_BuiltData1C2EC7F748B3910ED41A0CADAEDC66DC.tmp' to 'E:/Work/Personal Work/Unreal Engine/Projects/Level Design - October 2020/ProjectFolder/Content/Levels/RestaurantLevel_BuiltData.uasset'
+[2020.11.04-05.22.52:058][836]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.04-05.22.52:058][836]LogContentValidation: Display: Validating World /Game/Levels/RestaurantLevel.RestaurantLevel
+[2020.11.04-05.22.52:058][836]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/RestaurantLevel_BuiltData.RestaurantLevel_BuiltData
