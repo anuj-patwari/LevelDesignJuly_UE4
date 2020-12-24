@@ -1056,3 +1056,629 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2020.12.24-17.47.27:612][904]AssetCheck: New page: Asset Save: multiple assets
 [2020.12.24-17.47.27:612][904]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/RestaurantLevel_BuiltData.RestaurantLevel_BuiltData
 [2020.12.24-17.47.27:612][904]LogContentValidation: Display: Validating World /Game/Levels/RestaurantLevel.RestaurantLevel
+[2020.12.24-18.08.52:285][914]MapCheck: New page: Map Check
+[2020.12.24-18.08.52:307][914]LightingResults: New page: Lighting Build - 25-Dec-2020, 5:08:52 am
+[2020.12.24-18.08.52:313][914]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.24-18.08.52:314][914]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.24-18.08.52:314][914]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.24-18.08.52:314][914]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.24-18.08.52:314][914]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.24-18.08.52:314][914]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.24-18.08.52:314][914]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.24-18.08.52:314][914]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.24-18.08.52:375][914]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.12.24-18.08.52:486][914]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.12.24-18.08.52:499][914]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.12.24-18.08.53:013][914]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.12.24-18.08.53:013][914]LogSwarmInterface: [TryOpenConnection] Local Process ID is 23952
+[2020.12.24-18.08.55:584][914]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.12.24-18.08.55:585][914]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.12.24-18.08.55:585][914]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.12.24-18.08.55:585][914]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.12.24-18.08.55:585][914]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.12.24-18.08.55:802][914]LogEditorBuildUtils: Build time 0:03
+[2020.12.24-18.08.55:842][915]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer ROUGH_ASPHALT_2X2_M_ulymaigo_surface_inst_Inst, compiling. 
+[2020.12.24-18.08.55:846][915]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer ROUGH_ASPHALT_2X2_M_ulymaigo_surface_inst_Inst, compiling. 
+[2020.12.24-18.08.55:865][916]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2020.12.24-18.08.55:865][916]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2020.12.24-18.08.55:865][916]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2020.12.24-18.08.55:865][916]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2020.12.24-18.08.56:577][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.12.24-18.09.28:905][746]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.09.30:321][809]LightingResults: Warning: ubrqeehhx_LOD0_1 Object has wrapping UVs.
+[2020.12.24-18.09.40:402][370]LightingResults: Warning: ubrqeehhx_LOD0_2 Object has wrapping UVs.
+[2020.12.24-18.09.42:131][460]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.09.42:634][483]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.09.43:677][539]LightingResults: Warning: TheLevel_KRoom1_Sink Object has overlapping UVs.
+[2020.12.24-18.09.43:677][539]LightingResults: TheLevel_KRoom1_Sink Lightmap UV are overlapping by 46.7%. Please adjust content - Enable Error Coloring to visualize.
+[2020.12.24-18.09.46:798][713]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.09.51:453][966]LightingResults: Warning: ubrqeehhx_LOD0_2 Object has wrapping UVs.
+[2020.12.24-18.09.52:119][999]LightingResults: Warning: ubrqeehhx_LOD0_1 Object has wrapping UVs.
+[2020.12.24-18.09.53:842][ 93]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.09.54:168][111]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.09.54:935][153]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.09.56:929][260]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.10.01:918][527]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.10.04:921][686]LightingResults: Warning: ubrqeehhx_LOD0_2 Object has wrapping UVs.
+[2020.12.24-18.10.07:921][847]LightingResults: Warning: ubrqeehhx_LOD0_1 Object has wrapping UVs.
+[2020.12.24-18.10.09:453][926]LightingResults: Warning: ubrqeehhx_LOD0_1 Object has wrapping UVs.
+[2020.12.24-18.10.11:402][ 25]LightingResults: Warning: ubrqeehhx_LOD0_2 Object has wrapping UVs.
+[2020.12.24-18.10.16:718][308]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.10.17:351][337]LightingResults: Warning: ubrqeehhx_LOD0_1 Object has wrapping UVs.
+[2020.12.24-18.10.19:689][462]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.10.22:231][594]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.10.25:626][612]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.10.27:789][618]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.10.33:164][633]LightingResults: Warning: ubrqeehhx_LOD0_2 Object has wrapping UVs.
+[2020.12.24-18.10.33:167][633]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.10.33:902][635]LightingResults: Warning: ubrqeehhx_LOD0_2 Object has wrapping UVs.
+[2020.12.24-18.10.37:345][645]LightingResults: Warning: ubrqeehhx_LOD0_1 Object has wrapping UVs.
+[2020.12.24-18.10.38:205][647]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.10.42:772][660]LightingResults: Warning: ubrqeehhx_LOD0_1 Object has wrapping UVs.
+[2020.12.24-18.10.45:367][667]LightingResults: Warning: ubrqeehhx_LOD0_2 Object has wrapping UVs.
+[2020.12.24-18.10.46:411][670]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.10.51:864][698]LightingResults: Warning: ubrqeehhx_LOD0_1 Object has wrapping UVs.
+[2020.12.24-18.10.52:007][699]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.10.55:129][706]LightingResults: Warning: ubrqeehhx_LOD0_1 Object has wrapping UVs.
+[2020.12.24-18.10.58:045][714]Job is a success!
+[2020.12.24-18.10.58:532][715]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.022s
+[2020.12.24-18.10.58:532][715]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.12.24-18.10.58:532][715]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb
+[2020.12.24-18.10.58:532][715]LogVolumetricLightmapImport:      Bricks at depth
+[2020.12.24-18.10.58:532][715]LogVolumetricLightmapImport:          0: 2.2% covering 100.0% of volume
+[2020.12.24-18.10.58:533][715]LogVolumetricLightmapImport:          1: 4.4% covering 3.1% of volume
+[2020.12.24-18.10.58:533][715]LogVolumetricLightmapImport:          2: 93.3% covering 1.0% of volume
+[2020.12.24-18.10.58:533][715]LogVolumetricLightmapImport:      Bricks in each level
+[2020.12.24-18.10.58:533][715]LogVolumetricLightmapImport:          RestaurantLevel 			 45 bricks 	 100.0% (Persistent Level)
+[2020.12.24-18.11.05:085][715]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.12.24-18.11.05:085][715]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.12.24-18.11.05:085][715]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2020.12.24-18.11.05:085][715]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2020.12.24-18.11.05:085][715]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2020.12.24-18.11.05:085][715]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2020.12.24-18.11.05:085][715]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2020.12.24-18.11.05:085][715]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2020.12.24-18.11.05:085][715]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 1024X1024)
+[2020.12.24-18.11.05:085][715]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 1024X1024)
+[2020.12.24-18.11.05:085][715]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 1024X1024)
+[2020.12.24-18.11.05:085][715]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 1024X1024)
+[2020.12.24-18.11.05:085][715]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 1024X1024)
+[2020.12.24-18.11.05:085][715]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 1024X1024)
+[2020.12.24-18.11.05:085][715]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 1024X1024)
+[2020.12.24-18.11.05:085][715]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 1024X1024)
+[2020.12.24-18.11.05:085][715]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 1024X1024)
+[2020.12.24-18.11.05:085][715]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 1024X1024)
+[2020.12.24-18.11.05:085][715]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 512X512)
+[2020.12.24-18.11.05:085][715]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 512X512)
+[2020.12.24-18.11.05:085][715]LogTexture: Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 64X64)
+[2020.12.24-18.11.05:086][715]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (DXT1, 64X64)
+[2020.12.24-18.11.05:168][715]Lightmass on ANUJ-ROG: 2:06 min total, 905 ms importing, 823 ms setup, 18.7 sec photons, 1:45 min processing, 0 ms extra exporting [1292/1292 mappings]. Threads: 19:24 min total, 15:31 min processing.
+[2020.12.24-18.11.05:183][715]LogStaticLightingSystem: RestaurantLevel_BuiltData storing lightmap data for 500 meshes in 11 LightmapResourceClusters (45.5 Meshes per cluster).
+[2020.12.24-18.11.05:208][715]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.12.24-18.11.05:247][715]LogStaticLightingSystem: Illumination: 2:12 min (4.73 sec encoding lightmaps, 0 ms encoding shadowmaps)
+[2020.12.24-18.11.05:247][715]LogStaticLightingSystem: Lightmap texture memory:  19.2 MB (19.2 MB streaming, 0.0 MB non-streaming), 22 textures
+[2020.12.24-18.11.05:247][715]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2020.12.24-18.11.05:726][715]DumpUnbuiltLightIteractions
+[2020.12.24-18.11.05:726][715]Lights with unbuilt interactions: 0
+[2020.12.24-18.11.05:726][715]
+[2020.12.24-18.11.05:726][715]Primitives with unbuilt interactions: 0
+[2020.12.24-18.11.05:778][715]LogSlate: Took 0.000337 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.12.24-18.11.05:787][716]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.12.24-18.11.05:787][716]MapCheck: New page: RestaurantLevel - 25-Dec-2020, 5:11:05 am
+[2020.12.24-18.11.05:808][716]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 20.447ms to complete.
+[2020.12.24-18.11.17:767][411]LogSlate: Window 'Message Log' being destroyed
+[2020.12.24-18.11.17:774][411]LogSlate: Window 'Message Log' being destroyed
+[2020.12.24-18.11.21:122][532]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/3D_Models/Level/Props/Sink_2.Sink_2
+[2020.12.24-18.11.21:606][532]LogSlate: The tab "UVGenerationTool" attempted to spawn but failed for some reason. An "unrecognized tab" will be returned instead.
+[2020.12.24-18.11.21:832][533]LogRenderer: Reallocating scene render targets to support 1300x940 Format 10 NumSamples 1 (Frame:1).
+[2020.12.24-18.11.21:832][533]LogStaticMesh: Allocated 128x49x64 distance field atlas = 0.8Mb, with 2 objects containing 0.5Mb backing data
+[2020.12.24-18.11.28:214][913]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.12.24-18.11.28:215][913]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.24-18.11.30:426][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.12.24-18.11.31:736][ 37]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.24-18.11.31:847][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.12.24-18.11.31:864][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.12.24-18.11.31:871][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.12.24-18.12.00:470][540]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheLevel_KRoom1_Floor)
+[2020.12.24-18.12.31:309][387]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheLevel_KRoom1_Wall3)
+[2020.12.24-18.12.36:453][693]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheLevel_KRoom1_Floor)
+[2020.12.24-18.12.40:842][954]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (DebrisBase)
+[2020.12.24-18.12.46:133][269]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheLevel_KRoom1_Wall1)
+[2020.12.24-18.12.47:457][346]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheLevel_KRoom1_Wall2)
+[2020.12.24-18.13.34:184][135]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.24-18.13.34:195][135]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.24-18.13.34:195][135]PIE: New page: PIE session: RestaurantLevel (25-Dec-2020, 5:13:34 am)
+[2020.12.24-18.13.34:196][135]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.12.24-18.13.34:198][135]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.12.24-18.13.34:198][135]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_RestaurantLevel
+[2020.12.24-18.13.34:260][135]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061793s)
+[2020.12.24-18.13.34:262][135]LogAIModule: Creating AISystem for world RestaurantLevel
+[2020.12.24-18.13.34:262][135]LogPlayLevel: PIE: World Init took: (0.002031s)
+[2020.12.24-18.13.34:262][135]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/RestaurantLevel.RestaurantLevel to /Game/Levels/UEDPIE_0_RestaurantLevel.RestaurantLevel (0.064088s)
+[2020.12.24-18.13.34:272][135]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.12.24-18.13.34:278][135]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2020.12.24-18.13.34:278][135]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.24-18.13.34:278][135]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.24-18.13.34:278][135]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.24-18.13.34:278][135]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.24-18.13.34:278][135]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.24-18.13.34:278][135]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.24-18.13.34:278][135]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.24-18.13.34:278][135]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.24-18.13.34:279][135]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.24-18.13.34:279][135]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.24-18.13.34:288][135]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.24-18.13.34:288][135]LogAudioMixer: Display: 1: FrontRight
+[2020.12.24-18.13.34:288][135]LogAudioMixer: Display: 2: FrontCenter
+[2020.12.24-18.13.34:288][135]LogAudioMixer: Display: 3: LowFrequency
+[2020.12.24-18.13.34:288][135]LogAudioMixer: Display: 4: BackLeft
+[2020.12.24-18.13.34:288][135]LogAudioMixer: Display: 5: BackRight
+[2020.12.24-18.13.34:288][135]LogAudioMixer: Display: 6: SideLeft
+[2020.12.24-18.13.34:288][135]LogAudioMixer: Display: 7: SideRight
+[2020.12.24-18.13.34:385][135]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.12.24-18.13.34:385][135]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.24-18.13.34:385][135]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.24-18.13.34:385][135]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.24-18.13.34:385][135]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.24-18.13.34:386][135]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2020.12.24-18.13.34:386][135]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2020.12.24-18.13.34:416][135]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2020.12.24-18.13.34:416][135]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2020.12.24-18.13.34:416][135]LogInit: FAudioDevice initialized.
+[2020.12.24-18.13.34:417][135]LogAudio: Display: Audio Device (ID: 2) registered with world 'RestaurantLevel'.
+[2020.12.24-18.13.34:433][135]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.12.24-18.13.34:439][135]LogWorld: Bringing World /Game/Levels/UEDPIE_0_RestaurantLevel.RestaurantLevel up for play (max tick rate 60) at 2020.12.24-23.43.34
+[2020.12.24-18.13.34:440][135]LogWorld: Bringing up level for play took: 0.006279
+[2020.12.24-18.13.34:440][135]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2020.12.24-18.13.34:444][135]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.12.24-18.13.34:547][135]PIE: Server logged in
+[2020.12.24-18.13.34:550][135]PIE: Play in editor total start time 0.356 seconds.
+[2020.12.24-18.13.38:193][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.24-18.13.38:193][336]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_RestaurantLevel
+[2020.12.24-18.13.38:193][336]LogWorld: UWorld::CleanupWorld for RestaurantLevel, bSessionEnded=true, bCleanupResources=true
+[2020.12.24-18.13.38:195][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.24-18.13.38:208][336]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.24-18.13.38:228][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.24-18.13.38:235][336]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2020.12.24-18.13.38:236][336]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2020.12.24-18.13.38:238][336]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2020.12.24-18.13.38:277][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.24-18.13.38:281][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2020.12.24-18.13.38:318][337]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.12.24-18.13.41:180][507]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.24-18.13.41:189][507]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.24-18.13.41:189][507]PIE: New page: PIE session: RestaurantLevel (25-Dec-2020, 5:13:41 am)
+[2020.12.24-18.13.41:189][507]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_RestaurantLevel
+[2020.12.24-18.13.41:245][507]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055982s)
+[2020.12.24-18.13.41:246][507]LogAIModule: Creating AISystem for world RestaurantLevel
+[2020.12.24-18.13.41:247][507]LogPlayLevel: PIE: World Init took: (0.001395s)
+[2020.12.24-18.13.41:247][507]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/RestaurantLevel.RestaurantLevel to /Game/Levels/UEDPIE_0_RestaurantLevel.RestaurantLevel (0.057574s)
+[2020.12.24-18.13.41:256][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.12.24-18.13.41:257][507]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2020.12.24-18.13.41:257][507]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.24-18.13.41:257][507]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.24-18.13.41:257][507]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.24-18.13.41:257][507]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.24-18.13.41:257][507]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.24-18.13.41:257][507]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.24-18.13.41:257][507]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.24-18.13.41:257][507]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.24-18.13.41:258][507]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.24-18.13.41:258][507]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.24-18.13.41:267][507]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.24-18.13.41:267][507]LogAudioMixer: Display: 1: FrontRight
+[2020.12.24-18.13.41:267][507]LogAudioMixer: Display: 2: FrontCenter
+[2020.12.24-18.13.41:267][507]LogAudioMixer: Display: 3: LowFrequency
+[2020.12.24-18.13.41:267][507]LogAudioMixer: Display: 4: BackLeft
+[2020.12.24-18.13.41:268][507]LogAudioMixer: Display: 5: BackRight
+[2020.12.24-18.13.41:268][507]LogAudioMixer: Display: 6: SideLeft
+[2020.12.24-18.13.41:268][507]LogAudioMixer: Display: 7: SideRight
+[2020.12.24-18.13.41:368][507]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.12.24-18.13.41:368][507]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.24-18.13.41:368][507]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.24-18.13.41:368][507]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.24-18.13.41:368][507]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.24-18.13.41:369][507]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2020.12.24-18.13.41:369][507]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2020.12.24-18.13.41:403][507]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2020.12.24-18.13.41:403][507]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2020.12.24-18.13.41:403][507]LogInit: FAudioDevice initialized.
+[2020.12.24-18.13.41:403][507]LogAudio: Display: Audio Device (ID: 3) registered with world 'RestaurantLevel'.
+[2020.12.24-18.13.41:416][507]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.12.24-18.13.41:423][507]LogWorld: Bringing World /Game/Levels/UEDPIE_0_RestaurantLevel.RestaurantLevel up for play (max tick rate 60) at 2020.12.24-23.43.41
+[2020.12.24-18.13.41:423][507]LogWorld: Bringing up level for play took: 0.006269
+[2020.12.24-18.13.41:424][507]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2020.12.24-18.13.41:447][507]PIE: Server logged in
+[2020.12.24-18.13.41:448][507]PIE: Play in editor total start time 0.261 seconds.
+[2020.12.24-18.14.11:252][293]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.24-18.14.11:253][293]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_RestaurantLevel
+[2020.12.24-18.14.11:253][293]LogWorld: UWorld::CleanupWorld for RestaurantLevel, bSessionEnded=true, bCleanupResources=true
+[2020.12.24-18.14.11:254][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.24-18.14.11:268][293]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.24-18.14.11:287][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.24-18.14.11:295][293]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.24-18.14.11:296][293]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2020.12.24-18.14.11:297][293]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2020.12.24-18.14.11:340][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.12.24-18.14.11:379][294]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.12.24-18.14.16:370][592]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheLevel_KRoom2_Floor)
+[2020.12.24-18.14.24:276][ 63]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheLevel_Kitchen_MainWall)
+[2020.12.24-18.14.27:780][269]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheLevel_KRoom1_Floor)
+[2020.12.24-18.14.33:895][631]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheLevel_KRoom2_Floor)
+[2020.12.24-18.14.38:927][930]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheLevel_KRoom1_Floor)
+[2020.12.24-18.14.44:159][238]MapCheck: New page: Map Check
+[2020.12.24-18.14.44:181][238]LightingResults: New page: Lighting Build - 25-Dec-2020, 5:14:44 am
+[2020.12.24-18.14.44:190][238]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.24-18.14.44:191][238]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.24-18.14.44:192][238]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.24-18.14.44:192][238]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.24-18.14.44:192][238]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.24-18.14.44:192][238]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.24-18.14.44:192][238]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.24-18.14.44:192][238]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.24-18.14.44:223][238]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.12.24-18.14.44:230][238]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.12.24-18.14.44:231][238]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.12.24-18.14.44:232][238]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.12.24-18.14.44:232][238]LogSwarmInterface: [TryOpenConnection] Local Process ID is 23952
+[2020.12.24-18.14.48:915][238]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.12.24-18.14.48:915][238]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.12.24-18.14.48:915][238]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.12.24-18.14.48:915][238]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.12.24-18.14.48:915][238]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.12.24-18.14.49:107][238]LogEditorBuildUtils: Build time 0:04
+[2020.12.24-18.14.49:157][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.12.24-18.15.08:334][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.12.24-18.15.08:717][234]LogSavePackage: Moving '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Saved/RestaurantLevel_Auto1D79C92B641613996EDCEDEA3544A5B96.tmp' to '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Saved/Autosaves/Game/Levels/RestaurantLevel_Auto1.umap'
+[2020.12.24-18.15.08:721][234]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/RestaurantLevel' took 0.396
+[2020.12.24-18.15.08:721][234]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.396
+[2020.12.24-18.15.26:520][177]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.15.29:050][296]LightingResults: Warning: ubrqeehhx_LOD0_1 Object has wrapping UVs.
+[2020.12.24-18.15.34:563][575]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.15.46:161][177]LightingResults: Warning: ubrqeehhx_LOD0_1 Object has wrapping UVs.
+[2020.12.24-18.15.53:387][560]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.15.58:935][848]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.16.01:587][984]LightingResults: Warning: ubrqeehhx_LOD0_2 Object has wrapping UVs.
+[2020.12.24-18.16.03:130][ 60]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.16.03:254][ 62]LightingResults: Warning: ubrqeehhx_LOD0_2 Object has wrapping UVs.
+[2020.12.24-18.16.03:899][ 93]LightingResults: Warning: TheLevel_KRoom1_Sink Object has overlapping UVs.
+[2020.12.24-18.16.03:899][ 93]LightingResults: TheLevel_KRoom1_Sink Lightmap UV are overlapping by 46.7%. Please adjust content - Enable Error Coloring to visualize.
+[2020.12.24-18.16.06:709][241]LightingResults: Warning: ubrqeehhx_LOD0_1 Object has wrapping UVs.
+[2020.12.24-18.16.10:352][427]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.16.12:313][528]LightingResults: Warning: ubrqeehhx_LOD0_1 Object has wrapping UVs.
+[2020.12.24-18.16.15:867][709]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.16.23:911][132]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.16.24:044][134]LightingResults: Warning: ubrqeehhx_LOD0_1 Object has wrapping UVs.
+[2020.12.24-18.16.29:858][436]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.16.32:090][546]LightingResults: Warning: ubrqeehhx_LOD0_2 Object has wrapping UVs.
+[2020.12.24-18.16.37:834][831]LightingResults: Warning: ubrqeehhx_LOD0_2 Object has wrapping UVs.
+[2020.12.24-18.16.38:742][875]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.16.40:073][945]LightingResults: Warning: ubrqeehhx_LOD0_1 Object has wrapping UVs.
+[2020.12.24-18.16.44:049][151]LightingResults: Warning: ubrqeehhx_LOD0_2 Object has wrapping UVs.
+[2020.12.24-18.16.45:050][202]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.16.50:810][471]LightingResults: Warning: ubrqeehhx_LOD0_2 Object has wrapping UVs.
+[2020.12.24-18.16.51:007][473]LightingResults: Warning: ubrqeehhx_LOD0_1 Object has wrapping UVs.
+[2020.12.24-18.16.54:124][626]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.17.05:857][211]LightingResults: Warning: ubrqeehhx_LOD0_1 Object has wrapping UVs.
+[2020.12.24-18.17.07:086][272]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.17.07:278][278]LightingResults: Warning: ubrqeehhx_LOD0_1 Object has wrapping UVs.
+[2020.12.24-18.17.08:295][330]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.17.14:184][638]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.17.15:156][683]LightingResults: Warning: ubrqeehhx_LOD0_2 Object has wrapping UVs.
+[2020.12.24-18.17.22:010][ 43]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.17.28:657][386]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.17.34:393][685]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.17.52:746][654]Job is a success!
+[2020.12.24-18.17.52:962][656]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.036s
+[2020.12.24-18.17.52:962][656]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.12.24-18.17.52:962][656]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb
+[2020.12.24-18.17.52:962][656]LogVolumetricLightmapImport:      Bricks at depth
+[2020.12.24-18.17.52:962][656]LogVolumetricLightmapImport:          0: 2.2% covering 100.0% of volume
+[2020.12.24-18.17.52:962][656]LogVolumetricLightmapImport:          1: 4.4% covering 3.1% of volume
+[2020.12.24-18.17.52:963][656]LogVolumetricLightmapImport:          2: 93.3% covering 1.0% of volume
+[2020.12.24-18.17.52:963][656]LogVolumetricLightmapImport:      Bricks in each level
+[2020.12.24-18.17.52:963][656]LogVolumetricLightmapImport:          RestaurantLevel 			 45 bricks 	 100.0% (Persistent Level)
+[2020.12.24-18.17.59:638][656]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.12.24-18.17.59:638][656]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.12.24-18.17.59:638][656]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2020.12.24-18.17.59:638][656]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2020.12.24-18.17.59:638][656]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2020.12.24-18.17.59:638][656]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2020.12.24-18.17.59:638][656]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 1024X1024)
+[2020.12.24-18.17.59:638][656]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 1024X1024)
+[2020.12.24-18.17.59:638][656]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 1024X1024)
+[2020.12.24-18.17.59:638][656]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 1024X1024)
+[2020.12.24-18.17.59:638][656]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 1024X1024)
+[2020.12.24-18.17.59:638][656]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 1024X1024)
+[2020.12.24-18.17.59:638][656]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 1024X1024)
+[2020.12.24-18.17.59:638][656]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 1024X1024)
+[2020.12.24-18.17.59:638][656]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 1024X1024)
+[2020.12.24-18.17.59:638][656]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 1024X1024)
+[2020.12.24-18.17.59:638][656]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 1024X1024)
+[2020.12.24-18.17.59:638][656]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 1024X1024)
+[2020.12.24-18.17.59:638][656]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 1024X1024)
+[2020.12.24-18.17.59:638][656]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 1024X1024)
+[2020.12.24-18.17.59:639][656]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 64X64)
+[2020.12.24-18.17.59:639][656]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 64X64)
+[2020.12.24-18.17.59:745][656]Lightmass on ANUJ-ROG: 3:09 min total, 947 ms importing, 1.17 sec setup, 27.4 sec photons, 2:39 min processing, 0 ms extra exporting [1292/1292 mappings]. Threads: 29:16 min total, 23:33 min processing.
+[2020.12.24-18.17.59:773][656]LogStaticLightingSystem: RestaurantLevel_BuiltData storing lightmap data for 500 meshes in 11 LightmapResourceClusters (45.5 Meshes per cluster).
+[2020.12.24-18.17.59:814][656]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.12.24-18.17.59:874][656]LogStaticLightingSystem: Illumination: 3:15 min (4.74 sec encoding lightmaps, 0 ms encoding shadowmaps)
+[2020.12.24-18.17.59:874][656]LogStaticLightingSystem: Lightmap texture memory:  20.8 MB (20.8 MB streaming, 0.0 MB non-streaming), 22 textures
+[2020.12.24-18.17.59:874][656]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2020.12.24-18.18.00:073][656]DumpUnbuiltLightIteractions
+[2020.12.24-18.18.00:073][656]Lights with unbuilt interactions: 0
+[2020.12.24-18.18.00:073][656]
+[2020.12.24-18.18.00:073][656]Primitives with unbuilt interactions: 0
+[2020.12.24-18.18.00:165][657]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.12.24-18.18.00:165][657]MapCheck: New page: RestaurantLevel - 25-Dec-2020, 5:18:00 am
+[2020.12.24-18.18.00:166][657]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.436ms to complete.
+[2020.12.24-18.18.04:281][902]LogSlate: Window 'Message Log' being destroyed
+[2020.12.24-18.18.04:290][902]LogSlate: Window 'Message Log' being destroyed
+[2020.12.24-18.18.16:530][630]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheLevel_KRoom2_Floor)
+[2020.12.24-18.18.18:726][759]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheLevel_KRoom1_Floor)
+[2020.12.24-18.18.27:347][270]MapCheck: New page: Map Check
+[2020.12.24-18.18.27:369][270]LightingResults: New page: Lighting Build - 25-Dec-2020, 5:18:27 am
+[2020.12.24-18.18.27:377][270]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.24-18.18.27:378][270]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.24-18.18.27:378][270]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.24-18.18.27:379][270]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.24-18.18.27:379][270]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.24-18.18.27:379][270]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.24-18.18.27:379][270]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.24-18.18.27:379][270]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.24-18.18.27:412][270]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.12.24-18.18.27:415][270]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.12.24-18.18.27:415][270]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.12.24-18.18.27:416][270]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.12.24-18.18.27:416][270]LogSwarmInterface: [TryOpenConnection] Local Process ID is 23952
+[2020.12.24-18.18.32:021][270]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.12.24-18.18.32:021][270]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.12.24-18.18.32:021][270]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.12.24-18.18.32:021][270]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.12.24-18.18.32:021][270]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.12.24-18.18.33:057][270]LogEditorBuildUtils: Build time 0:05
+[2020.12.24-18.18.33:590][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.12.24-18.19.19:856][330]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.19.27:272][343]LightingResults: Warning: ubrqeehhx_LOD0_1 Object has wrapping UVs.
+[2020.12.24-18.19.28:759][346]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.19.34:604][469]LightingResults: Warning: ubrqeehhx_LOD0_1 Object has wrapping UVs.
+[2020.12.24-18.19.40:611][706]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.19.46:421][  2]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.19.50:386][203]LightingResults: Warning: ubrqeehhx_LOD0_2 Object has wrapping UVs.
+[2020.12.24-18.19.50:741][219]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.19.51:091][236]LightingResults: Warning: TheLevel_KRoom1_Sink Object has overlapping UVs.
+[2020.12.24-18.19.51:091][236]LightingResults: TheLevel_KRoom1_Sink Lightmap UV are overlapping by 46.7%. Please adjust content - Enable Error Coloring to visualize.
+[2020.12.24-18.19.51:608][262]LightingResults: Warning: ubrqeehhx_LOD0_2 Object has wrapping UVs.
+[2020.12.24-18.19.53:560][322]LightingResults: Warning: ubrqeehhx_LOD0_1 Object has wrapping UVs.
+[2020.12.24-18.19.56:021][429]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.19.57:483][479]LightingResults: Warning: ubrqeehhx_LOD0_1 Object has wrapping UVs.
+[2020.12.24-18.20.01:157][622]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.20.08:100][971]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.20.08:859][973]LightingResults: Warning: ubrqeehhx_LOD0_1 Object has wrapping UVs.
+[2020.12.24-18.20.12:604][163]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.20.14:705][269]LightingResults: Warning: ubrqeehhx_LOD0_2 Object has wrapping UVs.
+[2020.12.24-18.20.19:497][490]LightingResults: Warning: ubrqeehhx_LOD0_2 Object has wrapping UVs.
+[2020.12.24-18.20.20:790][491]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.20.21:732][538]LightingResults: Warning: ubrqeehhx_LOD0_1 Object has wrapping UVs.
+[2020.12.24-18.20.24:759][677]LightingResults: Warning: ubrqeehhx_LOD0_2 Object has wrapping UVs.
+[2020.12.24-18.20.25:581][715]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.20.29:951][891]LightingResults: Warning: ubrqeehhx_LOD0_2 Object has wrapping UVs.
+[2020.12.24-18.20.30:059][894]LightingResults: Warning: ubrqeehhx_LOD0_1 Object has wrapping UVs.
+[2020.12.24-18.20.32:100][981]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.20.35:919][167]LightingResults: Warning: ubrqeehhx_LOD0_1 Object has wrapping UVs.
+[2020.12.24-18.20.37:079][169]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.20.37:079][169]LightingResults: Warning: ubrqeehhx_LOD0_1 Object has wrapping UVs.
+[2020.12.24-18.20.37:467][188]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.20.43:030][475]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.20.43:789][488]LightingResults: Warning: ubrqeehhx_LOD0_2 Object has wrapping UVs.
+[2020.12.24-18.20.50:430][826]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.20.56:738][151]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.21.02:164][415]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.21.22:909][480]Job is a success!
+[2020.12.24-18.21.23:961][481]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.320s
+[2020.12.24-18.21.23:961][481]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.12.24-18.21.23:961][481]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb
+[2020.12.24-18.21.23:961][481]LogVolumetricLightmapImport:      Bricks at depth
+[2020.12.24-18.21.23:961][481]LogVolumetricLightmapImport:          0: 2.2% covering 100.0% of volume
+[2020.12.24-18.21.23:961][481]LogVolumetricLightmapImport:          1: 4.4% covering 3.1% of volume
+[2020.12.24-18.21.23:961][481]LogVolumetricLightmapImport:          2: 93.3% covering 1.0% of volume
+[2020.12.24-18.21.23:961][481]LogVolumetricLightmapImport:      Bricks in each level
+[2020.12.24-18.21.23:961][481]LogVolumetricLightmapImport:          RestaurantLevel 			 45 bricks 	 100.0% (Persistent Level)
+[2020.12.24-18.21.31:465][481]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.12.24-18.21.31:465][481]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.12.24-18.21.31:465][481]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2020.12.24-18.21.31:465][481]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2020.12.24-18.21.31:465][481]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2020.12.24-18.21.31:465][481]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2020.12.24-18.21.31:465][481]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2020.12.24-18.21.31:465][481]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2020.12.24-18.21.31:465][481]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 1024X1024)
+[2020.12.24-18.21.31:465][481]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 1024X1024)
+[2020.12.24-18.21.31:465][481]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 1024X1024)
+[2020.12.24-18.21.31:465][481]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 1024X1024)
+[2020.12.24-18.21.31:465][481]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 1024X1024)
+[2020.12.24-18.21.31:465][481]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 1024X1024)
+[2020.12.24-18.21.31:466][481]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 1024X1024)
+[2020.12.24-18.21.31:466][481]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 1024X1024)
+[2020.12.24-18.21.31:466][481]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 1024X1024)
+[2020.12.24-18.21.31:466][481]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 1024X1024)
+[2020.12.24-18.21.31:466][481]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 1024X1024)
+[2020.12.24-18.21.31:466][481]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 1024X1024)
+[2020.12.24-18.21.31:466][481]LogTexture: Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 64X64)
+[2020.12.24-18.21.31:466][481]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (DXT1, 64X64)
+[2020.12.24-18.21.31:519][481]Lightmass on ANUJ-ROG: 2:56 min total, 1.66 sec importing, 1.52 sec setup, 32.8 sec photons, 2:20 min processing, 0 ms extra exporting [1292/1292 mappings]. Threads: 25:42 min total, 19:56 min processing.
+[2020.12.24-18.21.31:539][481]LogStaticLightingSystem: RestaurantLevel_BuiltData storing lightmap data for 500 meshes in 11 LightmapResourceClusters (45.5 Meshes per cluster).
+[2020.12.24-18.21.31:581][481]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.12.24-18.21.31:627][481]LogStaticLightingSystem: Illumination: 3:04 min (4.36 sec encoding lightmaps, 0 ms encoding shadowmaps)
+[2020.12.24-18.21.31:627][481]LogStaticLightingSystem: Lightmap texture memory:  20.8 MB (20.8 MB streaming, 0.0 MB non-streaming), 22 textures
+[2020.12.24-18.21.31:627][481]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2020.12.24-18.21.41:723][481]DumpUnbuiltLightIteractions
+[2020.12.24-18.21.41:723][481]Lights with unbuilt interactions: 0
+[2020.12.24-18.21.41:723][481]
+[2020.12.24-18.21.41:723][481]Primitives with unbuilt interactions: 0
+[2020.12.24-18.21.41:808][482]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.12.24-18.21.41:808][482]MapCheck: New page: RestaurantLevel - 25-Dec-2020, 5:21:41 am
+[2020.12.24-18.21.41:809][482]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.85ms to complete.
+[2020.12.24-18.22.04:906][866]LogSlate: Window 'Message Log' being destroyed
+[2020.12.24-18.22.04:913][866]LogSlate: Window 'Message Log' being destroyed
+[2020.12.24-18.22.13:069][355]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheLevel_KRoom1_Floor)
+[2020.12.24-18.22.17:382][612]MapCheck: New page: Map Check
+[2020.12.24-18.22.17:406][612]LightingResults: New page: Lighting Build - 25-Dec-2020, 5:22:17 am
+[2020.12.24-18.22.17:411][612]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.24-18.22.17:412][612]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.24-18.22.17:412][612]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.24-18.22.17:412][612]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.24-18.22.17:412][612]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.24-18.22.17:412][612]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.24-18.22.17:412][612]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.24-18.22.17:413][612]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.12.24-18.22.17:441][612]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.12.24-18.22.17:443][612]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.12.24-18.22.17:443][612]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.12.24-18.22.17:444][612]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.12.24-18.22.17:444][612]LogSwarmInterface: [TryOpenConnection] Local Process ID is 23952
+[2020.12.24-18.22.21:981][612]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.12.24-18.22.21:981][612]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.12.24-18.22.21:981][612]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.12.24-18.22.21:981][612]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.12.24-18.22.21:981][612]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.12.24-18.22.22:178][612]LogEditorBuildUtils: Build time 0:04
+[2020.12.24-18.22.22:222][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.12.24-18.22.59:523][547]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.23.02:999][717]LightingResults: Warning: ubrqeehhx_LOD0_1 Object has wrapping UVs.
+[2020.12.24-18.23.06:502][873]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.23.15:389][324]LightingResults: Warning: ubrqeehhx_LOD0_1 Object has wrapping UVs.
+[2020.12.24-18.23.20:849][580]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.23.25:323][781]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.23.28:506][909]LightingResults: Warning: ubrqeehhx_LOD0_2 Object has wrapping UVs.
+[2020.12.24-18.23.29:339][942]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.23.29:592][944]LightingResults: Warning: ubrqeehhx_LOD0_2 Object has wrapping UVs.
+[2020.12.24-18.23.29:593][944]LightingResults: Warning: TheLevel_KRoom1_Sink Object has overlapping UVs.
+[2020.12.24-18.23.29:593][944]LightingResults: TheLevel_KRoom1_Sink Lightmap UV are overlapping by 46.7%. Please adjust content - Enable Error Coloring to visualize.
+[2020.12.24-18.23.32:097][ 70]LightingResults: Warning: ubrqeehhx_LOD0_1 Object has wrapping UVs.
+[2020.12.24-18.23.35:027][211]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.23.36:462][271]LightingResults: Warning: ubrqeehhx_LOD0_1 Object has wrapping UVs.
+[2020.12.24-18.23.39:449][414]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.23.46:514][742]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.23.47:257][758]LightingResults: Warning: ubrqeehhx_LOD0_1 Object has wrapping UVs.
+[2020.12.24-18.23.50:932][922]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.23.53:504][ 41]LightingResults: Warning: ubrqeehhx_LOD0_2 Object has wrapping UVs.
+[2020.12.24-18.23.57:755][256]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.23.57:777][257]LightingResults: Warning: ubrqeehhx_LOD0_2 Object has wrapping UVs.
+[2020.12.24-18.24.00:233][276]LightingResults: Warning: ubrqeehhx_LOD0_1 Object has wrapping UVs.
+[2020.12.24-18.24.02:991][418]LightingResults: Warning: ubrqeehhx_LOD0_2 Object has wrapping UVs.
+[2020.12.24-18.24.04:257][419]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.24.09:081][664]LightingResults: Warning: ubrqeehhx_LOD0_2 Object has wrapping UVs.
+[2020.12.24-18.24.09:242][666]LightingResults: Warning: ubrqeehhx_LOD0_1 Object has wrapping UVs.
+[2020.12.24-18.24.11:056][758]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.24.15:415][934]LightingResults: Warning: ubrqeehhx_LOD0_1 Object has wrapping UVs.
+[2020.12.24-18.24.16:527][986]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.24.16:873][987]LightingResults: Warning: ubrqeehhx_LOD0_1 Object has wrapping UVs.
+[2020.12.24-18.24.17:665][ 26]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.24.23:311][317]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.24.24:567][380]LightingResults: Warning: ubrqeehhx_LOD0_2 Object has wrapping UVs.
+[2020.12.24-18.24.31:072][715]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.24.37:775][ 50]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.24.43:777][334]LightingResults: Warning: ubrqeehhx_LOD0_4 Object has wrapping UVs.
+[2020.12.24-18.25.01:830][270]Job is a success!
+[2020.12.24-18.25.01:972][271]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.013s
+[2020.12.24-18.25.01:972][271]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.12.24-18.25.01:972][271]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb
+[2020.12.24-18.25.01:972][271]LogVolumetricLightmapImport:      Bricks at depth
+[2020.12.24-18.25.01:972][271]LogVolumetricLightmapImport:          0: 2.2% covering 100.0% of volume
+[2020.12.24-18.25.01:972][271]LogVolumetricLightmapImport:          1: 4.4% covering 3.1% of volume
+[2020.12.24-18.25.01:972][271]LogVolumetricLightmapImport:          2: 93.3% covering 1.0% of volume
+[2020.12.24-18.25.01:972][271]LogVolumetricLightmapImport:      Bricks in each level
+[2020.12.24-18.25.01:972][271]LogVolumetricLightmapImport:          RestaurantLevel 			 45 bricks 	 100.0% (Persistent Level)
+[2020.12.24-18.25.08:176][271]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.12.24-18.25.08:176][271]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.12.24-18.25.08:176][271]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2020.12.24-18.25.08:176][271]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2020.12.24-18.25.08:176][271]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2020.12.24-18.25.08:176][271]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2020.12.24-18.25.08:176][271]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 1024X1024)
+[2020.12.24-18.25.08:176][271]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 1024X1024)
+[2020.12.24-18.25.08:176][271]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 1024X1024)
+[2020.12.24-18.25.08:177][271]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 1024X1024)
+[2020.12.24-18.25.08:177][271]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 1024X1024)
+[2020.12.24-18.25.08:177][271]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 1024X1024)
+[2020.12.24-18.25.08:177][271]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 1024X1024)
+[2020.12.24-18.25.08:177][271]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 1024X1024)
+[2020.12.24-18.25.08:177][271]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 1024X1024)
+[2020.12.24-18.25.08:177][271]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 1024X1024)
+[2020.12.24-18.25.08:177][271]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 1024X1024)
+[2020.12.24-18.25.08:177][271]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 1024X1024)
+[2020.12.24-18.25.08:177][271]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 1024X1024)
+[2020.12.24-18.25.08:177][271]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 1024X1024)
+[2020.12.24-18.25.08:177][271]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 64X64)
+[2020.12.24-18.25.08:177][271]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 64X64)
+[2020.12.24-18.25.08:230][271]Lightmass on ANUJ-ROG: 2:44 min total, 877 ms importing, 1.13 sec setup, 25.8 sec photons, 2:16 min processing, 0 ms extra exporting [1292/1292 mappings]. Threads: 25:06 min total, 20:16 min processing.
+[2020.12.24-18.25.08:248][271]LogStaticLightingSystem: RestaurantLevel_BuiltData storing lightmap data for 500 meshes in 11 LightmapResourceClusters (45.5 Meshes per cluster).
+[2020.12.24-18.25.08:277][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2020.12.24-18.25.08:330][271]LogStaticLightingSystem: Illumination: 2:50 min (4.42 sec encoding lightmaps, 0 ms encoding shadowmaps)
+[2020.12.24-18.25.08:330][271]LogStaticLightingSystem: Lightmap texture memory:  20.8 MB (20.8 MB streaming, 0.0 MB non-streaming), 22 textures
+[2020.12.24-18.25.08:330][271]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2020.12.24-18.25.09:108][271]DumpUnbuiltLightIteractions
+[2020.12.24-18.25.09:108][271]Lights with unbuilt interactions: 0
+[2020.12.24-18.25.09:108][271]
+[2020.12.24-18.25.09:108][271]Primitives with unbuilt interactions: 0
+[2020.12.24-18.25.09:166][272]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.12.24-18.25.09:166][272]MapCheck: New page: RestaurantLevel - 25-Dec-2020, 5:25:09 am
+[2020.12.24-18.25.09:167][272]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.826ms to complete.
+[2020.12.24-18.25.41:846][220]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.12.24-18.25.42:065][220]LogSavePackage: Moving '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Saved/RestaurantLevel_Auto245E04F3E4A56FC349D26C8A638C8A0DB.tmp' to '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Saved/Autosaves/Game/Levels/RestaurantLevel_Auto2.umap'
+[2020.12.24-18.25.42:067][220]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/RestaurantLevel' took 0.229
+[2020.12.24-18.25.42:067][220]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.229
+[2020.12.24-18.35.42:262][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.12.24-18.35.42:267][196]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/RestaurantLevel' took 0.013
+[2020.12.24-18.45.07:593][ 92]LogSlate: Window 'Message Log' being destroyed
+[2020.12.24-18.45.07:604][ 92]LogSlate: Window 'Message Log' being destroyed
+[2020.12.24-18.45.11:456][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.12.24-18.45.11:724][320]LogSavePackage: Moving '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Saved/RestaurantLevelBE62D52A4901E1F0EE39B7838E7936F2.tmp' to '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Levels/RestaurantLevel.umap'
+[2020.12.24-18.45.22:818][320]LogSavePackage: Moving '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Saved/RestaurantLevel_BuiltData7FFE11CB4BE240A5082EE285346D65CA.tmp' to '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Content/Levels/RestaurantLevel_BuiltData.uasset'
+[2020.12.24-18.45.22:904][320]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.24-18.45.22:904][320]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/RestaurantLevel_BuiltData.RestaurantLevel_BuiltData
+[2020.12.24-18.45.22:904][320]LogContentValidation: Display: Validating World /Game/Levels/RestaurantLevel.RestaurantLevel
+[2020.12.24-19.12.27:153][976]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{be35e88e-e645-4f1b-b3c5-0e7e5b51beb6}.
+[2020.12.24-19.12.27:153][976]LogAudioMixer: Resetting audio stream to device id 
+[2020.12.24-19.12.27:221][976]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.24-19.12.27:221][976]LogAudioMixer: Display: 1: FrontRight
+[2020.12.24-19.12.27:821][979]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2020.12.24-19.25.05:158][ 27]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LargeRoom_BrokenWall)
+[2020.12.24-19.47.19:502][810]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ricaS_LOD0_5)
+[2020.12.24-19.47.26:776][242]Cmd: TRANSACTION UNDO
+[2020.12.24-19.47.26:776][242]LogEditorTransaction: Undo Set Actor Visibility
+[2020.12.24-19.47.29:758][399]Cmd: SELECT NONE
+[2020.12.24-19.47.58:476][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.12.24-19.47.58:676][ 99]LogSavePackage: Moving '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Saved/RestaurantLevel_Auto35856A8574379EC129DBAE1A917463B83.tmp' to '../../../../../Work/Unreal Projects/Level Designs/LevelDesignJuly_UE4/ProjectFolder/Saved/Autosaves/Game/Levels/RestaurantLevel_Auto3.umap'
+[2020.12.24-19.47.58:679][ 99]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/RestaurantLevel' took 0.211
+[2020.12.24-19.47.58:679][ 99]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.211
+[2020.12.24-19.49.03:589][447]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LargeRoom_BrokenWall)
+[2020.12.24-19.49.13:852][984]Cmd: SELECT NONE
+[2020.12.24-19.49.15:202][ 65]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LargeRoom_BrokenWall)
+[2020.12.24-19.49.15:799][ 99]Cmd: SELECT NONE
+[2020.12.24-19.49.19:832][341]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LargeRoom_BrokenWall)
+[2020.12.24-19.49.22:314][488]Cmd: SELECT NONE
+[2020.12.24-19.49.32:149][964]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LargeRoom_BrokenWall)
+[2020.12.24-19.51.10:425][269]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LargeRoom_BrokenFloor)
+[2020.12.24-19.51.11:501][329]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LargeRoom_ThreeWalls)
+[2020.12.24-19.51.13:016][418]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LargeRoom_BrokenWall)
+[2020.12.24-19.51.14:564][509]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LargeRoom_ThreeWalls)
+[2020.12.24-19.51.16:646][632]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LargeRoom_BrokenWall)
+[2020.12.24-19.51.38:987][961]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials/BlendMaterials/Section7_WallsBlendMaterial.Section7_WallsBlendMaterial
+[2020.12.24-19.51.39:038][961]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MaterialEditor' in 0.0003 seconds. Added 3 classes and 0 folders.
+[2020.12.24-19.51.39:709][961]LogRenderer: Reallocating scene render targets to support 1300x960 Format 10 NumSamples 1 (Frame:1).
+[2020.12.24-19.52.16:950][994]LogSlate: Window 'Section7_WallsBlendMaterial' being destroyed
+[2020.12.24-19.52.16:966][994]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.12.24-19.52.16:966][994]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.24-19.52.35:899][113]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials/BlendMaterials/Section7_WallsBlendMaterial.Section7_WallsBlendMaterial
+[2020.12.24-19.53.24:387][967]LogSlate: Window 'Section7_WallsBlendMaterial' being destroyed
+[2020.12.24-19.53.24:408][967]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.12.24-19.53.24:408][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.24-19.53.25:430][ 27]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LargeRoom_BrokenFloor)
+[2020.12.24-19.53.36:452][685]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials/BlendMaterials/FloorBlendMaterial.FloorBlendMaterial
+[2020.12.24-19.54.18:473][ 44]LogSlate: Window 'FloorBlendMaterial' being destroyed
+[2020.12.24-19.54.18:493][ 44]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.12.24-19.54.18:493][ 44]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.24-19.57.04:296][251]Cmd: SELECT NONE
