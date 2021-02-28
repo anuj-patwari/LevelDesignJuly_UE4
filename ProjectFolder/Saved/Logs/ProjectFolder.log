@@ -1775,3 +1775,586 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.02.28-14.14.57:913][839]LogModuleManager: Shutting down and abandoning module MeshBuilder (226)
 [2021.02.28-14.14.57:913][839]LogModuleManager: Shutting down and abandoning module MeshUtilities (224)
 [2021.02.28-14.14.57:913][839]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (223)
+[2021.02.28-14.14.57:914][839]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (222)
+[2021.02.28-14.14.57:914][839]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (221)
+[2021.02.28-14.14.57:915][839]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (219)
+[2021.02.28-14.14.57:915][839]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (217)
+[2021.02.28-14.14.57:915][839]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (215)
+[2021.02.28-14.14.57:916][839]LogModuleManager: Shutting down and abandoning module MaterialBaking (211)
+[2021.02.28-14.14.57:916][839]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (206)
+[2021.02.28-14.14.57:916][839]LogModuleManager: Shutting down and abandoning module DerivedDataCache (204)
+[2021.02.28-14.14.57:917][839]LogModuleManager: Shutting down and abandoning module TargetPlatform (202)
+[2021.02.28-14.14.57:918][839]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (201)
+[2021.02.28-14.14.57:919][839]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (199)
+[2021.02.28-14.14.57:920][839]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (197)
+[2021.02.28-14.14.57:921][839]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (195)
+[2021.02.28-14.14.57:923][839]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (193)
+[2021.02.28-14.14.57:923][839]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (191)
+[2021.02.28-14.14.57:923][839]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (189)
+[2021.02.28-14.14.57:923][839]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (187)
+[2021.02.28-14.14.57:923][839]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (185)
+[2021.02.28-14.14.57:923][839]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (183)
+[2021.02.28-14.14.57:924][839]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (181)
+[2021.02.28-14.14.57:924][839]LogModuleManager: Shutting down and abandoning module ImageWrapper (180)
+[2021.02.28-14.14.57:924][839]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (177)
+[2021.02.28-14.14.57:924][839]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (175)
+[2021.02.28-14.14.57:924][839]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (173)
+[2021.02.28-14.14.57:924][839]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (171)
+[2021.02.28-14.14.57:924][839]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (169)
+[2021.02.28-14.14.57:924][839]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (167)
+[2021.02.28-14.14.57:924][839]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (165)
+[2021.02.28-14.14.57:924][839]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (163)
+[2021.02.28-14.14.57:925][839]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (161)
+[2021.02.28-14.14.57:926][839]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (159)
+[2021.02.28-14.14.57:926][839]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (157)
+[2021.02.28-14.14.57:926][839]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (155)
+[2021.02.28-14.14.57:926][839]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (153)
+[2021.02.28-14.14.57:927][839]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (151)
+[2021.02.28-14.14.57:927][839]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (149)
+[2021.02.28-14.14.57:927][839]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (147)
+[2021.02.28-14.14.57:927][839]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (145)
+[2021.02.28-14.14.57:927][839]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (143)
+[2021.02.28-14.14.57:927][839]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (141)
+[2021.02.28-14.14.57:927][839]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (139)
+[2021.02.28-14.14.57:927][839]LogModuleManager: Shutting down and abandoning module Messaging (137)
+[2021.02.28-14.14.57:927][839]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (135)
+[2021.02.28-14.14.57:929][839]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (133)
+[2021.02.28-14.14.57:934][839]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (131)
+[2021.02.28-14.14.57:934][839]LogModuleManager: Shutting down and abandoning module D3D12RHI (128)
+[2021.02.28-14.14.57:934][839]LogModuleManager: Shutting down and abandoning module InputCore (126)
+[2021.02.28-14.14.57:934][839]LogModuleManager: Shutting down and abandoning module Settings (124)
+[2021.02.28-14.14.57:934][839]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (122)
+[2021.02.28-14.14.57:934][839]LogModuleManager: Shutting down and abandoning module PhysXCooking (120)
+[2021.02.28-14.14.57:934][839]LogModuleManager: Shutting down and abandoning module Chaos (118)
+[2021.02.28-14.14.57:936][839]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (116)
+[2021.02.28-14.14.57:936][839]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (115)
+[2021.02.28-14.14.57:936][839]LogModuleManager: Shutting down and abandoning module AVEncoder (114)
+[2021.02.28-14.14.57:937][839]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (110)
+[2021.02.28-14.14.57:937][839]LogModuleManager: Shutting down and abandoning module SteamVRInput (108)
+[2021.02.28-14.14.57:937][839]LogModuleManager: Shutting down and abandoning module SteamVR (106)
+[2021.02.28-14.14.57:937][839]LogHMD: Freeing OpenVRDLLHandle.
+[2021.02.28-14.14.57:937][839]LogModuleManager: Shutting down and abandoning module OculusHMD (104)
+[2021.02.28-14.14.57:937][839]LogModuleManager: Shutting down and abandoning module ChaosCloth (102)
+[2021.02.28-14.14.57:938][839]LogModuleManager: Shutting down and abandoning module HairStrandsCore (100)
+[2021.02.28-14.14.57:938][839]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2021.02.28-14.14.57:938][839]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2021.02.28-14.14.57:939][839]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (94)
+[2021.02.28-14.14.57:939][839]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (90)
+[2021.02.28-14.14.57:941][839]LogModuleManager: Shutting down and abandoning module XMPP (85)
+[2021.02.28-14.14.57:941][839]LogModuleManager: Shutting down and abandoning module WebSockets (84)
+[2021.02.28-14.14.57:958][839]LogModuleManager: Shutting down and abandoning module HTTP (81)
+[2021.02.28-14.14.57:958][839]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2021.02.28-14.14.57:960][839]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2E4FD058-471A-911F-EEB9-FABD1ACB4913%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.1-15228867%2B%2B%2BUE4%2BRelease-4.26&UserID=871548e94080860209612a8d16adc1eb%7Cfd76827fcadf45fe8a123f715f1009ca%7C498a3d62-314f-4b32-a039-ab057761fe37&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2021.02.28-14.14.57:960][839]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2021.02.28-14.14.57:970][839]LogModuleManager: Shutting down and abandoning module SSL (80)
+[2021.02.28-14.14.57:975][839]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2021.02.28-14.14.57:975][839]LogModuleManager: Shutting down and abandoning module WmfMedia (74)
+[2021.02.28-14.14.57:980][839]LogModuleManager: Shutting down and abandoning module Media (73)
+[2021.02.28-14.14.57:982][839]LogModuleManager: Shutting down and abandoning module MediaInfo (72)
+[2021.02.28-14.14.57:982][839]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (68)
+[2021.02.28-14.14.57:983][839]LogModuleManager: Shutting down and abandoning module MLSDK (66)
+[2021.02.28-14.14.57:983][839]LogModuleManager: Shutting down and abandoning module MagicLeap (64)
+[2021.02.28-14.14.57:983][839]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (62)
+[2021.02.28-14.14.57:983][839]LogModuleManager: Shutting down and abandoning module NiagaraShader (60)
+[2021.02.28-14.14.57:983][839]LogModuleManager: Shutting down and abandoning module VariantManagerContent (58)
+[2021.02.28-14.14.57:983][839]LogModuleManager: Shutting down and abandoning module DatasmithContent (56)
+[2021.02.28-14.14.57:984][839]LogModuleManager: Shutting down and abandoning module OpenColorIO (54)
+[2021.02.28-14.14.57:988][839]LogModuleManager: Shutting down and abandoning module AISupportModule (52)
+[2021.02.28-14.14.57:988][839]LogModuleManager: Shutting down and abandoning module DesktopPlatform (50)
+[2021.02.28-14.14.57:988][839]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (48)
+[2021.02.28-14.14.57:989][839]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (46)
+[2021.02.28-14.14.57:989][839]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (44)
+[2021.02.28-14.14.57:989][839]LogModuleManager: Shutting down and abandoning module PlatformCrypto (42)
+[2021.02.28-14.14.57:989][839]LogModuleManager: Shutting down and abandoning module XGEController (40)
+[2021.02.28-14.14.57:989][839]LogXGEController: Cleaning working directory: C:/Users/ANUJ/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.02.28-14.14.57:989][839]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2021.02.28-14.14.57:990][839]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2021.02.28-14.14.57:991][839]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2021.02.28-14.14.57:999][839]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2021.02.28-14.14.58:000][839]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2021.02.28-14.14.58:000][839]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2021.02.28-14.14.58:000][839]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2021.02.28-14.14.58:009][839]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2021.02.28-14.14.58:013][839]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2021.02.28-14.14.58:014][839]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.02.28-14.14.58:015][839]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.02.28-14.14.58:015][839]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.02.28-14.14.58:015][839]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.02.28-14.14.58:015][839]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.02.28-14.14.58:016][839]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.02.28-14.14.58:016][839]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.02.28-14.14.58:017][839]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.02.28-14.14.58:017][839]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.02.28-14.14.58:017][839]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.02.28-14.14.58:018][839]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.02.28-14.14.58:091][839]LogD3D12RHI: Display: D3D12 ReleaseResources: 467 items to release
+[2021.02.28-14.14.58:091][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1601", 1207 x 475 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:104][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1602", 2310364 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2021.02.28-14.14.58:104][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1603", 1207 x 475 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2021.02.28-14.14.58:105][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1240", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:105][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1239", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:105][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1238", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:105][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1237", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:105][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1236", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:105][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1235", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:105][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1234", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:105][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1233", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:106][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1232", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:106][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1231", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:106][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1230", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:106][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1229", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:106][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1228", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:106][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1227", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:107][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1226", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:107][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1225", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:107][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1224", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:108][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1223", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:108][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1222", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:108][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1221", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:108][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1220", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:108][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1219", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:109][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1218", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:109][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1217", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:109][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1216", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:109][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1215", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:109][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1214", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:110][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1213", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:110][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1212", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:110][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1211", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:110][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1210", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:110][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1209", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:111][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1208", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:111][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1207", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:112][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1206", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:112][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1205", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:112][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1204", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:112][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1203", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:113][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1202", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:113][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1201", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:113][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1200", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:115][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1199", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:115][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1198", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:116][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1197", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:116][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1196", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:116][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1195", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:116][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1194", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:117][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1193", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:117][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1192", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:117][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1191", 64 x 64 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:117][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "HZBResultsCPU", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2021.02.28-14.14.58:118][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "HZBResultsCPU", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2021.02.28-14.14.58:118][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "HZBResultsCPU", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2021.02.28-14.14.58:118][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "HZBResultsCPU", 262144 x 1 x 1, Mips: 1, Format: 0x0, Flags: 0x0
+[2021.02.28-14.14.58:118][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer0", 512 x 124 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2021.02.28-14.14.58:118][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer1", 512 x 124 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2021.02.28-14.14.58:118][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "BackBuffer2", 512 x 124 x 1, Mips: 1, Format: 0x18, Flags: 0x1
+[2021.02.28-14.14.58:119][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1248", 2048 x 2048 x 1, Mips: 1, Format: 0x5A, Flags: 0x0
+[2021.02.28-14.14.58:121][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "DaylightAmbientCubemap", 512 x 512 x 6, Mips: 10, Format: 0xA, Flags: 0x0
+[2021.02.28-14.14.58:121][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1903", 4096 x 4096 x 1, Mips: 13, Format: 0x61, Flags: 0x0
+[2021.02.28-14.14.58:121][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1758", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:121][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1759", 4096 x 4096 x 1, Mips: 13, Format: 0x61, Flags: 0x0
+[2021.02.28-14.14.58:121][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1760", 4096 x 4096 x 1, Mips: 13, Format: 0x61, Flags: 0x0
+[2021.02.28-14.14.58:121][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1761", 4096 x 4096 x 1, Mips: 13, Format: 0x61, Flags: 0x0
+[2021.02.28-14.14.58:122][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1597", 2048 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:122][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1561", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:123][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1563", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:123][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1566", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:123][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1564", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:125][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "approaching_storm_4k", 2048 x 2048 x 6, Mips: 1, Format: 0xA, Flags: 0x0
+[2021.02.28-14.14.58:130][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "DefaultBloomKernel", 2048 x 2048 x 1, Mips: 1, Format: 0xA, Flags: 0x0
+[2021.02.28-14.14.58:136][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1762", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:136][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1763", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:162][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1764", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:163][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1765", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:163][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1767", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:163][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1766", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:163][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1768", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:164][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1770", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:164][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1769", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:164][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1771", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:164][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1772", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:164][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1773", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:164][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1774", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:164][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1775", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:165][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1776", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:167][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1777", 4096 x 4096 x 1, Mips: 13, Format: 0x61, Flags: 0x0
+[2021.02.28-14.14.58:172][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1778", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:172][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1779", 4096 x 4096 x 1, Mips: 13, Format: 0x61, Flags: 0x0
+[2021.02.28-14.14.58:175][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1780", 4096 x 4096 x 1, Mips: 13, Format: 0x61, Flags: 0x0
+[2021.02.28-14.14.58:179][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1781", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:180][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1782", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:182][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1784", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:184][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1783", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:186][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1786", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:188][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1787", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:189][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1785", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:193][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1789", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:196][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1788", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:196][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1790", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:197][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1791", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:199][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1792", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:227][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1793", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:227][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1795", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:230][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1794", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:235][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1796", 4096 x 4096 x 1, Mips: 13, Format: 0x61, Flags: 0x0
+[2021.02.28-14.14.58:238][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1800", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:241][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1797", 4096 x 4096 x 1, Mips: 13, Format: 0x61, Flags: 0x0
+[2021.02.28-14.14.58:246][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1798", 4096 x 4096 x 1, Mips: 13, Format: 0x61, Flags: 0x0
+[2021.02.28-14.14.58:249][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1799", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:250][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1801", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:250][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1802", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:251][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1803", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:252][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1804", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:253][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1805", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:254][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1807", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:255][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1808", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:255][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1806", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:258][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1809", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:261][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1810", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:263][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1811", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:266][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1812", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:267][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1813", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:270][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1814", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:274][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1815", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:274][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1816", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:277][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1817", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:278][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1818", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:290][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1819", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:292][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1820", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:293][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1821", 4096 x 4096 x 1, Mips: 13, Format: 0x61, Flags: 0x0
+[2021.02.28-14.14.58:294][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1822", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:297][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1823", 4096 x 4096 x 1, Mips: 13, Format: 0x61, Flags: 0x0
+[2021.02.28-14.14.58:299][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1825", 4096 x 4096 x 1, Mips: 13, Format: 0x61, Flags: 0x0
+[2021.02.28-14.14.58:301][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1824", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:314][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1826", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:339][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1827", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:340][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1828", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:344][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1829", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:345][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1830", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:345][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1831", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:352][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1832", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:352][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1833", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:353][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1834", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:354][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1835", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:354][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1836", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:355][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1837", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:355][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1838", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:356][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1839", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:357][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1840", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:357][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1841", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:358][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1842", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:358][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1843", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:359][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1845", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:359][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1846", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:360][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1844", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:366][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1847", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:367][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1848", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:369][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1849", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:370][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1852", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:371][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1851", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:372][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1921", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:376][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1920", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:377][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1922", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:378][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1923", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:382][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1598", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:382][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1599", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:383][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1596", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:384][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1595", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:385][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1594", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:390][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1593", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:391][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1592", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:395][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1591", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:397][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1590", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:398][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1589", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:399][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1588", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:402][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1587", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:404][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1586", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:405][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1585", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:406][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1583", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:409][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1582", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:412][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1581", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:417][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1924", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:419][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1926", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:420][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1925", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:421][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "ujzpdbcl_8K_Opacity", 8192 x 8192 x 1, Mips: 1, Format: 0x61, Flags: 0x0
+[2021.02.28-14.14.58:423][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1938", 8192 x 8192 x 1, Mips: 14, Format: 0x61, Flags: 0x0
+[2021.02.28-14.14.58:429][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1579", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:429][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1577", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:430][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1578", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:432][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1927", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:432][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1574", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:433][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1660", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:437][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1662", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:438][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1661", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:449][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1573", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:450][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1572", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:450][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1928", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:450][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1571", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:451][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1933", 4096 x 4096 x 1, Mips: 13, Format: 0x61, Flags: 0x0
+[2021.02.28-14.14.58:465][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1934", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:468][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1935", 4096 x 4096 x 1, Mips: 13, Format: 0x61, Flags: 0x0
+[2021.02.28-14.14.58:468][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1932", 4096 x 4096 x 1, Mips: 13, Format: 0x61, Flags: 0x0
+[2021.02.28-14.14.58:468][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1466", 4096 x 4096 x 1, Mips: 13, Format: 0x61, Flags: 0x0
+[2021.02.28-14.14.58:469][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1457", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:470][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1449", 4096 x 4096 x 1, Mips: 13, Format: 0x61, Flags: 0x0
+[2021.02.28-14.14.58:472][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1483", 4096 x 4096 x 1, Mips: 13, Format: 0x61, Flags: 0x0
+[2021.02.28-14.14.58:478][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1500", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:480][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1514", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:482][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1501", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:483][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1523", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:483][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1929", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:485][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1931", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:489][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1930", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:489][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1954", 4096 x 4096 x 1, Mips: 13, Format: 0x61, Flags: 0x0
+[2021.02.28-14.14.58:494][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1953", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:497][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1955", 4096 x 4096 x 1, Mips: 13, Format: 0x61, Flags: 0x0
+[2021.02.28-14.14.58:500][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1956", 4096 x 4096 x 1, Mips: 13, Format: 0x61, Flags: 0x0
+[2021.02.28-14.14.58:501][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1918", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:502][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1919", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:505][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1917", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:505][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1950", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:512][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1951", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:513][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1952", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:514][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1949", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:514][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1549", 4096 x 4096 x 1, Mips: 13, Format: 0x61, Flags: 0x0
+[2021.02.28-14.14.58:515][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1548", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:518][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1546", 4096 x 4096 x 1, Mips: 13, Format: 0x61, Flags: 0x0
+[2021.02.28-14.14.58:518][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1551", 4096 x 4096 x 1, Mips: 13, Format: 0x61, Flags: 0x0
+[2021.02.28-14.14.58:519][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1558", 4096 x 2048 x 1, Mips: 13, Format: 0x61, Flags: 0x0
+[2021.02.28-14.14.58:520][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1559", 4096 x 2048 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:520][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1522", 4096 x 2048 x 1, Mips: 13, Format: 0x61, Flags: 0x0
+[2021.02.28-14.14.58:521][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1562", 4096 x 2048 x 1, Mips: 13, Format: 0x61, Flags: 0x0
+[2021.02.28-14.14.58:522][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1555", 4096 x 4096 x 1, Mips: 13, Format: 0x61, Flags: 0x0
+[2021.02.28-14.14.58:523][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1554", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:524][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1552", 4096 x 4096 x 1, Mips: 13, Format: 0x61, Flags: 0x0
+[2021.02.28-14.14.58:524][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1557", 4096 x 4096 x 1, Mips: 13, Format: 0x61, Flags: 0x0
+[2021.02.28-14.14.58:525][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1937", 4096 x 4096 x 1, Mips: 13, Format: 0x61, Flags: 0x0
+[2021.02.28-14.14.58:527][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1939", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:528][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1940", 4096 x 4096 x 1, Mips: 13, Format: 0x61, Flags: 0x0
+[2021.02.28-14.14.58:531][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1936", 4096 x 4096 x 1, Mips: 13, Format: 0x61, Flags: 0x0
+[2021.02.28-14.14.58:531][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1946", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:532][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1947", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:533][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1948", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:533][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1944", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:534][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1942", 4096 x 4096 x 1, Mips: 13, Format: 0x61, Flags: 0x0
+[2021.02.28-14.14.58:535][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1943", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:536][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1945", 4096 x 4096 x 1, Mips: 13, Format: 0x61, Flags: 0x0
+[2021.02.28-14.14.58:537][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1941", 4096 x 4096 x 1, Mips: 13, Format: 0x61, Flags: 0x0
+[2021.02.28-14.14.58:551][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1957", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:551][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1958", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:552][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1959", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:552][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1961", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:553][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2064", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:553][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2065", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:553][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2068", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:554][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2066", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:554][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2067", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:554][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2069", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:555][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2070", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:555][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2071", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:557][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2072", 4096 x 4096 x 1, Mips: 13, Format: 0x61, Flags: 0x0
+[2021.02.28-14.14.58:558][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2073", 4096 x 4096 x 1, Mips: 13, Format: 0x61, Flags: 0x0
+[2021.02.28-14.14.58:559][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "uchkajuia_4K_Opacity", 4096 x 4096 x 1, Mips: 1, Format: 0x61, Flags: 0x0
+[2021.02.28-14.14.58:560][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2076", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:561][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2074", 4096 x 4096 x 1, Mips: 13, Format: 0x61, Flags: 0x0
+[2021.02.28-14.14.58:563][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2075", 4096 x 4096 x 1, Mips: 13, Format: 0x61, Flags: 0x0
+[2021.02.28-14.14.58:566][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2077", 4096 x 4096 x 1, Mips: 13, Format: 0x61, Flags: 0x0
+[2021.02.28-14.14.58:567][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "Billboard_4K_Opacity", 4096 x 4096 x 1, Mips: 1, Format: 0x61, Flags: 0x0
+[2021.02.28-14.14.58:571][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2078", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:574][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2080", 4096 x 4096 x 1, Mips: 13, Format: 0x61, Flags: 0x0
+[2021.02.28-14.14.58:577][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2079", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:579][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2081", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:585][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2084", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:586][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2082", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:587][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2083", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:587][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2085", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:597][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2086", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:598][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2087", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:599][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2088", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:599][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2090", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:600][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2089", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:603][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2091", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:604][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2092", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:608][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2093", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:609][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2094", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:611][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2095", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:615][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2096", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:619][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2097", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:619][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2098", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:621][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2099", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:622][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2100", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:629][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2101", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:629][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2102", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:631][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2103", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:632][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2104", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:637][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2105", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:638][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2109", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:641][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2106", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:642][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2107", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:643][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2108", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:643][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2110", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:644][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2111", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:644][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2112", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:645][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2113", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:645][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2114", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:648][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2115", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:648][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2116", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:649][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2117", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:650][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2118", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:650][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2119", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:651][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2120", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:652][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2121", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:653][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2122", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:655][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2123", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:656][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2124", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:656][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2125", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:657][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2126", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:658][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2127", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:658][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2128", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:661][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2129", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:661][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2131", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:662][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2130", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:663][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2132", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:663][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2133", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:664][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2134", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:665][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2135", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:665][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2136", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:668][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2137", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:669][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2138", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:670][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2139", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:671][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2140", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:672][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2141", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:672][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2142", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:674][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2143", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:676][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1722", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:676][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1723", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:677][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1727", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:678][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1725", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:678][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1724", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:679][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1726", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:679][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1728", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:680][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1729", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:680][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1730", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:681][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1731", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:682][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1733", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:683][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1732", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:684][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1734", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:685][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1735", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:686][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1737", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:688][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1736", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:688][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1738", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:692][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1739", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:693][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1740", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:694][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1741", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:694][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1743", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:697][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1742", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:700][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1744", 4096 x 4096 x 1, Mips: 13, Format: 0x61, Flags: 0x0
+[2021.02.28-14.14.58:704][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1748", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:708][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1746", 4096 x 4096 x 1, Mips: 13, Format: 0x61, Flags: 0x0
+[2021.02.28-14.14.58:711][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1749", 4096 x 4096 x 1, Mips: 13, Format: 0x61, Flags: 0x0
+[2021.02.28-14.14.58:716][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1569", 4096 x 4096 x 1, Mips: 13, Format: 0x61, Flags: 0x0
+[2021.02.28-14.14.58:718][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1568", 4096 x 4096 x 1, Mips: 13, Format: 0x61, Flags: 0x0
+[2021.02.28-14.14.58:720][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1567", 4096 x 4096 x 1, Mips: 13, Format: 0x61, Flags: 0x0
+[2021.02.28-14.14.58:726][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1750", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:728][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1751", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:729][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1752", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:729][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1753", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:730][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1755", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:735][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1754", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:735][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1756", 4096 x 4096 x 1, Mips: 13, Format: 0x50, Flags: 0x0
+[2021.02.28-14.14.58:739][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1757", 4096 x 4096 x 1, Mips: 13, Format: 0x53, Flags: 0x0
+[2021.02.28-14.14.58:742][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1882", 4096 x 4096 x 1, Mips: 13, Format: 0x46, Flags: 0x0
+[2021.02.28-14.14.58:745][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 16 x 16 x 16, Mips: 1, Format: 0x1E, Flags: 0x4
+[2021.02.28-14.14.58:745][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:746][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleAttributes", 1024 x 1024 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:746][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2021.02.28-14.14.58:746][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2021.02.28-14.14.58:749][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStateVelocity", 1024 x 1024 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2021.02.28-14.14.58:750][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleStatePosition", 1024 x 1024 x 1, Mips: 1, Format: 0x2, Flags: 0x1
+[2021.02.28-14.14.58:754][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1657", 187 x 72 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:755][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1654", 187 x 72 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:755][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1648", 187 x 72 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:755][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1651", 187 x 72 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:756][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1645", 187 x 72 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:756][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1636", 187 x 72 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:756][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1639", 187 x 72 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:756][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1642", 187 x 72 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:757][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1630", 187 x 72 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:757][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1627", 187 x 72 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:757][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1633", 187 x 72 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:757][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1618", 187 x 72 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:757][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1621", 187 x 72 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:758][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1624", 187 x 72 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:758][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1609", 187 x 72 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:758][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1612", 187 x 72 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:759][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1615", 187 x 72 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:759][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1606", 187 x 72 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:759][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "StencilDummy", 1 x 1 x 1, Mips: 1, Format: 0x1E, Flags: 0x1
+[2021.02.28-14.14.58:759][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "MidGreyDummy", 1 x 1 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2021.02.28-14.14.58:760][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "ZeroUIntDummy", 1 x 1 x 1, Mips: 1, Format: 0x2A, Flags: 0x1
+[2021.02.28-14.14.58:760][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricBlackDummy", 1 x 1 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:760][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "DefaultNormal8Bit", 1 x 1 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:760][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "GreenDummy", 1 x 1 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:760][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "MaxFP16Depth", 1 x 1 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2021.02.28-14.14.58:760][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "HairCoverageLUT", 64 x 64 x 1, Mips: 1, Format: 0x29, Flags: 0x4
+[2021.02.28-14.14.58:761][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "HairLUT", 64 x 64 x 16, Mips: 1, Format: 0xA, Flags: 0x4
+[2021.02.28-14.14.58:761][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "HairLUT", 64 x 64 x 16, Mips: 1, Format: 0xA, Flags: 0x4
+[2021.02.28-14.14.58:761][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "BlackAlphaOneDummy", 1 x 1 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:761][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "TranslucentVolumeDir2", 64 x 64 x 64, Mips: 1, Format: 0xA, Flags: 0x5
+[2021.02.28-14.14.58:762][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "TranslucentVolume2", 64 x 64 x 64, Mips: 1, Format: 0xA, Flags: 0x5
+[2021.02.28-14.14.58:762][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "TranslucentVolumeDir1", 64 x 64 x 64, Mips: 1, Format: 0xA, Flags: 0x5
+[2021.02.28-14.14.58:763][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "TranslucentVolume1", 64 x 64 x 64, Mips: 1, Format: 0xA, Flags: 0x5
+[2021.02.28-14.14.58:763][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "TranslucentVolumeDir0", 64 x 64 x 64, Mips: 1, Format: 0xA, Flags: 0x5
+[2021.02.28-14.14.58:765][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "TranslucentVolume0", 64 x 64 x 64, Mips: 1, Format: 0xA, Flags: 0x5
+[2021.02.28-14.14.58:765][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "LightAccumulation", 3840 x 2160 x 1, Mips: 1, Format: 0xA, Flags: 0x5
+[2021.02.28-14.14.58:767][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "QuadOverdrawBuffer", 3840 x 1080 x 1, Mips: 1, Format: 0x2A, Flags: 0x5
+[2021.02.28-14.14.58:768][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "ScreenSpaceAO", 3840 x 2160 x 1, Mips: 1, Format: 0x3D, Flags: 0x5
+[2021.02.28-14.14.58:768][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "SmallDepthZ", 1920 x 1080 x 1, Mips: 1, Format: 0x13, Flags: 0x2
+[2021.02.28-14.14.58:769][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "SmallDepthZ", 1920 x 1080 x 1, Mips: 1, Format: 0x13, Flags: 0x2
+[2021.02.28-14.14.58:771][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "DBufferB", 3840 x 2160 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:774][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "DBufferA", 3840 x 2160 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:778][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "HZBFurthest", 1024 x 256 x 1, Mips: 10, Format: 0x36, Flags: 0x4
+[2021.02.28-14.14.58:779][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "View.SkyAtmosphereViewLutTexture", 192 x 104 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2021.02.28-14.14.58:779][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "LightScattering", 302 x 119 x 128, Mips: 1, Format: 0xA, Flags: 0x5
+[2021.02.28-14.14.58:781][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "LightScattering", 302 x 119 x 128, Mips: 1, Format: 0xA, Flags: 0x5
+[2021.02.28-14.14.58:784][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "AmbientOcclusion", 1920 x 1080 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:784][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "LightShaftTemporalAA", 1920 x 1080 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2021.02.28-14.14.58:785][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "ScreenSpaceReflections", 3840 x 2160 x 1, Mips: 1, Format: 0xA, Flags: 0x5
+[2021.02.28-14.14.58:788][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "LightShaftOcclusion", 1920 x 1080 x 1, Mips: 1, Format: 0x1A, Flags: 0x1
+[2021.02.28-14.14.58:789][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "CombineLUTs", 32 x 32 x 32, Mips: 1, Format: 0x18, Flags: 0x1
+[2021.02.28-14.14.58:791][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "EyeAdaptation", 1 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x5
+[2021.02.28-14.14.58:791][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "SeparateTranslucencyColor", 3840 x 2160 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2021.02.28-14.14.58:792][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "EyeAdaptation", 1 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x5
+[2021.02.28-14.14.58:793][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistortedSceneColor", 3840 x 2160 x 1, Mips: 1, Format: 0xA, Flags: 0x5
+[2021.02.28-14.14.58:795][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "SceneColor", 3840 x 2160 x 1, Mips: 1, Format: 0xA, Flags: 0x1
+[2021.02.28-14.14.58:797][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "TemporalAA", 3840 x 2160 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2021.02.28-14.14.58:798][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "VelocityFlat", 1 x 1 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2021.02.28-14.14.58:798][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "VelocityTile", 76 x 30 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2021.02.28-14.14.58:799][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "DilatedVelocityTile", 76 x 30 x 1, Mips: 1, Format: 0xA, Flags: 0x4
+[2021.02.28-14.14.58:799][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "MotionBlur", 3840 x 2160 x 1, Mips: 1, Format: 0x1A, Flags: 0x1
+[2021.02.28-14.14.58:804][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "DistantSkyLightLutTexture", 1 x 1 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2021.02.28-14.14.58:804][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "MultiScatteredLuminanceLutTexture", 32 x 32 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2021.02.28-14.14.58:805][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "TransmittanceLutTexture", 256 x 64 x 1, Mips: 1, Format: 0x1A, Flags: 0x4
+[2021.02.28-14.14.58:805][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "EyeAdaptation", 1 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x5
+[2021.02.28-14.14.58:805][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "BloomX", 480 x 270 x 1, Mips: 1, Format: 0x1A, Flags: 0x1
+[2021.02.28-14.14.58:805][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "BloomX", 960 x 540 x 1, Mips: 1, Format: 0x1A, Flags: 0x1
+[2021.02.28-14.14.58:806][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "BloomX", 1920 x 1080 x 1, Mips: 1, Format: 0x1A, Flags: 0x1
+[2021.02.28-14.14.58:806][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "DBufferC", 3840 x 2160 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:808][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "VBufferB", 302 x 119 x 128, Mips: 1, Format: 0xA, Flags: 0x5
+[2021.02.28-14.14.58:808][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "View.SkyAtmosphereCameraAerialPerspectiveVolume", 32 x 32 x 32, Mips: 1, Format: 0xA, Flags: 0x4
+[2021.02.28-14.14.58:809][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName2", 36 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2021.02.28-14.14.58:809][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "D3D12RHIObjectUniqueName1", 36 x 1 x 1, Mips: 1, Format: 0x2, Flags: 0x4
+[2021.02.28-14.14.58:810][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "ParticleCurveTexture", 512 x 512 x 1, Mips: 1, Format: 0x5A, Flags: 0x1
+[2021.02.28-14.14.58:810][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "ColoredTexture", 1 x 1 x 1, Mips: 1, Format: 0x1B, Flags: 0x4
+[2021.02.28-14.14.58:811][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 225 x 5 x 5, Mips: 1, Format: 0x3D, Flags: 0x4
+[2021.02.28-14.14.58:811][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 225 x 5 x 5, Mips: 1, Format: 0x1B, Flags: 0x4
+[2021.02.28-14.14.58:811][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 225 x 5 x 5, Mips: 1, Format: 0x1B, Flags: 0x4
+[2021.02.28-14.14.58:811][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 225 x 5 x 5, Mips: 1, Format: 0x1B, Flags: 0x4
+[2021.02.28-14.14.58:811][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 225 x 5 x 5, Mips: 1, Format: 0x1B, Flags: 0x4
+[2021.02.28-14.14.58:812][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 225 x 5 x 5, Mips: 1, Format: 0x1B, Flags: 0x4
+[2021.02.28-14.14.58:812][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 225 x 5 x 5, Mips: 1, Format: 0x1B, Flags: 0x4
+[2021.02.28-14.14.58:813][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 225 x 5 x 5, Mips: 1, Format: 0x1A, Flags: 0x4
+[2021.02.28-14.14.58:813][839]LogD3D12RHI: Display: D3D12 ReleaseResources: "VolumetricLightmap", 16 x 16 x 16, Mips: 1, Format: 0x1E, Flags: 0x4
+[2021.02.28-14.15.00:944][839]LogD3D12RHI: ~FD3D12DynamicRHI
+[2021.02.28-14.15.01:721][839]LogExit: Exiting.
+[2021.02.28-14.15.01:799][839]Log file closed, 02/28/21 19:45:01
